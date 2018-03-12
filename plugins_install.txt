@@ -1,0 +1,121 @@
+﻿All Process Hacker files must be placed in to tree according in to this list
+(otherwise their location is not allowed and will result in errors when the
+program starts (plugin search path is fixed, any subdirectories are ignored)):
+
+%LOCALAPPDATA%/Process Hacker/GeoLite2-Country.mmdb - installed as external
+     file (location in some dir then Setup) or download use Network Tools v1.80
+     (for Process Hacker v3.0.0.268 or newer) plug-in.
+./ --- program root folder, use any location
+./kprocesshacker.sys
+./peview.exe
+./ProcessHacker.exe
+./x86/ProcessHacker.exe - only for x64 edition copy to this folder x86 EXE
+./CHANGELOG.txt
+./COPYRIGHT.txt
+./LICENSE.txt
+./README.md
+./x86/Plugins/DotNetTools.dll - only for x64 edition copy to this folder x86 DLL
+./plugins/plugindata/kprocesshacker2_x32.sys - only for x86 OS, required for
+                                               TerminatorPlugin
+./plugins/plugindata/kprocesshacker2_x64.sys - only for x64 OS, required for
+                                               TerminatorPlugin
+./plugins/ - all plug-ins can located here (*.dll)
+./plugins/AtomTablePlugin.dll
+./plugins/AvgCpuPlugin.dll
+./plugins/DbgViewPlugin.dll
+./plugins/DnsCachePlugin.dll
+./plugins/DotNetTools.dll
+./plugins/ExtendedNotifications.dll
+./plugins/ExtendedServices.dll
+./plugins/ExtendedTools.dll
+./plugins/FirewallMonitorPlugin.dll - only for Windows 7 - 8.1
+./plugins/FirmwarePlugin.dll
+./plugins/ForceShutdownPlugin.dll
+./plugins/HardwareDevices.dll
+./plugins/HexPidPlugin.dll
+./plugins/NetExtrasPlugin.dll - companion for NetworkTools v1.0 - v1.7 only
+./plugins/NetworkTools.dll
+./plugins/NvGpuPlugin.dll
+./plugins/ObjectManagerPlugin.dll
+./plugins/OnlineChecks.dll
+./plugins/PerfMonPlugin.dll
+./plugins/PoolMonPlugin.dll
+./plugins/LiveDumpPlugin.dll - only for Windows 10
+./plugins/MemoryExtPlugin.dll - only for Windows 10
+./plugins/ProductPolicyPlugin.dll
+./plugins/ROTViewerPlugin.dll
+./plugins/SbieSupport.dll
+./plugins/SecurityExplorer.dll - only for Windows 7 - 8.1
+./plugins/ServiceBackupRestorePlugin.dll
+./plugins/SetCriticalPlugin.dll
+./plugins/TaskbarExtPlugin.dll
+./plugins/TerminatorPlugin.dll - require SeDebugPrivilege
+./plugins/ToolStatus.dll
+./plugins/TrustedInstallerPlugin.dll
+./plugins/Updater.dll
+./plugins/UserNotes.dll
+./plugins/WaitChainPlugin.dll
+./plugins/WindowExplorer.dll
+
+Deleted plug-ins:
+
+ BootEntriesPlugin.dll - then replaced FirmwarePlugin.dll
+ CommonUtil.dll - deleted in to v3.0.5411.884
+ ExtraPlugins.dll    - deleted in to v3.0.5585.1058 then not longer needed
+ NetExtrasPlugin.dll - then NetworkTools.dll v1.8 already included custom
+                       Tracert, Ping, WhoIs and Country column support and
+                       this plug-in is don't needed.
+
+Also deleted:
+
+ GeoLite2-City.mmdb - replaced on GeoLite2-Country.mmdb in v3.0(r357)
+ ./plugins/kph2/dir then driver kprocesshacker2_x*.sys moved to
+ ./plugins/plugindata/ (v3.0(r400) Plugins-Extra Git-d3848f8155).
+
+Notes:
+
+1. If You on system don't installed Debugging Tools for Windows (Debuggers And
+   Tools) and You don't like install this just copy dbghelp.dll located in to
+   DLL dir (see ./DLL/readme.txt for details and installation instructions).
+
+2. Old plug-ins is not compatible on PH v3.0 and required update.
+
+Search Path Used by Windows to Locate a DLL (source - MSDN)
+-----------------------------------------------------------
+
+With both implicit and explicit linking, Windows first searches for
+"known DLLs", such as Kernel32.dll and User32.dll. Windows then searches
+for the DLL's in the following sequence:
+
+- The directory where the executable module for the current process is located.
+- The current directory.
+- The Windows system directory. The GetSystemDirectory function retrieves the
+  path of this directory.
+- The Windows directory. The GetWindowsDirectory function retrieves the path
+  of this directory.
+- The directories listed in the PATH environment variable.
+
+  The LIBPATH environment variable is not used.
+
+NOTES!
+
+All used plug-ins required update and rebuild use Process Hacker SDK
+v3.0.5411.884 or letter.
+
+Any old plug-ins are not compatible with new versions of Process Hacker, and
+their use will lead to a crash of his completing the task.
+
+Security Explorer plugin can cause crashes Process Hacker on Windows 10, so
+the OS is recommended to disable it. If you are using Windows 8.x and you have
+problems caused by plug-in Security Explorer, open the Hacker menu -> Plugins
+…, locate the Security Explorer plug-ins list and click the Disabled button
+and then to apply the changes in the settings restart Process Hacker.
+
+You can also disable any other plug-in, but disable plug-ins is recommended
+only if the plug-in is causing problems.
+
+Terminator plugin is designed exclusively for the crash of the processes and
+threads that can not be completed in the normal way, but you must remember
+that the abnormal termination of the process (thread) treated their data is
+not stored that can lead to unpredictable errors in the work of others beyond
+their processes (threads ).

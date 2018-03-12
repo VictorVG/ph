@@ -1,0 +1,32 @@
+Required external system components:
+
+Plug-ins minimal OS version required for Process Hacker v3.0 Windows 7/
+Server 2008 R2.
+
+If You on system don't installed Debugging Tools for Windows (Debuggers And
+Tools) and You don't like install this just copy dbghelp.dll located in to DLL
+dir (see ./DLL/readme.txt for details and inctallation incructions).
+
+If Your like use GeoIP features go to menu "Tools" -> "Network tools" ->
+"GeoIP database updates..." press "Download" then press "Restart" button,
+after Process Hacker restart go to Network tabs and add "Country" column in
+to column set.
+
+Search Path Used by Windows to Locate a DLL
+-------------------------------------------
+
+With both implicit and explicit linking, Windows first searches for
+"known DLLs", such as Kernel32.dll and User32.dll. Windows then searches
+for the DLL's in the following sequence:
+
+- The directory where the executable module for the current process is located.
+- The current directory.
+- The Windows system directory. The GetSystemDirectory function retrieves the
+  path of this directory.
+- The Windows directory. The GetWindowsDirectory function retrieves the path
+  of this directory.
+- The directories listed in the PATH environment variable.
+
+Note
+
+  The LIBPATH environment variable is not used.

@@ -1,0 +1,24 @@
+Filters are available in the search dialog panel Process:
+
+BadSignature - process have bad signature (posible virus or corruptes)
+Distrust -
+Expired - signature expired
+Full -
+IsBeingDebugged - is debugged
+IsDotNet - .NET processes
+IsElevated - Elevated  processes
+IsImmersive -
+IsInJob - process is job
+IsInSignificantJob - trusted job processes
+IsPacked - process include executable modules as resource
+IsPicoProcess - Linux subsystem processes (Win10)
+IsProtectedProcess - Protected process (as OS kernel)
+IsSecureProcess -
+IsSuspended - process is paused
+IsWow64 - 32-bit processes running on WOW64
+Limited -
+NoSignature - process don't have signature
+Revoked  -
+SecuritySettings -
+Trusted - any signed and trusted processes
+Unknown - unknown processes (like Interrupts, System)

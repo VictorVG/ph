@@ -1,0 +1,51 @@
+Интересное - считается время ЦП использованное задачей, и РН показывает
+большую его величину чем ожидает наблюдатель:
+
+dmex
+
+"Sebastian
+
+processhacker seems to display the processor time which is at least 2 times
+higher"
+
+Task Manager (and PE) calculate the CPU usage based on the number of CPU
+cycles which is disabled by default in Process Hacker... You can enable Cycle
+based calculation in Process Hacker via the View menu and selecting Show CPU
+Below 0.01.
+
+This is disabled by default since most CPU frequency throttling
+implementations (e.g. SpeedStep, AMDs Cool'n'Quiet, Dynamic voltage scaling)
+can sometimes cause the number of cycles to be calculated as a higher
+percentage of available cycles per second and thus greatly(!) skew the
+displayed utilization - this has been a major issue for Task Manager and
+Process Explorer on some machines"
+
+техничекий перевод:
+
+Task Manager (и PE) рассчитывают использование процессора в зависимости от
+количества циклов центрального процессора, способом который по умолчанию
+отключен в Process Hacker ... Вы можете включить его в Process Hacker через
+меню Вид выбрав пункт Show CPU Below 0.01 (Показать CPU Ниже 0,01).
+
+По умолчанию расчёт методом подсчтёта числа циклов ЦП отключен, так как у
+большинство процессоров используется переменная рабочая частота и длительность
+цикла динамически меняется (SpeedStep, AMDs Cool'n'Quiet, Dynamic voltage
+scaling) что может вызывать ошибку подсчёта количества использованных за
+секунду циклов ЦП и таким образом, значительно (!) исказить отображаемый
+процент использования времени ЦП задачей - на некоторых машинах это было
+серьезной проблемой для Task Manager и Process Explorer"
+
+Смысл ситуации прост - TaskManager и PE неправильно считают время! Они считают
+время которое задача использует процессор по формуле T=N*t (1), где N число
+циклов, t] длительность цикла ЦП считая их фиксированными, но длительность
+цикла у современных процессоров управляется аппаратурой и зависит как от
+вычислительной нагрузки, так и от нагрева кристалла - чем выше его температура
+тем ниже его рабочая частота и соответственно длиннее цикл, ну и понятно что
+формула (1) даёт ошибку, порой до нескольких раз в зависимости отношения
+минимальной и максимальной тактовых частот ЦП в момент измерения.
+
+В то же время РН использует метод счёта времени основанный на подсчёте числа
+тактов системного таймера между переключениями задач, а его точность измерений
+зависит только от точности эталонного генератора (для 1 - 15 МГц АТ-кварцев
+используемых в задающих генераторах современных ЭВМ секундная точность
+составляет порядка 5*10E-9) импульсов.

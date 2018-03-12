@@ -1,0 +1,37 @@
+Please, visible hotkeys list:
+
+Ctrl-C - Copy
+Ctrl-F - Find handles or DLLs
+Ctrl-I - View System Information window
+Ctrl-K - Search process (Your can use process name, services or driver display name, binary path (full or partially) or regexp)
+Ctrl-L - Log
+Ctrl-M - Search online
+Ctrl-P - Past in to editable dialog/input field
+Ctrl-R - Run
+Ctrl-S - Save
+Ctrl-Enter - Open file location
+Ctrl-Shift-R - Run as
+Del - Terminate process or Close handles
+Shift-Del - Terminate process tree
+Enter - Properties or in dialog Ok
+Esc - Close any window or dialog
+F5 - Refresh
+F6 - Refresh automatically
+F11 - System Information full screen
+
+Alt-T-S - Main menu - Tools menu - System menu
+Alt-T-S-A - Atom Table
+Alt-T-S-D - DNS Cache Table
+Alt-T-S-F - Firewall Table
+Alt-T-S-w - Firmware Table
+Alt-T-S-O - Object Manager
+Alt-T-S-l - Pool Table
+Alt-T-S-P - Product Policy
+Alt-T-S-R - Running Object Table
+Alt-T-E - Main menu - Tools menu - Security Explorer
+Alt-H-t - Main menu - Hacker menu - Run as trusted installer...
+
+Systray - Computer contents menu
+
+o  - Force reboot
+c  - Force shut down

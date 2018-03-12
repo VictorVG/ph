@@ -1,0 +1,77 @@
+* Option to disable tray mini window
+
+  This has been added as a setting. You'll have to download the latest dev
+  build and change MiniInfoWindowEnabled to 0 in your settings.xml file
+  (%AppData%\Process Hacker 2) or processhacker.settings.xml in to $INSTDIR .
+
+Notes:
+
+* Tray mini window is enabled by default.
+
+* New Your can use Perl-style regexp for find handles and dlls window soon.
+
+* Toolbar button "Show Details for All Processes"
+
+    this toolbar button is hidden when you're already running with
+    elevated privileges (user use admin's account than mark as "<username>+"
+    in to main window title).
+
+* The official repository for Process Hacker Your can find on to GitHub:
+
+          https://github.com/processhacker2/processhacker2
+
+* Kernel mode driver KProcessHacker has four security level parameter store in
+  to "SecurityLevel" (Reg_Dword) value whats needed for check Process Hacker
+  binary signature and user privileges:
+
+  00000000 - None, all clients are allowed, no security, recomended for non
+             official build
+  00000001 - Privilege Check, require SeDebugPrivilege
+  00000002 - SignatureCheck, require trusted signature
+  00000003 - Signature and Privilege Check, require trusted signature and
+             SeDebugPrivilege. This is maximum security level.
+
+By default parameters "SecurityLevel" is set to hight security level - 2.
+
+* For non-signed build please, alwayse set setting name "EnableKphWarnings"
+  in to settings.xml (ProcessHacker.exe.settings.xml for portable copy) up
+  to "0":
+
+     <setting name="EnableKphWarnings">0</setting>
+
+  Also run as user is the member Administrators group "updkph.cmd":
+
+  @echo off
+  @setlocal
+  @sc stop KProcessHacker3
+  @if defined PROCESSOR_ARCHITEW6432 (set reg="%systemroot%\sysnative\reg.exe"
+     ) else (
+     set reg=reg)
+  @reg add "HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\services\KProcessHacker3\Parameters" /v "SecurityLevel" /t REG_DWORD /d 0 /f
+  @sc start KProcessHacker3
+  @exit
+
+* Terminator:
+
+  Plug-in Terminator is already required whats user have "SeDebugPrivilege" and dinamically load driver KPH2. User don't needed installation this driver!
+
+* MainWindowTabRestoreEnabled option:
+
+  MainWindowTabRestoreEnabled=[0|1], logically, enable auto save latest main
+  window tab index and restored is after next Process Hacker startup. Main
+  window tab index is:
+
+    0 - Process tab
+    1 - Services tab
+    2 - Network tab
+    3 - Disk tab
+    4 - Firewall tab
+
+* Services highlighting color and options for Services tab:
+
+    "UseColorServiceStop" - enable/disable highlight service in to "Stop pending" state. By default is "Enabled" ("1").
+    "ColorServiceStop" - by default this color is 0x6d6d6d
+    "UseColorUnknown" - enable/disable highlight untrusted service, by default is "Enabled" ("1").
+    "ColorUnknown" - by default this color is 0x507fff
+
+* Apiset memory features exist only for Windows 8 / Server 2012 or neever Microsoft OS
