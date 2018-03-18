@@ -1,4 +1,22 @@
-﻿r6657
+﻿r6663
+peview: Add export 'hint' column (same as dumpbin /exports)
+---------------------
+r6662
+Add missing type
+---------------------
+r6661
+Update About window, Add commit hash, Update URL prefixes to https, Update copyright year
+---------------------
+r6660
+SetupTool: Use macro
+---------------------
+r6659
+BuildTools: Add commit hash to ExternalCompilerOptions
+---------------------
+r6658
+Use macro
+---------------------
+r6657
 Update url settings with https prefix
 ---------------------
 r6656
