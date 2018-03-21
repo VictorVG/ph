@@ -1,4 +1,13 @@
-﻿r6663
+﻿r6666
+Handling atypical integrity levels (#249)
+---------------------
+r6665
+Fix process module tab columns showing incorrect info for WSL processes
+---------------------
+r6664
+Add workaround for service descriptions based on inf data, Fix typo, Add unused helper functions
+---------------------
+r6663
 peview: Add export 'hint' column (same as dumpbin /exports)
 ---------------------
 r6662
