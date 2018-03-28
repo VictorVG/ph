@@ -1,4 +1,22 @@
-﻿r6666
+﻿r6672
+peview: Add missing setting
+---------------------
+r6671
+Add workaround for appcontainer name lookup bug
+---------------------
+r6670
+Fix tabspace
+---------------------
+r6669
+Update privileges
+---------------------
+r6668
+peview: Add image section characteristics to the general tab
+---------------------
+r6667
+Fix bringing to front minimized window (#250)
+---------------------
+r6666
 Handling atypical integrity levels (#249)
 ---------------------
 r6665
