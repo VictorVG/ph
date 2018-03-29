@@ -1,4 +1,16 @@
-﻿r6672
+﻿r6676
+BuildTools: Fix 32bit vswhere path
+---------------------
+r6675
+peview: Add hash column to resource tab
+---------------------
+r6674
+ToolStatus: Show disabled buttons
+---------------------
+r6673
+Update warning message text, Disable unloaddll commandline
+---------------------
+r6672
 peview: Add missing setting
 ---------------------
 r6671
