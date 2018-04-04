@@ -1,4 +1,16 @@
-﻿r6677
+﻿r6681
+Add missing PCRE file from commit 16bedfb
+---------------------
+r6680
+ExtendedTools: Add select/deslect button to GPU nodes window
+---------------------
+r6679
+ExtendedTools: Add GPU commit graph, Fix Disk/Network/GPU graph resize flicker
+---------------------
+r6678
+Update PCRE to 10.31
+---------------------
+r6677
 Fix typo
 ---------------------
 r6676
