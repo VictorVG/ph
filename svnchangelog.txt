@@ -1,4 +1,7 @@
-﻿r6676
+﻿r6677
+Fix typo
+---------------------
+r6676
 BuildTools: Fix 32bit vswhere path
 ---------------------
 r6675
