@@ -1,4 +1,13 @@
-﻿r6681
+﻿r6684
+peview: Show unknown resource types
+---------------------
+r6683
+Update warning text
+---------------------
+r6682
+Add options imagelist
+---------------------
+r6681
 Add missing PCRE file from commit 16bedfb
 ---------------------
 r6680
