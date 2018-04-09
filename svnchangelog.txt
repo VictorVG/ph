@@ -1,4 +1,19 @@
-﻿r6684
+﻿r6690
+Fix commit fa6f0ed
+---------------------
+r6688
+Fix module name, Add PhGetAppContainerSidFromName wrapper
+---------------------
+r6687
+Fix PhCreateProcessIgnoreIfeoDebugger thread safety issues
+---------------------
+r6686
+Update ntpsapi types
+---------------------
+r6685
+Fix loader entry bug, Add loader entry export wrappers
+---------------------
+r6684
 peview: Show unknown resource types
 ---------------------
 r6683
