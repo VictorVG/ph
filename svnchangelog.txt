@@ -1,4 +1,28 @@
-﻿r6690
+﻿r6698
+Fix MitigationOptionsMap POLICY2 index
+---------------------
+r6697
+Fix inconsistent parameters
+---------------------
+r6696
+Update PhGetModuleProcAddress
+---------------------
+r6695
+Fix typo
+---------------------
+r6694
+HardwareDevices: Reduce network adapter guid allocations
+---------------------
+r6693
+Merge branch 'master' of https://github.com/processhacker/processhacker
+---------------------
+r6692
+Add workaround for token container name
+---------------------
+r6691
+Race condition fix (#254)
+---------------------
+r6690
 Fix commit fa6f0ed
 ---------------------
 r6688
