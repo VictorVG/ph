@@ -1,4 +1,10 @@
-﻿r6698
+﻿r6700
+Fix typo
+---------------------
+r6699
+Add workaround for minimal/reflected processes showing as suspended
+---------------------
+r6698
 Fix MitigationOptionsMap POLICY2 index
 ---------------------
 r6697
