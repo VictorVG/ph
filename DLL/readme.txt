@@ -10,6 +10,7 @@ Windows 10/2016 before version 1607 - ./SDK v10/
 Windows 10/2016 neever version 1607 - ./SDK v10 RS1/
 Windows 10/2016 neever 10.0.15063.137 - ./SDK v10 RS2/
 Windows 10/2016 neever  version 1703 - ./SDK v10 RS3/
+Windows 10/2016 neever  version 17133 - ./SDK v10 RS4/
 
 NOTES!
 
