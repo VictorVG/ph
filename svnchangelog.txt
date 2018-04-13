@@ -1,4 +1,7 @@
-﻿r6702
+﻿r6703
+Update PhpVerifyInitialization
+---------------------
+r6702
 Update PhpImportProcedure
 ---------------------
 r6701
