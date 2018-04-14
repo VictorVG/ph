@@ -1,4 +1,7 @@
-﻿r6703
+﻿r6704
+ExtendedTools: Fix text position
+---------------------
+r6703
 Update PhpVerifyInitialization
 ---------------------
 r6702
