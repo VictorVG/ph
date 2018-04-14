@@ -1,4 +1,7 @@
-﻿r6704
+﻿r6705
+Type comparison fix for handle search (#257)
+---------------------
+r6704
 ExtendedTools: Fix text position
 ---------------------
 r6703
