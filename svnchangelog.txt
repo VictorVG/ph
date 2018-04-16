@@ -1,4 +1,19 @@
-﻿r6705
+﻿r6710
+Fix file tab filesize not using user settings
+---------------------
+r6709
+SetupTool: Fix updater installing KPH by default
+---------------------
+r6708
+Add missing line from previous commit
+---------------------
+r6707
+Fix tabspace
+---------------------
+r6706
+New properties page for file handles (#258)
+---------------------
+r6705
 Type comparison fix for handle search (#257)
 ---------------------
 r6704
