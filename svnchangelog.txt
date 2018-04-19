@@ -1,4 +1,13 @@
-﻿r6716
+﻿r6719
+Merge branch 'master' of https://github.com/processhacker/processhacker
+---------------------
+r6718
+Enable RS5 window Sets tab behavior, Add new EnableExperimentalWindowStyle setting for disabling Sets behavior
+---------------------
+r6717
+Enable RS5 window Sets tab bevahior, Add new EnableExperimentalWindowStyle setting for disabling Sets behavior
+---------------------
+r6716
 ToolStatus: Tidy up toolbar dropdown states
 ---------------------
 r6715
