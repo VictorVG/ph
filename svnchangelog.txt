@@ -1,4 +1,22 @@
-﻿r6710
+﻿r6716
+ToolStatus: Tidy up toolbar dropdown states
+---------------------
+r6715
+Improve service tab highlighting, Add new Options -> Highlighting color settings
+---------------------
+r6714
+Remove unused process extended statistics
+---------------------
+r6713
+Add PhRemoveMemoryNode function
+---------------------
+r6712
+HardwareDevices: Fix missing SMART info for SSDs
+---------------------
+r6711
+Tidy up
+---------------------
+r6710
 Fix file tab filesize not using user settings
 ---------------------
 r6709
