@@ -1,4 +1,16 @@
-﻿r6720
+﻿r6724
+Add missing header
+---------------------
+r6723
+Add EnableHandleSnapshot setting
+---------------------
+r6722
+Fix handle type issues
+---------------------
+r6721
+Update default unknown color
+---------------------
+r6720
 Fix column sorting by null first and other characters last (now sorts A-Z first and null last)
 ---------------------
 r6719
