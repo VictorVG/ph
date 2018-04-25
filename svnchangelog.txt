@@ -1,4 +1,7 @@
-﻿r6719
+﻿r6720
+Fix column sorting by null first and other characters last (now sorts A-Z first and null last)
+---------------------
+r6719
 Merge branch 'master' of https://github.com/processhacker/processhacker
 ---------------------
 r6718
