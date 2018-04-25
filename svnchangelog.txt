@@ -1,4 +1,7 @@
-﻿r6724
+﻿r6725
+BuildTools: Fix appx package sdk path
+---------------------
+r6724
 Add missing header
 ---------------------
 r6723
