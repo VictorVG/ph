@@ -1,4 +1,10 @@
-﻿r6725
+﻿r6727
+(Win10-RS5) Update default ExperimentalWindowStyle setting
+---------------------
+r6726
+Add helper macros
+---------------------
+r6725
 BuildTools: Fix appx package sdk path
 ---------------------
 r6724
