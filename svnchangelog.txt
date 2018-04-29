@@ -1,4 +1,19 @@
-﻿r6727
+﻿r6732
+Fix regression viewing handle properties (commit 7b55523)
+---------------------
+r6731
+A more accurate job statistics caption (#262)
+---------------------
+r6730
+Remove legacy dbghelp 5.1 (XP) functions
+---------------------
+r6729
+Revert "Fix crash"
+---------------------
+r6728
+Fix crash
+---------------------
+r6727
 (Win10-RS5) Update default ExperimentalWindowStyle setting
 ---------------------
 r6726
