@@ -1,4 +1,10 @@
-﻿r6732
+﻿r6734
+Add 'Extended unicode' checkbox to string search dialog
+---------------------
+r6733
+Remove PhGetAppContainerName parameter
+---------------------
+r6732
 Fix regression viewing handle properties (commit 7b55523)
 ---------------------
 r6731
