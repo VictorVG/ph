@@ -1,4 +1,16 @@
-﻿r6734
+﻿r6738
+Update headers with RS4 types
+---------------------
+r6737
+Add new Options -> General -> 'Check services for digital signatures' checkbox
+---------------------
+r6736
+Update PhPluginAddTreeNewColumn callbacks
+---------------------
+r6735
+Readability improvements
+---------------------
+r6734
 Add 'Extended unicode' checkbox to string search dialog
 ---------------------
 r6733
