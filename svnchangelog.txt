@@ -1,4 +1,7 @@
-﻿r6739
+﻿r6740
+Add more RS4 types
+---------------------
+r6739
 Add new Desktop column to processes tab
 ---------------------
 r6738
