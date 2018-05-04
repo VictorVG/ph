@@ -1,4 +1,10 @@
-﻿r6740
+﻿r6742
+DotNetTools: Fix memory leak, Fix missing appdomain for 32bit process threads
+---------------------
+r6741
+Add warning when closing critical process handles with strict handle checks enabled
+---------------------
+r6740
 Add more RS4 types
 ---------------------
 r6739
