@@ -1,4 +1,16 @@
-﻿r6742
+﻿r6746
+OnlineChecks: Fix uploading files to VirusTotal
+---------------------
+r6745
+SetupTool: Fix creating WoW64 IFEO options
+---------------------
+r6744
+Add hexeditor support for extended unicode
+---------------------
+r6743
+Enable RS4 platform features
+---------------------
+r6742
 DotNetTools: Fix memory leak, Fix missing appdomain for 32bit process threads
 ---------------------
 r6741
