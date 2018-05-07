@@ -1,4 +1,10 @@
-﻿r6746
+﻿r6748
+Plugins: Fix macro usage
+---------------------
+r6747
+OnlineChecks: Fix rescan link, Fix memory leak
+---------------------
+r6746
 OnlineChecks: Fix uploading files to VirusTotal
 ---------------------
 r6745
