@@ -1,4 +1,7 @@
-﻿r6750
+﻿r6751
+ExtendedTools: Improve modules tab -> services menu dialog
+---------------------
+r6750
 Fix services tab post-sorting, Improve service filename memory usage
 ---------------------
 r6749
