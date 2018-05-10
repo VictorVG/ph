@@ -1,4 +1,7 @@
-﻿r6751
+﻿r6752
+UIAccess field in advanced token properties (#267)
+---------------------
+r6751
 ExtendedTools: Improve modules tab -> services menu dialog
 ---------------------
 r6750
