@@ -1,4 +1,64 @@
-﻿r6752
+﻿r6776
+Update preprocessor definitions for debug builds
+---------------------
+r6775
+Fix typo, Add LdrQueryImageFileExecutionOption
+---------------------
+r6774
+Update preprocessor definitions for debug builds
+---------------------
+r6773
+Improve GDI handle usage by 50%
+---------------------
+r6772
+NetworkTools: Update options window with geoip database path
+---------------------
+r6771
+Add workaround for RS5 insider build version checking
+---------------------
+r6770
+Fix TB_GETITEMRECT error checking
+---------------------
+r6769
+Add missing header from commit 7f239ae
+---------------------
+r6768
+Add comment
+---------------------
+r6767
+Fix handle properties file tab focus
+---------------------
+r6766
+Update attribute flags
+---------------------
+r6765
+Fix service stop highlighting using disabled highlighting color
+---------------------
+r6764
+Update attribute flags
+---------------------
+r6763
+Improve PhQueryRegistry error checking
+---------------------
+r6762
+Update PhCreateThread to PhCreateThreadEx
+---------------------
+r6761
+Fix dbghelp unicode initialization, Add dbghelp secure flag
+---------------------
+r6760
+Update attribute flags
+---------------------
+r6759
+Fix PhGetWindowText regression
+---------------------
+r6758
+Remove old code, Add comments
+---------------------
+r6757
+Fix PhCreateThread error checking regression
+---------------------
+r6752
 UIAccess field in advanced token properties (#267)
 ---------------------
 r6751
