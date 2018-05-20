@@ -1,4 +1,43 @@
-﻿r6776
+﻿r6823
+ExtendedTools: Fix log path check
+---------------------
+r6822
+DotNetTools: Add inspect menu to .NET assembly tab, Add right-click menu to .NET assembly tab column headers
+---------------------
+r6809
+Remove legacy function
+---------------------
+r6808
+Fix sysinfo window text clipping issues
+---------------------
+r6807
+Add 'hide guard pages' option to process memory tab
+---------------------
+r6806
+Fix options window styles
+---------------------
+r6805
+peview: Disable resource tab hash column due to crashes inspecting vmprotected binaries
+---------------------
+r6804
+Fix typo
+---------------------
+r6803
+UserNotes: Fix saved priority getting set multiple times for saved processes
+---------------------
+r6802
+Update RTL types
+---------------------
+r6801
+Fix PhQueryRegistryUlong64 type check
+---------------------
+r6800
+Add PhAllocateZero, Fix PhReAllocate SAL annotation
+---------------------
+r6799
+Add PhSetWindowAlwaysOnTop
+---------------------
+r6776
 Update preprocessor definitions for debug builds
 ---------------------
 r6775
