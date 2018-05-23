@@ -1,4 +1,25 @@
-﻿r6823
+﻿r6842
+ExtendedTools: Fix gpu text for Intel IGP devices
+---------------------
+r6840
+ExtendedTools: Improve GPU calculation, Update GPU nodes window, Add GPU details window (#270)
+---------------------
+r6829
+Fix missing image filename path for linux processes
+---------------------
+r6828
+Fix inspect and open file location menus opening invalid locations
+---------------------
+r6827
+Add window icon to About window, Fix about window startup location
+---------------------
+r6826
+ToolStatus: Fix weird issue with TB_GETIDEALSIZE not retuning valid data in release builds
+---------------------
+r6825
+ExtendedTools: Fix missing disk tab icons
+---------------------
+r6823
 ExtendedTools: Fix log path check
 ---------------------
 r6822
