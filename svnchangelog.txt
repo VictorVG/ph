@@ -1,4 +1,19 @@
-﻿r6842
+﻿r6847
+Update phlib includes
+---------------------
+r6846
+Update mxml to 2.11
+---------------------
+r6845
+Fix jsonc tabspace
+---------------------
+r6844
+Fix jsonc tabspace, Fix jsonc header include path
+---------------------
+r6843
+Update json-c to version 0.13.1
+---------------------
+r6842
 ExtendedTools: Fix gpu text for Intel IGP devices
 ---------------------
 r6840
