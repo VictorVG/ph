@@ -1,4 +1,10 @@
-﻿r6850
+﻿r6852
+NetworkTools: Fix tracert country sorting
+---------------------
+r6851
+Ignore copying text from empty columns
+---------------------
+r6850
 Update maxminddb to 1.3.2, Improve country icon caching
 ---------------------
 r6849
