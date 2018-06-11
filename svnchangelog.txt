@@ -1,4 +1,118 @@
-﻿r6852
+﻿r6890
+Add PhEnumerateKey function
+---------------------
+r6889
+Move static reference
+---------------------
+r6888
+Fix servive properties propsheet flags
+---------------------
+r6887
+Add advanced thread stack highlighting settings
+---------------------
+r6886
+Fix typo
+---------------------
+r6885
+Remove unused code
+---------------------
+r6884
+Ignore WSL processes when querying process information
+---------------------
+r6883
+Fix handles tab showing 'Non-existent process' for newly created handles
+---------------------
+r6882
+HardwareDevices: Remove legacy functions
+---------------------
+r6881
+HardwareDevices: Remove legacy functions
+---------------------
+r6880
+OnlineChecks: Fix uploading files to hybrid-analysis, Remove legacy API, Add support for uploading WSL binaries
+---------------------
+r6879
+SetupTool: Update window context callbacks
+---------------------
+r6878
+NetworkTools: Fix tracert hop setting, Fix ipv6 address resolution, Remove windns dependencies, Fix phsdk winsock conflicts
+---------------------
+r6877
+ExtendedServices: Fix progressbar style
+---------------------
+r6876
+ExtendedTools: Fix EtpGpuDetailsEnumAdapters using incorrect memset, Tidy up code
+---------------------
+r6875
+ExtendedNotifications: Fix deprecated winsock warnings
+---------------------
+r6874
+CommonUtil: Update http status codes
+---------------------
+r6873
+Fix treenew custom highlighting regression on win7
+---------------------
+r6872
+Remove NtAlpcQueryInformation delayload
+---------------------
+r6871
+Fix typo
+---------------------
+r6870
+Update network node UniqueId type
+---------------------
+r6869
+Remove obsolete headers
+---------------------
+r6868
+Tidy up
+---------------------
+r6867
+Tidy up code
+---------------------
+r6866
+peview: Fix low-res binary icons
+---------------------
+r6865
+Add window icon for services
+---------------------
+r6864
+Update exports
+---------------------
+r6863
+Add check for phsvc when showing kph errors
+---------------------
+r6862
+Add SetTcpEntry to delayload
+---------------------
+r6861
+Tidy up flags
+---------------------
+r6860
+Tidy up
+---------------------
+r6859
+Add helper macro
+---------------------
+r6858
+Fix winsock header conflicts with the pluginsdk
+---------------------
+r6857
+Partial revert commit 02b2c0a
+---------------------
+r6856
+Fix DLGTEMPLATEEX packing
+---------------------
+r6855
+Increase handle provider hashtable size
+---------------------
+r6854
+Fix PhNtStatusToDosError changing the thread last error status
+---------------------
+r6853
+Fix version check for insider builds
+---------------------
+r6852
 NetworkTools: Fix tracert country sorting
 ---------------------
 r6851
