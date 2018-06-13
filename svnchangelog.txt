@@ -1,4 +1,7 @@
-﻿r6890
+﻿r6891
+Fix treeview regression during theme changes
+---------------------
+r6890
 Add PhEnumerateKey function
 ---------------------
 r6889
