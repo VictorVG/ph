@@ -1,4 +1,13 @@
-﻿r6894
+﻿r6897
+Fix searching modules tab parent addresses
+---------------------
+r6896
+Enable ControlFlowGuard and SpectreMitigation (experimental)
+---------------------
+r6895
+Add modules tab ParentBaseAddress column
+---------------------
+r6894
 Fix SAL annotations
 ---------------------
 r6893
