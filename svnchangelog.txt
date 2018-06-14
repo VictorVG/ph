@@ -1,4 +1,7 @@
-﻿r6893
+﻿r6894
+Fix SAL annotations
+---------------------
+r6893
 Fix uninitialized variable
 ---------------------
 r6892
