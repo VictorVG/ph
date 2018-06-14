@@ -1,4 +1,25 @@
-﻿r6897
+﻿r6904
+Fix #276
+---------------------
+r6903
+Add INDIRECT_BRANCH_PREDICTION to process mitigation dialog
+---------------------
+r6902
+Add modules tab LoadReason for enclaves
+---------------------
+r6901
+Use INET6_ADDRSTRLEN definition
+---------------------
+r6900
+Move PhLookupPolicyHandle
+---------------------
+r6899
+Use PhGetSystemRoot instead of NtSystemRoot
+---------------------
+r6898
+Fix SAL warnings
+---------------------
+r6897
 Fix searching modules tab parent addresses
 ---------------------
 r6896
