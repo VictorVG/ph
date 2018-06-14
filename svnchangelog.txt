@@ -1,4 +1,10 @@
-﻿r6891
+﻿r6893
+Fix uninitialized variable
+---------------------
+r6892
+ExtendedTools: Add workaround for BSOD on LTSB versions of Win10
+---------------------
+r6891
 Fix treeview regression during theme changes
 ---------------------
 r6890
