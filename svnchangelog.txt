@@ -1,4 +1,16 @@
-﻿r6904
+﻿r6908
+Fix typo
+---------------------
+r6907
+peview: Improve ELF import/export enumeration
+---------------------
+r6906
+Add SUBSYSTEM_INFORMATION_TYPE
+---------------------
+r6905
+ExtendedTools: Add gpu VendorID to details window
+---------------------
+r6904
 Fix #276
 ---------------------
 r6903
