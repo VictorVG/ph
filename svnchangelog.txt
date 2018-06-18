@@ -1,4 +1,7 @@
-﻿r6908
+﻿r6909
+Add contributors link to About window, Make About single-instance window
+---------------------
+r6908
 Fix typo
 ---------------------
 r6907
