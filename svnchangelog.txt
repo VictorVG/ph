@@ -1,4 +1,32 @@
-﻿r6909
+﻿r6918
+PHNT: Fix macro usage, Update headers
+---------------------
+r6917
+Fix PhSvc UI timeouts
+---------------------
+r6916
+Fix typo
+---------------------
+r6915
+Fix sleep regression
+---------------------
+r6914
+ExtendedTools: Aggregate collapsed process GPU/Disk/Network columns
+---------------------
+r6913
+HardwareDevices: Add right-click menu to options window > disk/network tabs
+---------------------
+r6912
+Update PCRE heap
+---------------------
+r6911
+Fix SAL warning C26451
+---------------------
+r6910
+Revert 3980408 (log window exit status for linux processes)
+---------------------
+
+r6909
 Add contributors link to About window, Make About single-instance window
 ---------------------
 r6908
