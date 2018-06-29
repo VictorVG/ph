@@ -1,4 +1,49 @@
-﻿r6918
+﻿r6933
+Add settings for options window position
+---------------------
+r6932
+Fix previous commit
+---------------------
+r6931
+BuildTools: Update appveyor artifacts
+---------------------
+r6930
+Fix options window parenting
+---------------------
+r6929
+Add PhInitFormatGroupDigits
+---------------------
+r6928
+Add process modules tree
+---------------------
+r6927
+Improve continue message error checking
+---------------------
+r6926
+PHNT: Update Win10-RS4 apiset definitions
+---------------------
+r6925
+Update mxml debug macro
+---------------------
+r6924
+ToolStatus: Update statusbar text cache
+---------------------
+r6923
+SetupTool: Update DelayLoadDLLs
+---------------------
+r6922
+peview: Update DelayLoadDLLs
+---------------------
+r6921
+Fix RS4 mitigation policy
+---------------------
+r6920
+Update SDK 10.0.17134
+---------------------
+r6919
+Fix SAL warning
+---------------------
+r6918
 PHNT: Fix macro usage, Update headers
 ---------------------
 r6917
