@@ -1,4 +1,22 @@
-﻿r6933
+﻿r6939
+Add PhPrintUInt32Hex
+---------------------
+r6938
+Remove PhProcessPropInitialization
+---------------------
+r6937
+Update provider caching
+---------------------
+r6936
+Add legacy handle enumeration fallback
+---------------------
+r6935
+Fix module cache size, Fix runas ForceNoParent
+---------------------
+r6934
+Update process node cache
+---------------------
+r6933
 Add settings for options window position
 ---------------------
 r6932
