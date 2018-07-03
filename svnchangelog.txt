@@ -1,4 +1,22 @@
-﻿r6939
+﻿r6945
+SetupTool: Update to latest phlib
+---------------------
+r6944
+Fix build
+---------------------
+r6943
+Remove legacy symbol path
+---------------------
+r6942
+Fix #285 (TokenSid regression aac6888)
+---------------------
+r6941
+Update to latest phlib
+---------------------
+r6940
+Update cache directory path
+---------------------
+r6939
 Add PhPrintUInt32Hex
 ---------------------
 r6938
