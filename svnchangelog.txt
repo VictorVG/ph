@@ -1,4 +1,13 @@
-﻿r6945
+﻿r6948
+Update process environment tab layout
+---------------------
+r6947
+Fix build
+---------------------
+r6946
+Update handle properties layout
+---------------------
+r6945
 SetupTool: Update to latest phlib
 ---------------------
 r6944
