@@ -1,4 +1,7 @@
-﻿r6948
+﻿r6949
+Fix #286 (Integrity column)
+---------------------
+r6948
 Update process environment tab layout
 ---------------------
 r6947
