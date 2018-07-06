@@ -1,4 +1,7 @@
-﻿r6954
+﻿r6955
+Fix service properties parenting
+---------------------
+r6954
 Improve symbol provider initialization
 ---------------------
 r6953
