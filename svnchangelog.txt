@@ -1,4 +1,7 @@
-﻿r6953
+﻿r6954
+Improve symbol provider initialization
+---------------------
+r6953
 ExtendedTools: Remove legacy handle dialog resource
 ---------------------
 r6952
