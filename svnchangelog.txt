@@ -1,4 +1,16 @@
-﻿r6949
+﻿r6953
+ExtendedTools: Remove legacy handle dialog resource
+---------------------
+r6952
+Fix double-click opening the environment variable editor
+---------------------
+r6951
+Remove legacy handle dialog resources
+---------------------
+r6950
+Update general handle properties layout
+---------------------
+r6949
 Fix #286 (Integrity column)
 ---------------------
 r6948
