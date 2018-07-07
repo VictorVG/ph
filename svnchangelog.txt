@@ -1,4 +1,10 @@
-﻿r6955
+﻿r6957
+BuildTools: Fix log message
+---------------------
+r6956
+BuildTools: Update legacy appveyor support
+---------------------
+r6955
 Fix service properties parenting
 ---------------------
 r6954
