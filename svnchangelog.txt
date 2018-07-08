@@ -1,4 +1,10 @@
-﻿r6957
+﻿r6959
+Fix previous commit
+---------------------
+r6958
+Fix service properties window position settings
+---------------------
+r6957
 BuildTools: Fix log message
 ---------------------
 r6956
