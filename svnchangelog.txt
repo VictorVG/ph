@@ -1,4 +1,7 @@
-﻿r6959
+﻿r6960
+Fix starting minimized when StartHidden enabled
+---------------------
+r6959
 Fix previous commit
 ---------------------
 r6958
