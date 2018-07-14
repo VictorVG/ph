@@ -1,4 +1,19 @@
-﻿r6965
+﻿r6970
+ExtendedTools: Add OpenAdapterFromHdc
+---------------------
+r6969
+Fix type #290
+---------------------
+r6968
+Add workaround for setup application directory
+---------------------
+r6967
+Fix type
+---------------------
+r6966
+Fix runas dialog memory leak
+---------------------
+r6965
 Update View > Hide signed processes error dialog
 ---------------------
 r6964
