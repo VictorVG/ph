@@ -1,4 +1,19 @@
-﻿r6960
+﻿r6965
+Update View > Hide signed processes error dialog
+---------------------
+r6964
+Fix find handles window startup location
+---------------------
+r6963
+ToolStatus: Fix statusbar redraw issue on win7 classic
+---------------------
+r6962
+Tidy up macro usage
+---------------------
+r6961
+Updater: Fix updating bin releases
+---------------------
+r6960
 Fix starting minimized when StartHidden enabled
 ---------------------
 r6959
