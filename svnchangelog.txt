@@ -1,4 +1,19 @@
-﻿r6970
+﻿r6975
+BuildTools: Fix version string
+---------------------
+r6974
+BuildTools: Fix build error
+---------------------
+r6973
+Add PhHexStringToBufferEx
+---------------------
+r6972
+BuildTools: Fix appveyor build exit status
+---------------------
+r6971
+SetupTool: Add portable update support
+---------------------
+r6970
 ExtendedTools: Add OpenAdapterFromHdc
 ---------------------
 r6969
