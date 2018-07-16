@@ -1,4 +1,7 @@
-﻿r6976
+﻿r6977
+BuildTools: Update appveyor format
+---------------------
+r6976
 BuildTools: Fix appveyor error message
 ---------------------
 r6975
