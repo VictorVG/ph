@@ -1,14 +1,13 @@
+[![Build status](https://img.shields.io/github/downloads/processhacker/processhacker/total.svg?style=for-the-badge)](https://github.com/processhacker/processhacker/releases)
+[![Build status](https://img.shields.io/appveyor/ci/processhacker/processhacker.svg?style=for-the-badge)](https://ci.appveyor.com/project/processhacker/processhacker)
+[![Build status](https://img.shields.io/github/contributors/processhacker/processhacker.svg?style=for-the-badge)](https://github.com/processhacker/processhacker/graphs/contributors)
+[![Licence](https://img.shields.io/badge/license-GPLv3-blue.svg?style=for-the-badge)](https://www.gnu.org/licenses/gpl-3.0.en.html)
+
 ## Process Hacker
 
 A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware.
 
-[![Build status](https://ci.appveyor.com/api/projects/status/5einmgmy3mnsfjdn?svg=true)](https://ci.appveyor.com/project/processhacker/processhacker2)
-[![Licence](https://img.shields.io/badge/license-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.en.html)
-
-![Logo](https://raw.githubusercontent.com/processhacker2/processhacker/master/ProcessHacker/resources/ProcessHacker.png)
-
-* [Official Website](http://processhacker.sourceforge.net/)
-* [FAQ](http://processhacker.sourceforge.net/faq.php)
+* [Official Website](https://processhacker.sourceforge.io/)
 * [Nightly Builds](https://wj32.org/processhacker/nightly.php)
 
 ## System requirements
@@ -16,7 +15,6 @@ A free, powerful, multi-purpose tool that helps you monitor system resources, de
 Windows 7 or higher, 32-bit or 64-bit.
 
 ## Features
-
 
 * A detailed overview of system activity with highlighting.
 * Graphs and statistics allow you quickly to track down resource hogs and runaway processes.
@@ -100,4 +98,3 @@ to show details for all processes when it is not running as administrator:
    not using an official build, you may need to set it to 0 instead.
 4. Restart the KProcessHacker3 service (sc stop KProcessHacker3,
    sc start KProcessHacker3).
-   

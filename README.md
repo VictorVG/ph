@@ -1,14 +1,13 @@
+[![Build status](https://img.shields.io/github/downloads/processhacker/processhacker/total.svg?style=for-the-badge)](https://github.com/processhacker/processhacker/releases)
+[![Build status](https://img.shields.io/appveyor/ci/processhacker/processhacker.svg?style=for-the-badge)](https://ci.appveyor.com/project/processhacker/processhacker)
+[![Build status](https://img.shields.io/github/contributors/processhacker/processhacker.svg?style=for-the-badge)](https://github.com/processhacker/processhacker/graphs/contributors)
+[![Licence](https://img.shields.io/badge/license-GPLv3-blue.svg?style=for-the-badge)](https://www.gnu.org/licenses/gpl-3.0.en.html)
+
 ## Process Hacker
 
 A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware.
 
-[![Build status](https://ci.appveyor.com/api/projects/status/5einmgmy3mnsfjdn?svg=true)](https://ci.appveyor.com/project/processhacker/processhacker2)
-[![Licence](https://img.shields.io/badge/license-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0.en.html)
-
-![Logo](https://raw.githubusercontent.com/processhacker2/processhacker/master/ProcessHacker/resources/ProcessHacker.png)
-
-* [Official Website](http://processhacker.sourceforge.net/)
-* [FAQ](http://processhacker.sourceforge.net/faq.php)
+* [Official Website](https://processhacker.sourceforge.io/)
 * [Nightly Builds](https://wj32.org/processhacker/nightly.php)
 
 ## System requirements
@@ -16,7 +15,6 @@ A free, powerful, multi-purpose tool that helps you monitor system resources, de
 Windows 7 or higher, 32-bit or 64-bit.
 
 ## Features
-
 
 * A detailed overview of system activity with highlighting.
 * Graphs and statistics allow you quickly to track down resource hogs and runaway processes.
@@ -28,23 +26,17 @@ Windows 7 or higher, 32-bit or 64-bit.
 * Small, portable and no installation required.
 * 100% [Free Software](http://www.gnu.org/philosophy/free-sw.en.html) ([GPL v3](http://www.gnu.org/licenses/gpl-3.0.en.html))
 
-
 ## Additional information
-
 
 You cannot run the 32-bit version of Process Hacker on a
 64-bit system and expect it to work correctly, unlike other programs.
 
-
-
 ## Enhancements/Bugs
-
 
 Please use the official [GitHub issue tracker](https://github.com/processhacker2/processhacker/issues)
 for reporting problems or suggesting new features.
 
 For my extended build use the my [GitHub issue tracker](https://github.com/VictorVG/PH/issues)
-
 
 ## Settings
 
