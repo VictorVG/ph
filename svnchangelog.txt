@@ -1,4 +1,7 @@
-﻿r6997
+﻿r6998
+SetupTool: Fix updater creating uninstall entries for portable releases
+---------------------
+r6997
 BuildTools: Enable sdk builds
 ---------------------
 r6996
