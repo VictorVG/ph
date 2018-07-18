@@ -1,4 +1,7 @@
-﻿r6991
+﻿r6992
+Update DelayLoadDLLs
+---------------------
+r6991
 Plugins: update sdk version
 ---------------------
 r6990
