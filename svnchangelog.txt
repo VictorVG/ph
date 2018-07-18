@@ -1,4 +1,10 @@
-﻿r6989
+﻿r6991
+Plugins: update sdk version
+---------------------
+r6990
+Improve symbol provider initialization
+---------------------
+r6989
 Fix typo
 ---------------------
 r6988
