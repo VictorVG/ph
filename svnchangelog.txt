@@ -1,4 +1,7 @@
-﻿r6998
+﻿r6999
+Update network node count
+---------------------
+r6998
 SetupTool: Fix updater creating uninstall entries for portable releases
 ---------------------
 r6997
