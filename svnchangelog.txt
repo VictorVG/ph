@@ -1,4 +1,40 @@
-﻿r6977
+﻿r6989
+Fix typo
+---------------------
+r6988
+Update readme layout
+---------------------
+r6987
+Fix kph ifdef
+---------------------
+r6986
+Fix kph ifdef
+---------------------
+r6985
+BuildTools: Fix sdk detection, Tidy up filename handling, Move appx support
+---------------------
+r6984
+HardwareDevices: Show options window device icons
+---------------------
+r6983
+Fix view > processes from other users' regression
+---------------------
+r6982
+Fix token username query
+---------------------
+r6981
+Remove unused variable
+---------------------
+r6980
+Updater: Improve caching
+---------------------
+r6979
+Fix typo
+---------------------
+r6978
+Update readme format
+---------------------
+r6977
 BuildTools: Update appveyor format
 ---------------------
 r6976
