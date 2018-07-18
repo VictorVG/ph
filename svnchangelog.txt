@@ -1,4 +1,19 @@
-﻿r6992
+﻿r6997
+BuildTools: Enable sdk builds
+---------------------
+r6996
+WindowExplorer: Fix headers
+---------------------
+r6995
+SetupTool: Remove legacy shell wrappers
+---------------------
+r6994
+BuildTools: Fix build
+---------------------
+r6993
+WindowExplorer: Add window icon
+---------------------
+r6992
 Update DelayLoadDLLs
 ---------------------
 r6991
