@@ -1,4 +1,477 @@
-﻿r6999
+﻿r7158
+Remove WindowExplorer window information triggering Google Chrome showing incompatible application and uninstall
+---------------------
+r7157
+Move process properties memory tab initialization
+---------------------
+r7156
+Fix typo
+---------------------
+r7155
+Add LSA/SAM security editor support
+---------------------
+r7154
+Remove old setting
+---------------------
+r7153
+Add options button to handles tab
+---------------------
+r7152
+Update thread stack progress dialog to task dialog
+---------------------
+r7151
+Add PhSymbolProviderRegisterEventCallback, Add symbol cancel support
+---------------------
+r7150
+Fix #297
+---------------------
+r7149
+Remove extra comma from RtlDeriveCapabilitySidsFromName (#298)
+---------------------
+r7148
+peview: export image icons
+---------------------
+r7147
+Add default GenerateZw options
+---------------------
+r7146
+peview: Fix window icon
+---------------------
+r7145
+Fix property sheet window focus
+---------------------
+r7144
+peview: Improve ordinal import name format
+---------------------
+r7143
+Tidy up
+---------------------
+r7142
+Fix process properties crash
+---------------------
+r7141
+Fix process thread tab crash
+---------------------
+r7140
+Update process thread tab sorting
+---------------------
+r7139
+Remove legacy process thread tab information
+---------------------
+r7138
+Update process thread tab layout
+---------------------
+r7137
+Add dynamic type initialization
+---------------------
+r7136
+Remove unused code
+---------------------
+r7135
+Fix typo
+---------------------
+r7134
+Tidy up PhSetEnvironmentVariableRemote
+---------------------
+r7133
+Fix process environment menu
+---------------------
+r7132
+Fix process environment highlighting regression
+---------------------
+r7131
+Fix classic theme regression
+---------------------
+r7130
+Remove unused code
+---------------------
+r7129
+Fix propsheet layout macro usage
+---------------------
+r7128
+Add PhEnumFileExtendedAttributes
+---------------------
+r7127
+Fix typo
+---------------------
+r7126
+Fix peview import forwarder name
+---------------------
+r7125
+Update todo list (Added commit 698ba18)
+---------------------
+r7124
+Merge branch 'master' of https://github.com/processhacker/processhacker
+---------------------
+r7123
+Fix RtlOsDeploymentState declaration (#296)
+---------------------
+r7122
+Fix regression from commit d4097e3
+---------------------
+r7121
+Update default button theme, Add initial RS5 dark theme support
+---------------------
+r7120
+Add PhGetWindowStyle
+---------------------
+r7119
+peview: Remove export tab filter
+---------------------
+r7118
+Fix commit 662436ae
+---------------------
+r7117
+peview: Improve import ordinal name lookup
+---------------------
+r7116
+Add PhGetExportNameFromOrdinal
+---------------------
+r7115
+Fix #295
+---------------------
+r7114
+Fix build typo
+---------------------
+r7113
+Fix build
+---------------------
+r7112
+peview: Show names for module ordinal imports
+---------------------
+r7111
+ExtendedTools: Fix phsvc leak
+---------------------
+r7110
+ExtendedTools: Fix viewing unloaded modules for 32bit processes
+---------------------
+r7109
+BuildTools: Add ExtendedTools x86 plugin on 64bit
+---------------------
+r7108
+Fix main window menu theme
+---------------------
+r7107
+Add theme fixes, Add context menu theme support
+---------------------
+r7106
+NetworkTools: Fix tracert theme support
+---------------------
+r7105
+ExtendedServices: Update services other tab layout
+---------------------
+r7104
+BuildTools: Add build timestamp
+---------------------
+r7103
+Fix typo
+---------------------
+r7102
+peview: Fix typo
+---------------------
+r7101
+Fix build
+---------------------
+r7100
+DotNetTools: Add theme support
+---------------------
+r7099
+Remove unused flags
+---------------------
+r7098
+Add PhGetWindowTextToBuffer
+r7097
+WindowExplorer: Add filename for window class module
+---------------------
+r7096
+Update ProcessServicesControls default selection
+---------------------
+r7095
+Fix service trigger tab layout
+---------------------
+r7094
+Remove unused code
+---------------------
+r7093
+Fix build
+---------------------
+r7092
+WindowExplorer: Add filename for window instance handle
+---------------------
+r7091
+Merge branch 'master' of https://github.com/processhacker/processhacker
+---------------------
+r7090
+Fix theme regressions
+---------------------
+r7089
+Another 'uninitialized' warning from clang-cl (#292)
+---------------------
+r7088
+Add .editorconfig file (#294)
+---------------------
+r7087
+Fix default colors and fonts
+---------------------
+r7086
+Add toolbar theme support, Update light theme
+---------------------
+r7085
+Fix changing treenew theme
+---------------------
+r7084
+Add StatusBar theme support
+---------------------
+r7083
+Fix plugin error message
+---------------------
+r7082
+Add main window theme support
+---------------------
+r7081
+Fix error checking
+---------------------
+r7080
+Add treenew custom theme support
+---------------------
+r7079
+Update logging callback, Add log window theme support
+---------------------
+r7078
+Fix treeview theme
+---------------------
+r7077
+Add options window theme support
+---------------------
+r7076
+Update general options
+---------------------
+r7075
+Fix regression
+---------------------
+r7074
+Fix handle properties parenting
+---------------------
+r7073
+Plugins: Update theme margins
+---------------------
+r7072
+Add handle properties theme support
+---------------------
+r7071
+Add service properties theme support
+---------------------
+r7070
+Fix typo
+---------------------
+r7069
+Update light button theme, Add token page theme support
+---------------------
+r7068
+Update default theme window styles
+---------------------
+r7067
+Fix tab control theme, Add additional theme support
+---------------------
+r7066
+Add header, listview and tab control theme support
+---------------------
+r7065
+Add theme support to process properties window
+---------------------
+r7064
+SetupTool: Update library dependencies
+---------------------
+r7063
+SetupTool: Update to latest sdk
+---------------------
+r7062
+Add initial listview theme support
+---------------------
+r7061
+Update phlib headers
+---------------------
+r7060
+Update phlib theme exports
+---------------------
+r7059
+Update sdk includes
+---------------------
+r7058
+Fix changing theme modes
+---------------------
+r7057
+ExtendedTools: Remove gpu nodes window close button
+---------------------
+r7056
+Add process token tab font settings
+---------------------
+r7055
+Add more theme support, Fix process properties window topmost setting
+---------------------
+r7054
+Plugins: Remove uxtheme dependencies (1/2)
+---------------------
+r7053
+Fix emenu macro usage
+---------------------
+r7052
+Add EnableTooltipSupport setting
+---------------------
+r7051
+Add PhDuplicateFontWithNewHeight
+---------------------
+r7050
+HardwareDevices: Update includes
+---------------------
+r7049
+Update phlib theme exports
+---------------------
+r7048
+Add missing header
+---------------------
+r7047
+Add sysinfo theme support, Fix remaining sysinfo flickering issues
+---------------------
+r7046
+Add PhEnableThemeSupport setting
+---------------------
+r7045
+Add PhInitializeWindowTheme
+---------------------
+r7044
+Fix build
+---------------------
+r7043
+Fix #40 (no graphs in win10 tablet mode)
+---------------------
+r7042
+Improve window font consistency, Improve changing font at runtime
+---------------------
+r7041
+Add ShowPluginLoadErrors setting
+---------------------
+r7040
+Fix build
+---------------------
+r7039
+Update phlib font exports
+---------------------
+r7038
+Move fonts to phlib
+---------------------
+r7037
+BuildTools: Fix cleanup path typo
+---------------------
+r7036
+HardwareDevices: Add fmifs.h header
+---------------------
+r7035
+peview: skip empty exports
+---------------------
+r7034
+Update appveyor build format
+---------------------
+r7033
+Fix options window fonts
+---------------------
+r7032
+Update font caching
+---------------------
+r7031
+Update sysinfo layout; Add graph mouseover highlighting
+---------------------
+r7030
+ToolStatus: Fix typo
+---------------------
+r7029
+ToolStatus: Fix font cache
+---------------------
+r7028
+ToolStatus: Add toolbar/statusbar font support
+---------------------
+r7027
+Add wrapper for PhGetFullPathEx
+---------------------
+r7026
+Add disable/delete options to plugin error window
+---------------------
+r7025
+Fix tabspace
+---------------------
+r7024
+Add PhGetFullPathEx
+---------------------
+r7023
+Fix RtlGetFullPathName_UEx type
+---------------------
+r7022
+Plugins: Update callback events
+---------------------
+r7021
+Update plugin callback events
+---------------------
+r7020
+Remove unused code
+---------------------
+r7019
+Tidy up
+---------------------
+r7018
+Fix memory leak
+---------------------
+r7017
+SetupTool: Fix updating kph from portable releases
+---------------------
+r7016
+SetupTool: remove legacy driver
+---------------------
+r7015
+Add missing file from previous commit
+---------------------
+r7014
+SetupTool: Fix updating service from portable releases
+---------------------
+r7013
+Fix debug console symbol path regression
+---------------------
+r7012
+SetupTool: Fix elevation check for portable releases
+---------------------
+r7011
+Add flag
+---------------------
+r7010
+Updater: Fix elevation check for portable releases
+---------------------
+r7009
+SetupTool: Fix duplicate uninstaller
+---------------------
+r7008
+Enable menu menu auto dismiss after 10 seconds
+---------------------
+r7007
+Add menu patch
+---------------------
+r7006
+BuildTools: disable changelog.txt
+---------------------
+r7005
+BuildTools: Fix typo
+---------------------
+r7004
+Add missing include
+---------------------
+r7003
+Fix previous commit
+---------------------
+r7002
+Add PhEditSecurity window thread support
+---------------------
+r7000
+Plugins: Update DelayLoadDLLs
+---------------------
+r6999
 Update network node count
 ---------------------
 r6998
@@ -268,7 +741,6 @@ Fix SAL warning C26451
 r6910
 Revert 3980408 (log window exit status for linux processes)
 ---------------------
-
 r6909
 Add contributors link to About window, Make About single-instance window
 ---------------------
@@ -2012,7 +2484,6 @@ Remove unused line
 r6257
 Improve security dialog AppContainer SID<>Name mappings (#179)
 ---------------------
-
 r6252
 Setup: FIx multiple desktop icons
 ---------------------
@@ -8572,7 +9043,6 @@ r3322
 Update .htaccess, normalize.css and html5shiv.js.
 ---------------------
 r3321
-
 ---------------------
 r3320
 OnlineChecks: fixed crash; fixed memory leaks; fixed headers;
@@ -8992,7 +9462,6 @@ r3182
 * fixed reflected processes not terminating on Windows 8.1 * processes with no threads are shown as suspended * updated ntpsapi.h
 ---------------------
 r3181
-
 ---------------------
 r3180
 Plugins: Removed WindowsCodecs dependencies
@@ -9088,7 +9557,6 @@ r3150
 PH 1.x: Fixed *some* crashes; Updated solutions to .NET 4.5 + vs2012; fixed compiler warnings;
 ---------------------
 r3149
-
 ---------------------
 r3148
 *fixed last commit
@@ -9121,7 +9589,6 @@ r3139
 NetworkTools: fixed typo;
 ---------------------
 r3138
-
 ---------------------
 r3137
 NetworkTools: fixed typo; fixed minimum ping stats;
@@ -9331,7 +9798,6 @@ r3069
 OnlineChecks: added initial prompt 'File already analysed'
 ---------------------
 r3068
-
 ---------------------
 r3067
 *fix last commit
@@ -12295,10 +12761,8 @@ r2081
 website v2 check-in
 ---------------------
 r2080
-
 ---------------------
 r2079
-
 ---------------------
 r2078
 fixed shutdown behaviour
@@ -16108,7 +16572,6 @@ r810
 updated TODO.txt
 ---------------------
 r809
-
 ---------------------
 r808
 completed network list
@@ -16240,19 +16703,15 @@ r766
 installer: lzma2 compression (Inno Setup v5.3.9)
 ---------------------
 r765
-
 ---------------------
 r764
-
 ---------------------
 r763
-
 ---------------------
 r762
 installer: changed the date format in BeveledLabel
 ---------------------
 r761
-
 ---------------------
 r760
 updated installer script (still not fully functional)
@@ -16291,7 +16750,6 @@ r749
 Installer: added AppUserModelID
 ---------------------
 r748
-
 ---------------------
 r747
 reverted credits
@@ -16366,13 +16824,10 @@ r724
 installer: use ProcessHacker's main program's icon
 ---------------------
 r723
-
 ---------------------
 r722
-
 ---------------------
 r721
-
 ---------------------
 r720
 initial installer import (doesn't work at the moment)
@@ -17455,7 +17910,6 @@ r361
 * removed unsafe usage of static variables * added some shortcuts
 ---------------------
 r360
-
 ---------------------
 r359
 fixed some COM issues
@@ -18223,7 +18677,6 @@ r105
 #2911957 - "The given key was not present in the dictionary."
 ---------------------
 r104
-
 ---------------------
 r103
 * bump to 1.9 * #2911938 - "The given key was not present in the dictionary."
@@ -18358,7 +18811,6 @@ r60
 fixed incorrect comment in CircularBuffer
 ---------------------
 r59
-
 ---------------------
 r58
 Installer: remove Assistant.exe even when upgrading
@@ -18397,7 +18849,6 @@ r47
 got rid of Marshal.Read*/Write* calls, replaced with unsafe code
 ---------------------
 r46
-
 ---------------------
 r45
 * #2887106 - "set process I/O Priority" * added ability to set thread I/O priority
@@ -18412,7 +18863,6 @@ r42
 updated README.txt
 ---------------------
 r41
-
 ---------------------
 r40
 removed useless code in CircularBuffer.cs
@@ -18424,7 +18874,6 @@ r38
 deleted unneeded SharpDevelop stuff
 ---------------------
 r37
-
 ---------------------
 r36
 Installer: *Always have the "reset settings" task unchecked even if it's an upgrade and it was previously used when installing *Moved the cleanup stuff into a separate procedure
@@ -18463,7 +18912,6 @@ r25
 ported KPH object manager
 ---------------------
 r24
-
 ---------------------
 r23
 fixed file not found errors
