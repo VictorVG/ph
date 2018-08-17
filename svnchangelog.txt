@@ -1,4 +1,10 @@
-﻿r7158
+﻿r7160
+Add initial security editor TokenDefaultDacl support
+---------------------
+r7159
+Add support for viewing the process default token
+---------------------
+r7158
 Remove WindowExplorer window information triggering Google Chrome showing incompatible application and uninstall
 ---------------------
 r7157
