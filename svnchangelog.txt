@@ -1,4 +1,7 @@
-﻿r7170
+﻿r7171
+Fix handle properties regression
+---------------------
+r7170
 CustomSetupTool: Update sdk dependencies
 ---------------------
 r7169
