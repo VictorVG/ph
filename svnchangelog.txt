@@ -1,4 +1,34 @@
-﻿r7160
+﻿r7170
+CustomSetupTool: Update sdk dependencies
+---------------------
+r7169
+peview: Update sdk dependencies
+---------------------
+r7168
+Fix process token page regression
+---------------------
+r7167
+Remove unused code
+---------------------
+r7166
+Update winsta definitions
+---------------------
+r7165
+Add PhGetTokenIsRestricted
+---------------------
+r7164
+Improve symbol event callbacks, Update thread stack progress window
+---------------------
+r7163
+Fix token default access entries
+---------------------
+r7162
+Fix handle scan error checking
+---------------------
+r7161
+Add hidden process handle scan method
+---------------------
+r7160
 Add initial security editor TokenDefaultDacl support
 ---------------------
 r7159
