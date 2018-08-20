@@ -1,4 +1,16 @@
-﻿r7171
+﻿r7175
+DotNetTools: Update .NET assembly tab (Add options, refresh and search support), Update .NET performance tab layout
+---------------------
+r7174
+Disable PE-style job object names
+---------------------
+r7173
+Fix process job tab default window focus
+---------------------
+r7172
+Add initial locale support
+---------------------
+r7171
 Fix handle properties regression
 ---------------------
 r7170

@@ -15,6 +15,8 @@ program starts (plugin search path is fixed, any subdirectories are ignored)):
 ./LICENSE.txt
 ./README.md
 ./x86/Plugins/DotNetTools.dll - only for x64 edition copy to this folder x86 DLL
+./x86/Plugins/ExtendedTools.dll - only for x64 edition copy to this folder x86 DLL
+
 ./plugins/plugindata/kprocesshacker2_x32.sys - only for x86 OS, required for
                                                TerminatorPlugin
 ./plugins/plugindata/kprocesshacker2_x64.sys - only for x64 OS, required for
@@ -28,24 +30,23 @@ program starts (plugin search path is fixed, any subdirectories are ignored)):
 ./plugins/ExtendedNotifications.dll
 ./plugins/ExtendedServices.dll
 ./plugins/ExtendedTools.dll
-./plugins/FirewallMonitorPlugin.dll - only for Windows 7 - 8.1
+./plugins/FirewallMonitorPlugin.dll - for Windows 8.1 - 10
 ./plugins/FirmwarePlugin.dll
 ./plugins/ForceShutdownPlugin.dll
 ./plugins/HardwareDevices.dll
 ./plugins/HexPidPlugin.dll
-./plugins/NetExtrasPlugin.dll - companion for NetworkTools v1.0 - v1.7 only
+./plugins/LiveDumpPlugin.dll - only for Windows 10
+./plugins/MemoryExtPlugin.dll - only for Windows 10
 ./plugins/NetworkTools.dll
 ./plugins/NvGpuPlugin.dll
 ./plugins/ObjectManagerPlugin.dll
 ./plugins/OnlineChecks.dll
 ./plugins/PerfMonPlugin.dll
 ./plugins/PoolMonPlugin.dll
-./plugins/LiveDumpPlugin.dll - only for Windows 10
-./plugins/MemoryExtPlugin.dll - only for Windows 10
 ./plugins/ProductPolicyPlugin.dll
 ./plugins/ROTViewerPlugin.dll
 ./plugins/SbieSupport.dll
-./plugins/SecurityExplorer.dll - only for Windows 7 - 8.1
+./plugins/SecurityExplorer.dll
 ./plugins/ServiceBackupRestorePlugin.dll
 ./plugins/SetCriticalPlugin.dll
 ./plugins/TaskbarExtPlugin.dll
