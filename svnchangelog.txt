@@ -1,4 +1,7 @@
-﻿r7179
+﻿r7180
+peview: Add RtlLcidToLocaleName
+---------------------
+r7179
 Improve device change plugin support, Update HardwareDevice device change events
 ---------------------
 r7178
