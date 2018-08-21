@@ -1,4 +1,13 @@
-﻿r7176
+﻿r7179
+Improve device change plugin support, Update HardwareDevice device change events
+---------------------
+r7178
+Fix default handle properties theme
+---------------------
+r7177
+Fix default process properties window theme
+---------------------
+r7176
 Don't show module ParentDllBase on unsupported versions
 ---------------------
 r7175
