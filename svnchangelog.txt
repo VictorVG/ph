@@ -1,4 +1,7 @@
-﻿r7175
+﻿r7176
+Don't show module ParentDllBase on unsupported versions
+---------------------
+r7175
 DotNetTools: Update .NET assembly tab (Add options, refresh and search support), Update .NET performance tab layout
 ---------------------
 r7174
