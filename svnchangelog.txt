@@ -1,4 +1,34 @@
-﻿r7180
+﻿r7190
+Update error text, Add PhIsProcessSuspended
+---------------------
+r7189
+Add PhGetUserDefaultLocaleName
+---------------------
+r7188
+Fix type
+---------------------
+r7187
+Remove unused code
+---------------------
+r7186
+Add 'Hide etw' option to process handles tab
+---------------------
+r7185
+Fix default process handle tab options
+---------------------
+r7184
+Fix process variables showing as unmodified system variables
+---------------------
+r7183
+Update phsvc object name
+---------------------
+r7182
+Add process information to handle properties window
+---------------------
+r7181
+Add PhQueryEnvironmentVariable
+---------------------
+r7180
 peview: Add RtlLcidToLocaleName
 ---------------------
 r7179
