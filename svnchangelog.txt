@@ -1,4 +1,13 @@
-﻿r7190
+﻿r7193
+Fix find handles window sorting regression
+---------------------
+r7192
+Fix typo
+---------------------
+r7191
+Add workaround for console '\Device\ConDrv\CurrentIn' handle properties
+---------------------
+r7190
 Update error text, Add PhIsProcessSuspended
 ---------------------
 r7189
