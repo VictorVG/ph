@@ -1,4 +1,13 @@
-﻿r7193
+﻿r7196
+Improve symbol event memory usage
+---------------------
+r7195
+Fix previous commit
+---------------------
+r7194
+Fix highlighting .NET modules loaded by 3rd party CLR runtimes
+---------------------
+r7193
 Fix find handles window sorting regression
 ---------------------
 r7192
