@@ -1,4 +1,7 @@
-﻿r7196
+﻿r7197
+Fix json-c library exporting unused functions
+---------------------
+r7196
 Improve symbol event memory usage
 ---------------------
 r7195
