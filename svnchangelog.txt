@@ -1,4 +1,7 @@
-﻿r7197
+﻿r7198
+Fix PhLoadMappedImageEx memory leak
+---------------------
+r7197
 Fix json-c library exporting unused functions
 ---------------------
 r7196
