@@ -1,4 +1,10 @@
-﻿r7198
+﻿r7200
+Disable WER restart policy (testing #304)
+---------------------
+r7199
+Fix theme header subclass callback
+---------------------
+r7198
 Fix PhLoadMappedImageEx memory leak
 ---------------------
 r7197
