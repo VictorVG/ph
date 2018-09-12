@@ -1,4 +1,7 @@
-﻿r7206
+﻿r7207
+Improve coloring and description for tokens groups (#310)
+---------------------
+r7206
 peview: Block 32bit version from running on 64bit (fixes #307)
 ---------------------
 r7205
