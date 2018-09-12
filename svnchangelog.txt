@@ -1,4 +1,22 @@
-﻿r7200
+﻿r7206
+peview: Block 32bit version from running on 64bit (fixes #307)
+---------------------
+r7205
+Fix crash when renaming processhacker.exe to avoid malware (regression)
+---------------------
+r7204
+Fix commit 0759898
+---------------------
+r7203
+Fix crash when EnablePlugins disabled (regression)
+---------------------
+r7202
+peview: Fix #307 (crash on vanilla Win7 without KB2533623)
+---------------------
+r7201
+Update to latest SDK, Fix build warnings, Fix #308
+---------------------
+r7200
 Disable WER restart policy (testing #304)
 ---------------------
 r7199
