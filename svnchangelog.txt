@@ -1,4 +1,7 @@
-﻿r7207
+﻿r7208
+Highlight modified privileges and groups (#311)
+---------------------
+r7207
 Improve coloring and description for tokens groups (#310)
 ---------------------
 r7206
