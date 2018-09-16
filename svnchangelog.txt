@@ -1,4 +1,7 @@
-﻿r7208
+﻿r7209
+Fix #314, Fix tabspace
+---------------------
+r7208
 Highlight modified privileges and groups (#311)
 ---------------------
 r7207
