@@ -1,4 +1,13 @@
-﻿r7209
+﻿r7212
+Export PhGetMappedImageExports/PhGetMappedImageExportFunction/PhMappedImageRvaToVa for #316
+---------------------
+r7211
+Fix tabspace, Add author
+---------------------
+r7210
+Invalidate dpi awareness if Unaware as it may change. (#315)
+---------------------
+r7209
 Fix #314, Fix tabspace
 ---------------------
 r7208
