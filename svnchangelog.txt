@@ -1,4 +1,7 @@
-﻿r7212
+﻿r7213
+Remove duplicate types #306
+---------------------
+r7212
 Export PhGetMappedImageExports/PhGetMappedImageExportFunction/PhMappedImageRvaToVa for #316
 ---------------------
 r7211
