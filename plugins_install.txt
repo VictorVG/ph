@@ -27,6 +27,7 @@ program starts (plugin search path is fixed, any subdirectories are ignored)):
 ./plugins/DbgViewPlugin.dll
 ./plugins/DnsCachePlugin.dll
 ./plugins/DotNetTools.dll
+./plugins/DpiAwarenessExtPlugin.dll
 ./plugins/ExtendedNotifications.dll
 ./plugins/ExtendedServices.dll
 ./plugins/ExtendedTools.dll
