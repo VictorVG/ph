@@ -1,4 +1,10 @@
-﻿r7219
+﻿r7221
+Fix previous commit
+---------------------
+r7220
+Fix token properties column settings, Fix tabspace
+---------------------
+r7219
 DotNetTools: Fix .NET performance tab sorting
 ---------------------
 r7218
