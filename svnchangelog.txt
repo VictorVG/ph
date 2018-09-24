@@ -1,4 +1,19 @@
-﻿r7214
+﻿r7219
+DotNetTools: Fix .NET performance tab sorting
+---------------------
+r7218
+Add theme support to miniinfo tray window
+---------------------
+r7217
+Fix RS5 dark scrollbar theme, Fix button BS_ICON style drawing
+---------------------
+r7216
+Update PhShellExploreFile error message
+---------------------
+r7215
+Add RS5 version, Fix tabspace
+---------------------
+r7214
 Fix file position in handle properties (#317)
 ---------------------
 r7213
