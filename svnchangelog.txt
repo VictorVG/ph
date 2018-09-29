@@ -1,4 +1,25 @@
-﻿r7221
+﻿r7228
+Add PhAppResolverGetAppIdForWindow
+---------------------
+r7227
+ToolStatus: Fix statusbar text case
+---------------------
+r7226
+WindowExplorer: Update DelayLoadDLLs, Fix tabspace
+---------------------
+r7225
+Fix null check
+---------------------
+r7224
+Add PhSetTokenGroups
+---------------------
+r7223
+Fix type equality check
+---------------------
+r7222
+Add initial exception dialog
+---------------------
+r7221
 Fix previous commit
 ---------------------
 r7220
