@@ -1,4 +1,13 @@
-﻿r7228
+﻿r7231
+Save and restore Token column sort order after closing window
+---------------------
+r7230
+Add listview column sort settings
+---------------------
+r7229
+Add ExtendedListView_GetSort
+---------------------
+r7228
 Add PhAppResolverGetAppIdForWindow
 ---------------------
 r7227
