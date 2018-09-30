@@ -1,4 +1,16 @@
-﻿r7231
+﻿r7235
+DotNetTools: Save and restore .NET performance tab sort column and group states
+---------------------
+r7234
+Fix tabspace
+---------------------
+r7233
+Save and restore process Statistics page group states after closing window
+---------------------
+r7232
+Add listview group state settings
+---------------------
+r7231
 Save and restore Token column sort order after closing window
 ---------------------
 r7230
