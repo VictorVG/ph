@@ -1,4 +1,10 @@
-﻿r7235
+﻿r7237
+Add service highlighting for LocalService processes
+---------------------
+r7236
+Fix service properties theme regression, Add missing copyright
+---------------------
+r7235
 DotNetTools: Save and restore .NET performance tab sort column and group states
 ---------------------
 r7234
