@@ -1,4 +1,7 @@
-﻿r7239
+﻿r7240
+Add PhSetWindowText
+---------------------
+r7239
 Add workaround for 'unknown' network connections created by WSL processes, Add initial highlighting, Fix network connection process icon being destroyed before the connection
 ---------------------
 r7238
