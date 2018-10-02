@@ -1,4 +1,7 @@
-﻿r7242
+﻿r7243
+Adjustment of groups for tokens (#326)
+---------------------
+r7242
 Update SetWindowText to PhSetWindowText
 ---------------------
 r7241
