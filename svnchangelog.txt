@@ -1,4 +1,10 @@
-﻿r7240
+﻿r7242
+Update SetWindowText to PhSetWindowText
+---------------------
+r7241
+Move phlib-test solution into tools
+---------------------
+r7240
 Add PhSetWindowText
 ---------------------
 r7239
