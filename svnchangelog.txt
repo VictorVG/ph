@@ -1,4 +1,10 @@
-﻿r7237
+﻿r7239
+Add workaround for 'unknown' network connections created by WSL processes, Add initial highlighting, Fix network connection process icon being destroyed before the connection
+---------------------
+r7238
+Fix PH_SERVICE_PAGE_MODIFIED handler sometimes firing without a valid WindowHandle
+---------------------
+r7237
 Add service highlighting for LocalService processes
 ---------------------
 r7236
