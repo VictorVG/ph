@@ -1,4 +1,19 @@
-﻿r7243
+﻿r7248
+Add Win10 1809 (RS5) support
+---------------------
+r7247
+Add workaround for #320
+---------------------
+r7246
+Tidy up #327
+---------------------
+r7245
+Remove unused code from PhSetTokenGroups #326
+---------------------
+r7244
+Add SCM permissions menu (#327)
+---------------------
+r7243
 Adjustment of groups for tokens (#326)
 ---------------------
 r7242
