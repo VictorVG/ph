@@ -1,4 +1,64 @@
-﻿r7248
+﻿r7268
+Add ATOM_FLAG_GLOBAL
+---------------------
+r7267
+Workaround weird Visual Studio KUSER_SHARED_DATA warning
+---------------------
+r7266
+Remove unused code
+---------------------
+r7265
+Fix format specifiers
+---------------------
+r7264
+Update KPH solution to latest WDK
+---------------------
+r7263
+Add missing PhGetProcessBreakOnTermination usage
+---------------------
+r7262
+Add missing types from commit c0cdad1
+---------------------
+r7261
+Fix previous commit
+---------------------
+r7260
+Remove RtlQueryInformationAcl since it doesn't always return the correct ACL length
+---------------------
+r7259
+Add process/thread critical columns, Add process/thread miscellaneous > critical menu
+---------------------
+r7258
+Add native BreakOnTermination wrappers
+---------------------
+r7257
+Improve search of memory regions (#328)
+---------------------
+r7256
+Add warning dialog to options window when disabling KPH
+---------------------
+r7255
+Add more RS5 types
+---------------------
+r7254
+Fix resetting the process TokenDefaultDacl after an error. Prevent changing the TokenDefaultDacl owner since it doesn't exist.
+---------------------
+r7253
+Improve TokenDefaultDacl buffer allocations
+---------------------
+r7252
+Add workaround for threads remaining suspended when closing thread stack dialog
+---------------------
+r7251
+ExtendedTools: Update wswatch window (resizable, icons, persistent settings)
+---------------------
+r7250
+Update to latest WinSDK
+---------------------
+r7249
+Implement support for changing process 'default token' security entires
+---------------------
+r7248
 Add Win10 1809 (RS5) support
 ---------------------
 r7247

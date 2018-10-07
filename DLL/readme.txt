@@ -10,8 +10,8 @@ Windows 10/2016 before version 1607 - ./SDK v10/
 Windows 10/2016 neever version 1607 - ./SDK v10 RS1/
 Windows 10/2016 neever 10.0.15063.137 - ./SDK v10 RS2/
 Windows 10/2016 neever  version 1703 - ./SDK v10 RS3/
-Windows 10/2016 neever  version 17134 - ./SDK v10 RS4/
-
+Windows 10/2016 neever  version 1803 - ./SDK v10 RS4/
+Windows 10/2016 neever  version 1809 - ./SDK v10 RS5/
 NOTES!
 
 For x86 OS please use only x86 copy dbghelp.dll, for x64 bit OS also use only
