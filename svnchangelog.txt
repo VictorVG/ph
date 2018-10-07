@@ -1,4 +1,10 @@
-﻿r7268
+﻿r7270
+Remove unused (and broken) splitter control
+---------------------
+r7269
+Update Microsoft Edge tooltips for RS5
+---------------------
+r7268
 Add ATOM_FLAG_GLOBAL
 ---------------------
 r7267
