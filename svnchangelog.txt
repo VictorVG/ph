@@ -1,4 +1,13 @@
-﻿r7270
+﻿r7273
+Remove unused parameter
+---------------------
+r7272
+Use correct PhCallNtQueryFileInformationWithTimeout parameters
+---------------------
+r7271
+Add missing files from previous commit
+---------------------
+r7270
 Remove unused (and broken) splitter control
 ---------------------
 r7269
