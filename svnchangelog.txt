@@ -1,4 +1,40 @@
-﻿r7273
+﻿r7285
+Fix #332
+---------------------
+r7284
+Update Mini-XML to v2.12
+---------------------
+r7283
+ExtendedTools: Fix sorting regression, Fix object reference regression
+---------------------
+r7282
+Add username to some comments
+---------------------
+r7281
+ExtendedTools: Add d3dkmt types for RS5
+---------------------
+r7280
+Add missing type from previous commit
+---------------------
+r7279
+Add network tab > view menu > Hide waiting connections option
+---------------------
+r7278
+Remove unused type
+---------------------
+r7277
+Fix SAL warnings
+---------------------
+r7276
+Remove unused handle, Add missing check for critical menu
+---------------------
+r7275
+Revert "Remove unused handle, Add missing check for critical menu"
+---------------------
+r7274
+Remove unused handle, Add missing check for critical menu
+---------------------
+r7273
 Remove unused parameter
 ---------------------
 r7272
