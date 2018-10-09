@@ -1,4 +1,19 @@
-﻿r7285
+﻿r7290
+Add highlighting for DPC and Interrupt processes
+---------------------
+r7289
+Add initial .NET Core support #333
+---------------------
+r7288
+Fix missing handle type when NtQueryObject has been hooked by kernel
+---------------------
+r7287
+Add PhGetObjectTypeName
+---------------------
+r7286
+Fix crash when viewing handle properties with an unknown type
+---------------------
+r7285
 Fix #332
 ---------------------
 r7284
