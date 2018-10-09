@@ -1,4 +1,7 @@
-﻿r7290
+﻿r7291
+Fix typo (Fixes #325)
+---------------------
+r7290
 Add highlighting for DPC and Interrupt processes
 ---------------------
 r7289
