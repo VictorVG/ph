@@ -1,4 +1,10 @@
-﻿r7291
+﻿r7293
+Fix 32bit WinSDK path typo
+---------------------
+r7292
+Revert "Update to latest WinSDK"
+---------------------
+r7291
 Fix typo (Fixes #325)
 ---------------------
 r7290
