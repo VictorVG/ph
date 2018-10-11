@@ -1,4 +1,7 @@
-﻿r7293
+﻿r7294
+Fix themed tab invalidate
+---------------------
+r7293
 Fix 32bit WinSDK path typo
 ---------------------
 r7292
