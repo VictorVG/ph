@@ -1,3 +1,5 @@
+[d05858d9] 2018-10-20 15:23:53 +1100 dmex : peview: Add CFG GuardFlags text
+[27588405] 2018-10-20 15:10:49 +1100 dmex : Fix typo from commit cfa58786
 [c3b0da64] 2018-10-11 16:09:31 +1100 dmex : Fix themed tab invalidate
 [ac3325a7] 2018-10-10 19:09:04 +1100 dmex : Fix 32bit WinSDK path typo
 [b7101892] 2018-10-10 18:53:59 +1100 dmex : Revert "Update to latest WinSDK"
