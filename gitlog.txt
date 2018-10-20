@@ -1,3 +1,5 @@
+[2a1d9f91] 2018-10-21 06:58:11 +1100 dmex : ExtendedTools: Fix disk/network process property tabs dark theme
+[baa2a158] 2018-10-21 06:55:46 +1100 dmex : Fix some RS4 types, Add NtQueryInformationByName
 [d05858d9] 2018-10-20 15:23:53 +1100 dmex : peview: Add CFG GuardFlags text
 [27588405] 2018-10-20 15:10:49 +1100 dmex : Fix typo from commit cfa58786
 [c3b0da64] 2018-10-11 16:09:31 +1100 dmex : Fix themed tab invalidate
