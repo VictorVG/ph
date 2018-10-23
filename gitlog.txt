@@ -1,3 +1,4 @@
+[e86b520e] 2018-10-23 19:57:26 +1100 dmex : DotNetTools: Add native module highlighting
 [866a8020] 2018-10-23 19:50:29 +1100 dmex : Add column chooser dialog dark theme support
 [a5f61569] 2018-10-23 19:49:49 +1100 dmex : Remove unused code
 [fee5977e] 2018-10-23 19:48:20 +1100 dmex : CustomBuildTool: Fix appx build
