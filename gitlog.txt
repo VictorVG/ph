@@ -1,3 +1,8 @@
+[866a8020] 2018-10-23 19:50:29 +1100 dmex : Add column chooser dialog dark theme support
+[a5f61569] 2018-10-23 19:49:49 +1100 dmex : Remove unused code
+[fee5977e] 2018-10-23 19:48:20 +1100 dmex : CustomBuildTool: Fix appx build
+[87a5cae3] 2018-10-23 19:30:59 +1100 dmex : Remove unused code, Update access_mask usage
+[931269d2] 2018-10-23 13:23:48 +1100 dmex : Fix #334
 [2a1d9f91] 2018-10-21 06:58:11 +1100 dmex : ExtendedTools: Fix disk/network process property tabs dark theme
 [baa2a158] 2018-10-21 06:55:46 +1100 dmex : Fix some RS4 types, Add NtQueryInformationByName
 [d05858d9] 2018-10-20 15:23:53 +1100 dmex : peview: Add CFG GuardFlags text
