@@ -1,3 +1,8 @@
+[52350c1b] 2018-10-25 00:25:25 +1100 dmex : peview: Fix missing tab text, Update propstore enumeration flags
+[0551c48f] 2018-10-25 00:10:39 +1100 dmex : WindowExplorer: Fix missing imports, Update DelayLoadDLLs
+[52985c1c] 2018-10-25 00:00:23 +1100 dmex : peview: Remove unused code
+[8c00a53d] 2018-10-24 23:53:17 +1100 dmex : WindowExplorer: Update window properties dialog layout, Add window property storage tab, Add window module name column to treelist
+[1f5d7827] 2018-10-24 23:51:03 +1100 dmex : peview: Add file property store and extended attribute information
 [e86b520e] 2018-10-23 19:57:26 +1100 dmex : DotNetTools: Add native module highlighting
 [866a8020] 2018-10-23 19:50:29 +1100 dmex : Add column chooser dialog dark theme support
 [a5f61569] 2018-10-23 19:49:49 +1100 dmex : Remove unused code
