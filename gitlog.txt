@@ -1,3 +1,6 @@
+[2f1d4fcc] 2018-10-25 11:34:38 +1100 dmex : peview: Add missing file from commit a8a5b3d
+[903ef747] 2018-10-25 11:28:09 +1100 dmex : WindowExplorer: Fix window properties window placement
+[a8a5b3d9] 2018-10-25 11:13:41 +1100 dmex : peview: Add file stream information, Fix listview indexes
 [52350c1b] 2018-10-25 00:25:25 +1100 dmex : peview: Fix missing tab text, Update propstore enumeration flags
 [0551c48f] 2018-10-25 00:10:39 +1100 dmex : WindowExplorer: Fix missing imports, Update DelayLoadDLLs
 [52985c1c] 2018-10-25 00:00:23 +1100 dmex : peview: Remove unused code
