@@ -1,3 +1,6 @@
+[e0c6d426] 2018-10-26 10:40:39 +1100 dmex : CustomSetupTool: Fix updating kph from portable install when not elevated
+[83c52fb8] 2018-10-26 10:06:44 +1100 dmex : CustomSetupTool: Fix resetting kph state after updates
+[f8e95892] 2018-10-26 10:03:36 +1100 dmex : Remove unused code
 [2f1d4fcc] 2018-10-25 11:34:38 +1100 dmex : peview: Add missing file from commit a8a5b3d
 [903ef747] 2018-10-25 11:28:09 +1100 dmex : WindowExplorer: Fix window properties window placement
 [a8a5b3d9] 2018-10-25 11:13:41 +1100 dmex : peview: Add file stream information, Fix listview indexes
