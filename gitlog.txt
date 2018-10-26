@@ -1,3 +1,7 @@
+[df06a5b7] 2018-10-26 11:32:34 +1100 dmex : WindowExplorer: Update properties text
+[9aa5e02f] 2018-10-26 11:30:49 +1100 dmex : peview: Fix missing properties for some files
+[8ade7d94] 2018-10-26 11:29:15 +1100 dmex : Add PhEnumFileStreamsEx
+[b9ac3ff7] 2018-10-26 11:06:48 +1100 dmex : Updater: Fix updating kph from portable install when not elevated
 [e0c6d426] 2018-10-26 10:40:39 +1100 dmex : CustomSetupTool: Fix updating kph from portable install when not elevated
 [83c52fb8] 2018-10-26 10:06:44 +1100 dmex : CustomSetupTool: Fix resetting kph state after updates
 [f8e95892] 2018-10-26 10:03:36 +1100 dmex : Remove unused code
