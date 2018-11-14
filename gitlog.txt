@@ -1,3 +1,5 @@
+[1bca2c12] 2018-11-14 16:44:46 +0100 dmex : ExtendedTools: Fix GPU details WDDM version on Win10-1809
+[1bb7c175] 2018-11-14 16:43:49 +0100 dmex : Fix typo
 [f0b96b18] 2018-11-13 16:19:51 +0100 dmex : Disable Sandboxie support #233
 [7d1767a5] 2018-11-13 13:34:59 +0100 dmex : BuildTool: Fix appveyor search path
 [9220b507] 2018-11-13 13:08:49 +0100 dmex : Fix processes tab 'desktop' column handle leak
