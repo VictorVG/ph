@@ -1,3 +1,5 @@
+[e968ee18] 2018-11-16 18:00:17 +0100 diversenok :  Show dangerous flags for tokens (#338)
+[9e0da12e] 2018-11-15 10:53:01 +0100 dmex : Update to latest WinSDK
 [1bca2c12] 2018-11-14 16:44:46 +0100 dmex : ExtendedTools: Fix GPU details WDDM version on Win10-1809
 [1bb7c175] 2018-11-14 16:43:49 +0100 dmex : Fix typo
 [f0b96b18] 2018-11-13 16:19:51 +0100 dmex : Disable Sandboxie support #233
