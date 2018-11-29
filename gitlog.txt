@@ -1,3 +1,4 @@
+[38c3b3d9] 2018-11-29 10:29:27 +0100 TheEragon : Retpoline support (#343)
 [b7055cd5] 2018-11-28 15:32:28 +0100 dmex : peview: Fix flags (reported by @TheEragon)
 [44a3b3b5] 2018-11-26 21:53:55 +0100 dmex : Add workaround for some dark-theme issues
 [3f96e262] 2018-11-26 21:44:55 +0100 dmex : Merge branch 'master' of https://github.com/processhacker/processhacker
