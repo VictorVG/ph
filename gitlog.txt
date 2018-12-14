@@ -1,3 +1,7 @@
+[f382dbc7] 2018-12-14 02:17:32 +0100 dmex : Fix incorrect variable name
+[3c85582b] 2018-12-14 01:15:08 +0100 dmex : Add prototypes for RS5 uxtheme dark theme support
+[931bfb94] 2018-12-14 01:10:09 +0100 dmex : Partially fix process username caching
+[ace90c8c] 2018-12-14 00:49:22 +0100 dmex : NetworkTools: Fix disabling ping/tracert for LAN addresses
 [ad4bc71f] 2018-12-06 20:03:30 +0100 dmex : Update retpoline types
 [58c5229c] 2018-12-06 19:15:07 +0100 dmex : Merge branch 'master' of https://github.com/processhacker/processhacker
 [aa6fd10b] 2018-12-06 19:14:53 +0100 dmex : Partial revert 77f43a80 (re-add strict version checking for KPH on Win10), Add missing 32bit KPH offsets
