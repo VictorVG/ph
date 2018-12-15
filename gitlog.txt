@@ -1,3 +1,10 @@
+[1acc31b0] 2018-12-15 05:38:44 +0100 dmex : BuildTools: Add VS2019 support #347
+[73689b10] 2018-12-15 05:25:33 +0100 dmex : Fix memory leak
+[9c3a5534] 2018-12-15 05:19:28 +0100 dmex : HardwareDevices: Fix macro usage
+[f7f125f4] 2018-12-15 05:18:42 +0100 dmex : WindowExplorer: Fix crash, Fix search filter after refreshing
+[eac4ea18] 2018-12-15 05:16:25 +0100 dmex : Fix definition
+[804bccae] 2018-12-15 05:16:04 +0100 dmex : Fix symbol name length
+[d5018507] 2018-12-15 01:51:58 +0100 dmex : WindowExplorer: Fix search after selecting refresh
 [f382dbc7] 2018-12-14 02:17:32 +0100 dmex : Fix incorrect variable name
 [3c85582b] 2018-12-14 01:15:08 +0100 dmex : Add prototypes for RS5 uxtheme dark theme support
 [931bfb94] 2018-12-14 01:10:09 +0100 dmex : Partially fix process username caching
