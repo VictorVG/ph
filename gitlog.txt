@@ -1,3 +1,4 @@
+[6380ba3c] 2018-12-17 13:30:14 +0100 dmex : Fix module image highlighting regression 73689b1
 [1acc31b0] 2018-12-15 05:38:44 +0100 dmex : BuildTools: Add VS2019 support #347
 [73689b10] 2018-12-15 05:25:33 +0100 dmex : Fix memory leak
 [9c3a5534] 2018-12-15 05:19:28 +0100 dmex : HardwareDevices: Fix macro usage
