@@ -1,3 +1,10 @@
+[c1348da9] 2018-12-19 21:06:18 +0100 dmex : WindowExplorer: Fix deadlock querying window text, Fix search after selecting refresh
+[4997d6aa] 2018-12-19 20:30:09 +0100 dmex : Fix commit 73d3eef
+[6b2a6394] 2018-12-19 20:25:06 +0100 dmex : peview: Disable unnecessary file dialog path validation
+[8bd9624b] 2018-12-19 20:23:51 +0100 dmex : Fix options window classic theme
+[3446afc6] 2018-12-19 20:23:21 +0100 dmex : Fix boosting network provider
+[73d3eef0] 2018-12-19 20:22:53 +0100 dmex : Update includes
+[f182c344] 2018-12-19 20:21:35 +0100 dmex : HardwareDevices: Fix memory leak
 [6380ba3c] 2018-12-17 13:30:14 +0100 dmex : Fix module image highlighting regression 73689b1
 [1acc31b0] 2018-12-15 05:38:44 +0100 dmex : BuildTools: Add VS2019 support #347
 [73689b10] 2018-12-15 05:25:33 +0100 dmex : Fix memory leak
