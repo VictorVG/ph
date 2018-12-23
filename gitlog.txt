@@ -1,3 +1,4 @@
+[b0079131] 2018-12-22 21:36:06 +0100 dmex : peview: Add missing load config field, Tidy up #353
 [90267742] 2018-12-21 01:20:39 +0100 Force.Charlie-I : peview: Add PE Image Machine Type support ARM64 and Hybrid PE (#353)
 [c1348da9] 2018-12-19 21:06:18 +0100 dmex : WindowExplorer: Fix deadlock querying window text, Fix search after selecting refresh
 [4997d6aa] 2018-12-19 20:30:09 +0100 dmex : Fix commit 73d3eef
