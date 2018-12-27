@@ -1,3 +1,4 @@
+[32b4d009] 2018-12-26 23:15:09 +0100 dmex : Updater: Fix crash #355
 [d2736ce7] 2018-12-26 16:55:20 +0100 dmex : Fix missing image filename for protected processes
 [752827c8] 2018-12-26 16:54:10 +0100 dmex : Remove spacing
 [353e2a32] 2018-12-26 16:53:23 +0100 dmex : Fix typo
