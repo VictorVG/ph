@@ -1,3 +1,5 @@
+[89130edb] 2018-12-29 21:06:14 +0100 dmex : Fix options dpi scaling
+[63538114] 2018-12-29 20:55:26 +0100 dmex : Fix incorrect default options window setting
 [ae74e141] 2018-12-27 22:33:17 +0100 dmex : Add file ProcessIds wrapper
 [ef7bac7d] 2018-12-27 19:03:01 +0100 dmex : Add extra file information wrappers
 [85d2b4b3] 2018-12-27 19:01:58 +0100 dmex : Cache object types
