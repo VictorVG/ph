@@ -1,3 +1,4 @@
+[3b59f9e1] 2018-12-30 03:10:23 +0100 dmex : Redefine dll import macros
 [89130edb] 2018-12-29 21:06:14 +0100 dmex : Fix options dpi scaling
 [63538114] 2018-12-29 20:55:26 +0100 dmex : Fix incorrect default options window setting
 [ae74e141] 2018-12-27 22:33:17 +0100 dmex : Add file ProcessIds wrapper
