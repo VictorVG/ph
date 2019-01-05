@@ -1,3 +1,17 @@
+[be5184bb] 2019-01-05 05:49:29 +0100 dmex : HardwareDevices: Add copy menu to Disk/Network property pages
+[78f1c557] 2019-01-05 05:17:34 +0100 dmex : Update copyright
+[8942a3b9] 2019-01-05 05:15:20 +0100 dmex : WindowExplorer: Add copy menu to Window properties pages
+[d40f22fc] 2019-01-05 04:15:34 +0100 dmex : ExtendedTools: Add theme to module services dialog, Fix regression saving module services window settings
+[38300215] 2019-01-05 02:33:48 +0100 dmex : Fix default token security page options
+[82411147] 2019-01-05 02:32:40 +0100 dmex : Add copy menu to Token properties page
+[f40bb58f] 2019-01-05 02:07:33 +0100 dmex : Add copy menu to Job properties page
+[3282d79c] 2019-01-05 00:58:56 +0100 dmex : DotNetTools: Add copy menu to .NET performance page
+[4c02c412] 2019-01-05 00:58:07 +0100 dmex : Add copy menu to statistics/handle properties pages
+[9c6d5453] 2019-01-05 00:53:56 +0100 dmex : Export PhHandleListViewNotifyBehaviors
+[d21f8299] 2019-01-05 00:26:38 +0100 dmex : Update copyrights
+[9268765b] 2019-01-05 00:24:13 +0100 dmex : Add listview copy handlers
+[e9a948e2] 2019-01-04 22:57:14 +0100 dmex : Fix options window restart dialog location
+[2da2ce61] 2019-01-04 22:56:24 +0100 dmex : Add minidump option to crash dialog
 [bde9755c] 2018-12-30 22:04:16 +0100 dmex : Fix previous commit
 [6d0993d4] 2018-12-30 21:53:50 +0100 dmex : Fix default log window location
 [05eb80a5] 2018-12-30 21:51:55 +0100 dmex : Fix default find window location
