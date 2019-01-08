@@ -1,3 +1,7 @@
+[4ec3f51f] 2019-01-08 23:13:46 +0100 dmex : peview: Add copy menu to properties pages
+[9cc584fa] 2019-01-08 22:34:39 +0100 dmex : Fix network connection hashtable hash
+[d211b278] 2019-01-08 22:32:52 +0100 dmex : Update some format specifiers, Update macro usage
+[baac3f23] 2019-01-08 22:28:10 +0100 dmex : Fix copy menu crash
 [be5184bb] 2019-01-05 05:49:29 +0100 dmex : HardwareDevices: Add copy menu to Disk/Network property pages
 [78f1c557] 2019-01-05 05:17:34 +0100 dmex : Update copyright
 [8942a3b9] 2019-01-05 05:15:20 +0100 dmex : WindowExplorer: Add copy menu to Window properties pages
