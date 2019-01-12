@@ -1,3 +1,4 @@
+[6032f889] 2019-01-12 06:05:06 +0100 dmex : Add dark window frame support for dark theme (RS5 and above)
 [422e450f] 2019-01-12 00:30:35 +0100 dmex : WindowExplorer: Fix window placement settings
 [fdbd2bd5] 2019-01-11 23:53:32 +0100 dmex : Update ACL editor with ISecurityInformation3 support
 [31747073] 2019-01-11 23:46:44 +0100 dmex : Add PhOpenFileWin32/PhOpenFileWin32Ex
