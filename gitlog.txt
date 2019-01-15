@@ -1,3 +1,10 @@
+[e0e1313a] 2019-01-15 23:03:38 +0100 dmex : Update peview.h
+[4d2ef88b] 2019-01-15 22:56:55 +0100 dmex : peview: Add image hardlinks tab
+[f5c034d7] 2019-01-15 22:53:47 +0100 dmex : Update macro usage
+[3bd60e38] 2019-01-15 22:44:15 +0100 dmex : Remove junk
+[3327d87f] 2019-01-15 22:38:23 +0100 dmex : Add PhGetMappedWslImageDynamic
+[e5763f8e] 2019-01-15 21:35:54 +0100 dmex : peview: Add dynamic properties tab for ELF binaries, Add more copy menus
+[9d46983c] 2019-01-15 21:33:01 +0100 dmex : Update macro usage, Remove deprecated ChangeWindowMessageFilter
 [1d4e8554] 2019-01-15 16:32:38 +0100 dmex : SetupTool: Fix #361
 [abf9ff86] 2019-01-13 18:36:15 +0100 dmex : Export PhGetPluginName
 [d099dcad] 2019-01-13 18:24:29 +0100 dmex : ToolStatus: Add reserved bits
