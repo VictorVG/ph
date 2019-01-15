@@ -1,3 +1,4 @@
+[1d4e8554] 2019-01-15 16:32:38 +0100 dmex : SetupTool: Fix #361
 [abf9ff86] 2019-01-13 18:36:15 +0100 dmex : Export PhGetPluginName
 [d099dcad] 2019-01-13 18:24:29 +0100 dmex : ToolStatus: Add reserved bits
 [ad8a9874] 2019-01-13 18:22:47 +0100 dmex : Plugins: Update ToolStatus plugin interface
