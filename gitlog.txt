@@ -1,3 +1,4 @@
+[0e53a25a] 2019-01-16 15:08:04 +0100 dmex : peview: Add missing ELF dynamic tags
 [e0e1313a] 2019-01-15 23:03:38 +0100 dmex : Update peview.h
 [4d2ef88b] 2019-01-15 22:56:55 +0100 dmex : peview: Add image hardlinks tab
 [f5c034d7] 2019-01-15 22:53:47 +0100 dmex : Update macro usage
