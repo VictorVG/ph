@@ -1,3 +1,8 @@
+[12098ac7] 2019-01-16 21:49:39 +0100 dmex : Fix build error #364
+[e4015ecf] 2019-01-16 21:49:16 +0100 dmex : BuildTools: Fix warning
+[5f1db39c] 2019-01-16 19:20:54 +0100 dmex : Update ntpsapi.h
+[d297f4cf] 2019-01-16 19:20:19 +0100 dmex : Update headers
+[d498d6af] 2019-01-16 17:11:17 +0100 dmex : peview: Add ELF import/export symbol visibility
 [0e53a25a] 2019-01-16 15:08:04 +0100 dmex : peview: Add missing ELF dynamic tags
 [e0e1313a] 2019-01-15 23:03:38 +0100 dmex : Update peview.h
 [4d2ef88b] 2019-01-15 22:56:55 +0100 dmex : peview: Add image hardlinks tab
