@@ -1,3 +1,20 @@
+[10a654dd] 2019-01-20 12:43:39 +0100 dmex : Fix showing security editor for unnamed objects
+[5248bf20] 2019-01-20 12:00:28 +0100 dmex : Fix token capabilities tab listview autosize
+[8d825143] 2019-01-20 11:59:53 +0100 dmex : Fix PhGetCapabilitySidName assert
+[5c2c0c14] 2019-01-20 11:46:46 +0100 dmex : ToolStatus: Fix toolbar graph plugin name check
+[226678c2] 2019-01-20 11:44:55 +0100 dmex : Update copyrights
+[5059607e] 2019-01-20 11:42:18 +0100 dmex : Add support for APP_CAPABILITY sid names on Win10
+[2bd2b7aa] 2019-01-20 11:38:49 +0100 dmex : Fix plugins not loading from Virtualbox and Vmware network shares
+[a8730caa] 2019-01-20 11:26:36 +0100 dmex : Improve PhPluginCreateEMenuItem context usage
+[697da280] 2019-01-20 11:24:07 +0100 dmex : Improve PhCreateProcessIgnoreIfeoDebugger handle usage, Remove legacy win32 debug wrappers
+[1bf1e4f4] 2019-01-20 11:21:47 +0100 dmex : Update Save textheader datetime format
+[295d7324] 2019-01-20 11:01:20 +0100 dmex : BuildTool: Add caps file support
+[bdd884cd] 2019-01-20 10:48:08 +0100 dmex : Improve handle string caching
+[97e04b75] 2019-01-20 10:28:14 +0100 dmex : Add PhFileReadAllText
+[fdb78f5f] 2019-01-20 10:01:25 +0100 dmex : Improve string caching, Fix memory leak
+[3b645a59] 2019-01-20 10:00:32 +0100 dmex : Remove typedef
+[a5216da7] 2019-01-20 08:48:57 +0100 dmex : peview: Fix properties tab on Win7
+[cc5770ff] 2019-01-20 08:31:54 +0100 dmex : Improve PEB string caching, Update macro usage
 [12098ac7] 2019-01-16 21:49:39 +0100 dmex : Fix build error #364
 [e4015ecf] 2019-01-16 21:49:16 +0100 dmex : BuildTools: Fix warning
 [5f1db39c] 2019-01-16 19:20:54 +0100 dmex : Update ntpsapi.h

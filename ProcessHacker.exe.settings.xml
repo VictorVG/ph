@@ -216,7 +216,7 @@
 	<setting name="ProcessHacker.ToolStatus.ToolbarButtonConfig"></setting>
 	<setting name="ProcessHacker.ToolStatus.StatusbarConfig">10|3|14|2|1|9|10|4|5|6|8</setting>
 	<setting name="ProcessHacker.UpdateChecker.PromptStart">1</setting>
-	<setting name="ProcessHacker.UpdateChecker.LastUpdateCheckTime">131567501326142881</setting>
+	<setting name="ProcessHacker.UpdateChecker.LastUpdateCheckTime"></setting>
 	<setting name="ProcessHacker.UserNotes.DatabasePath">usernotesdb.xml</setting>
 	<setting name="ProcessHacker.UserNotes.ColorCustomList"></setting>
 	<setting name="dmex.WaitChainPlugin.TreeListColumns"></setting>
