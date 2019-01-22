@@ -1,3 +1,16 @@
+[0bfcb231] 2019-01-20 23:11:58 +0100 dmex : Add token capability guids
+[97652975] 2019-01-20 20:22:38 +0100 dmex : Fix build
+[979657de] 2019-01-20 17:04:17 +0100 dmex : Update known capability sid names
+[5ec0e23d] 2019-01-20 16:57:59 +0100 dmex : Fix PhFileReadAllText handle leak
+[6b3508ee] 2019-01-20 16:50:50 +0100 dmex : Add missing line from previous commit
+[208154f5] 2019-01-20 16:43:36 +0100 dmex : Merge wj32's HexPidPlugin; Add PID (Hex) column, Add TID (Hex) column, Remove ShowHexId options
+[8ee242f8] 2019-01-20 16:40:02 +0100 dmex : Fix size check
+[e8aea792] 2019-01-20 16:39:30 +0100 dmex : Fix memory leak
+[bef51ca3] 2019-01-20 16:15:00 +0100 dmex : Add copy menus to token properties window
+[6beb6778] 2019-01-20 16:12:38 +0100 dmex : peview: Add ProcessId tab
+[2c606ed0] 2019-01-20 16:00:06 +0100 dmex : Fix find window menu memory leak
+[6a5f452a] 2019-01-20 15:58:18 +0100 dmex : ExtendedTools: Fix gpu driver datetime
+[d9f376ca] 2019-01-20 14:39:53 +0100 dmex : Fix capslist parser line endings for CRLF and LF
 [10a654dd] 2019-01-20 12:43:39 +0100 dmex : Fix showing security editor for unnamed objects
 [5248bf20] 2019-01-20 12:00:28 +0100 dmex : Fix token capabilities tab listview autosize
 [8d825143] 2019-01-20 11:59:53 +0100 dmex : Fix PhGetCapabilitySidName assert

@@ -18,7 +18,7 @@ Notes:
 
 * The official repository for Process Hacker Your can find on to GitHub:
 
-          https://github.com/processhacker2/processhacker2
+          https://github.com/processhacker/processhacker
 
 * Kernel mode driver KProcessHacker has four security level parameter store in
   to "SecurityLevel" (Reg_Dword) value whats needed for check Process Hacker
