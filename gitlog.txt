@@ -1,3 +1,8 @@
+[c0b2d23b] 2019-01-22 23:07:20 +0100 dmex : Fix PhCreatePipe creating a null named pipe instead of anonymous pipes
+[0fe27cbb] 2019-01-22 21:32:19 +0100 dmex : Fix typo
+[3997d4c1] 2019-01-22 21:31:30 +0100 dmex : Update macro usage
+[04828e5b] 2019-01-22 21:29:53 +0100 dmex : Add comments for some reversed functions
+[fa546403] 2019-01-22 21:29:18 +0100 dmex : Move PhReferenceObjects
 [0bfcb231] 2019-01-20 23:11:58 +0100 dmex : Add token capability guids
 [97652975] 2019-01-20 20:22:38 +0100 dmex : Fix build
 [979657de] 2019-01-20 17:04:17 +0100 dmex : Update known capability sid names
