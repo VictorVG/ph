@@ -1,3 +1,16 @@
+[b6564f3c] 2019-01-26 03:45:23 +0100 dmex : peview: Add image version information for WSL binaries on Windows 10
+[1c399b3e] 2019-01-26 03:10:56 +0100 dmex : Updater: Remove old code
+[339dfa7b] 2019-01-26 01:27:34 +0100 dmex : Fix versioninfo cache threading issues
+[2dd7d20d] 2019-01-26 01:07:43 +0100 dmex : SetupTool: Add extra error logging
+[ffd1c2e5] 2019-01-26 00:45:41 +0100 dmex : Improve lxss cleanup
+[f72e6ace] 2019-01-26 00:41:43 +0100 dmex : Fix comment typo
+[9ee2ac5a] 2019-01-26 00:40:42 +0100 dmex : Add support for lxss versioninfo #153, Add caching for file versioninfo
+[83048708] 2019-01-26 00:35:12 +0100 dmex : Add inital lxss support wrappers
+[5caf0f49] 2019-01-26 00:29:23 +0100 dmex : Don't query some Windows types for lxss processes
+[f029274a] 2019-01-25 22:29:29 +0100 dmex : Fix macro usage
+[fd069c54] 2019-01-25 22:29:08 +0100 dmex : Add PhGetFileText
+[04f18ea9] 2019-01-25 22:28:26 +0100 dmex : Add PhCreatePipeEx
+[07e1d0e2] 2019-01-25 22:27:39 +0100 dmex : Fix newline
 [c0b2d23b] 2019-01-22 23:07:20 +0100 dmex : Fix PhCreatePipe creating a null named pipe instead of anonymous pipes
 [0fe27cbb] 2019-01-22 21:32:19 +0100 dmex : Fix typo
 [3997d4c1] 2019-01-22 21:31:30 +0100 dmex : Update macro usage
