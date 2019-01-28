@@ -1,3 +1,5 @@
+[bff436f3] 2019-01-28 09:06:35 +0100 dmex : Fix service handle leak #369
+[74512519] 2019-01-28 09:04:25 +0100 dmex : Update some comments
 [5f3a5f8f] 2019-01-26 03:54:16 +0100 dmex : peview: Query versioninfo asynchronously
 [b6564f3c] 2019-01-26 03:45:23 +0100 dmex : peview: Add image version information for WSL binaries on Windows 10
 [1c399b3e] 2019-01-26 03:10:56 +0100 dmex : Updater: Remove old code
