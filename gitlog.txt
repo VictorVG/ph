@@ -1,3 +1,11 @@
+[51191638] 2019-01-28 22:18:50 +0100 dmex : Remove legacy menu resources
+[b5213bbe] 2019-01-28 22:17:04 +0100 dmex : Show current package capability name
+[276b256d] 2019-01-28 22:06:45 +0100 dmex : Update token security attributes
+[02d7b830] 2019-01-28 22:06:17 +0100 dmex : Add RtlDetermineDosPathNameType_Ustr
+[fb553c75] 2019-01-28 22:05:44 +0100 dmex : Improve IDataObject caching
+[3f4206f4] 2019-01-28 22:04:38 +0100 dmex : Fix PhGetProcessPackageFullName string comparison
+[3e4f1018] 2019-01-28 21:54:31 +0100 dmex : Update known token caps
+[f68c0a0b] 2019-01-28 20:22:13 +0100 diversenok : Correct token mandatory label interpretation (#371)
 [bff436f3] 2019-01-28 09:06:35 +0100 dmex : Fix service handle leak #369
 [74512519] 2019-01-28 09:04:25 +0100 dmex : Update some comments
 [5f3a5f8f] 2019-01-26 03:54:16 +0100 dmex : peview: Query versioninfo asynchronously
