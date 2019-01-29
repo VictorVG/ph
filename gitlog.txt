@@ -1,3 +1,4 @@
+[385b2c78] 2019-01-29 11:54:46 +0100 diversenok : Fix user-related environments (#372)
 [51191638] 2019-01-28 22:18:50 +0100 dmex : Remove legacy menu resources
 [b5213bbe] 2019-01-28 22:17:04 +0100 dmex : Show current package capability name
 [276b256d] 2019-01-28 22:06:45 +0100 dmex : Update token security attributes
