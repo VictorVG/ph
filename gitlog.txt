@@ -1,3 +1,9 @@
+[9c786463] 2019-01-29 23:29:38 +0100 dmex : Fix reference bug from commit 1bd7b55
+[2d9367e8] 2019-01-29 23:15:21 +0100 dmex : Fix PhInitializeMappedArchive bug when viewing llvm compiled lib files
+[3f447c02] 2019-01-29 22:21:46 +0100 dmex : Update string formats
+[92eb909d] 2019-01-29 22:11:13 +0100 dmex : Update token capabilities page with capability guid name
+[4457f18c] 2019-01-29 22:09:06 +0100 dmex : Rename variable
+[1bd7b558] 2019-01-29 22:08:33 +0100 dmex : Add PhGetCapabilityGuidName
 [385b2c78] 2019-01-29 11:54:46 +0100 diversenok : Fix user-related environments (#372)
 [51191638] 2019-01-28 22:18:50 +0100 dmex : Remove legacy menu resources
 [b5213bbe] 2019-01-28 22:17:04 +0100 dmex : Show current package capability name
