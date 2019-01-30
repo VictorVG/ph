@@ -7,16 +7,18 @@ program starts (plugin search path is fixed, any subdirectories are ignored)):
      (for Process Hacker v3.0.0.268 or newer) plug-in.
 ./ --- program root folder, use any location
 ./capslist.txt
-./kprocesshacker.sys
-./peview.exe
-./ProcessHacker.exe
-./x86/ProcessHacker.exe - only for x64 edition copy to this folder x86 EXE
 ./CHANGELOG.txt
 ./COPYRIGHT.txt
+./dbgcore.dll - latest version and same bitness as ProcessHacker.exe
+./x86/dbgcore.dll - same as x64 version, but x86 for x64 edition only
+./kprocesshacker.sys
 ./LICENSE.txt
+./peview.exe
+./ProcessHacker.exe
 ./README.md
 ./x86/Plugins/DotNetTools.dll - only for x64 edition copy to this folder x86 DLL
 ./x86/Plugins/ExtendedTools.dll - only for x64 edition copy to this folder x86 DLL
+./x86/ProcessHacker.exe - only for x64 edition copy to this folder x86 EXE
 
 ./plugins/plugindata/kprocesshacker2_x32.sys - only for x86 OS, required for
                                                TerminatorPlugin

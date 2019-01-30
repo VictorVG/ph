@@ -3,9 +3,9 @@ Required external system components:
 Plug-ins minimal OS version required for Process Hacker v3.0 Windows 7/
 Server 2008 R2 and installed MS KB2533623.
 
-If You on system don't installed Debugging Tools for Windows (Debuggers And
-Tools) and You don't like install this just copy dbghelp.dll located in to DLL
-dir (see ./DLL/readme.txt for details and inctallation incructions).
+If You don't have "dbgcore.dll" in to Process Hacker directory (see
+"plugins_install.txt" for details) then any create dump operation call Access
+Violation (AV) and crash Process Hacker process.
 
 If Your like use GeoIP features go to menu "Tools" -> "Network tools" ->
 "GeoIP database updates..." press "Download" then press "Restart" button,
