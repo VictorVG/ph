@@ -1,3 +1,15 @@
+[5dbf44ba] 2019-02-01 23:01:56 +0100 dmex : Add missing context
+[f84c0e7b] 2019-02-01 23:01:17 +0100 dmex : Fix macro usage
+[2e37fb2f] 2019-02-01 22:59:59 +0100 dmex : Remove spaces
+[e73aa9a5] 2019-02-01 22:59:08 +0100 dmex : NetworkTools: Fix relative db paths
+[558821cb] 2019-02-01 21:53:08 +0100 dmex : Remove duplicate topmost
+[3eadbaee] 2019-02-01 21:52:41 +0100 dmex : Fix find window/handle properties not showing when topmost
+[ea407b3d] 2019-02-01 21:51:47 +0100 dmex : Update macro usage
+[2db562a3] 2019-02-01 21:50:56 +0100 dmex : Add PhIsPackageCapabilitySid
+[a647310b] 2019-02-01 21:50:36 +0100 dmex : Improve PhEnumerateKey callback and CapabilitySid lookup
+[e7680a8c] 2019-02-01 21:43:02 +0100 dmex : Add missing header
+[19e235da] 2019-02-01 20:43:37 +0100 dmex : Add support for undocumented CMD environment variables (modified patch by diversenok)  #374
+[38d98a21] 2019-02-01 20:38:19 +0100 dmex : Fix parsing DOS1.0 environment variables (patch by diversenok)
 [9c786463] 2019-01-29 23:29:38 +0100 dmex : Fix reference bug from commit 1bd7b55
 [2d9367e8] 2019-01-29 23:15:21 +0100 dmex : Fix PhInitializeMappedArchive bug when viewing llvm compiled lib files
 [3f447c02] 2019-01-29 22:21:46 +0100 dmex : Update string formats
