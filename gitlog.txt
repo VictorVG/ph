@@ -1,3 +1,11 @@
+[241b7346] 2019-02-08 00:36:52 +0100 dmex : Update directory attributes
+[65209996] 2019-02-08 00:35:51 +0100 dmex : Fix sysinfo graph mouseover regression on Win7
+[5c199520] 2019-02-08 00:34:00 +0100 dmex : Fix options window not showing when topmost
+[20e9d2ee] 2019-02-08 00:33:12 +0100 dmex : Remove dpkg-query filename lookup
+[0be7abed] 2019-02-08 00:15:58 +0100 dmex : Add RtlCreateUserProcessEx #373
+[29d09bd5] 2019-02-08 00:15:31 +0100 dmex : NetworkTools: Fix geolite db path, Fix tracert error messages, Fix ipv6 ping error handling
+[717dac43] 2019-02-08 00:14:20 +0100 dmex : Update error message format
+[a0258eb8] 2019-02-08 00:13:56 +0100 dmex : Updater: Fix updater window not showing when topmost
 [5dbf44ba] 2019-02-01 23:01:56 +0100 dmex : Add missing context
 [f84c0e7b] 2019-02-01 23:01:17 +0100 dmex : Fix macro usage
 [2e37fb2f] 2019-02-01 22:59:59 +0100 dmex : Remove spaces
