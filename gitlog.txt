@@ -1,3 +1,4 @@
+[857237b9] 2019-02-10 02:17:27 +0100 dmex : Fix warning C4701
 [241b7346] 2019-02-08 00:36:52 +0100 dmex : Update directory attributes
 [65209996] 2019-02-08 00:35:51 +0100 dmex : Fix sysinfo graph mouseover regression on Win7
 [5c199520] 2019-02-08 00:34:00 +0100 dmex : Fix options window not showing when topmost
