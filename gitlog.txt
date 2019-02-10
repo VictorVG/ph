@@ -1,3 +1,8 @@
+[789f2ce4] 2019-02-10 08:41:49 +0100 dmex : Add missing file from previous commit
+[2fa2fe0b] 2019-02-10 08:12:56 +0100 dmex : peview: Add ELF export section name
+[7b6abf75] 2019-02-10 08:01:41 +0100 dmex : peview: Add ELF section name helper
+[19339eb8] 2019-02-10 08:01:00 +0100 dmex : peview: Update loadconfig properties
+[10b7d841] 2019-02-10 07:53:16 +0100 dmex : peview: Fix clr header offsets
 [02f98f3b] 2019-02-10 06:55:23 +0100 dmex : ExtendedTools: Fix module services dialog parent
 [7441ae26] 2019-02-10 06:43:16 +0100 dmex : Fix build warning
 [8fe038ad] 2019-02-10 06:38:33 +0100 dmex : peview: Fix symbol imagebase
