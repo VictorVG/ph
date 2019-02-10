@@ -1,3 +1,9 @@
+[02f98f3b] 2019-02-10 06:55:23 +0100 dmex : ExtendedTools: Fix module services dialog parent
+[7441ae26] 2019-02-10 06:43:16 +0100 dmex : Fix build warning
+[8fe038ad] 2019-02-10 06:38:33 +0100 dmex : peview: Fix symbol imagebase
+[4feaa9ee] 2019-02-10 06:26:47 +0100 dmex : peview: Add TLS properties
+[4def2724] 2019-02-10 06:24:16 +0100 dmex : peview: Fix loading 32bit symbols
+[d8272ba4] 2019-02-10 06:23:38 +0100 dmex : Add PhGetMappedImageTlsCallbacks
 [857237b9] 2019-02-10 02:17:27 +0100 dmex : Fix warning C4701
 [241b7346] 2019-02-08 00:36:52 +0100 dmex : Update directory attributes
 [65209996] 2019-02-08 00:35:51 +0100 dmex : Fix sysinfo graph mouseover regression on Win7
