@@ -1,3 +1,8 @@
+[2a478755] 2019-02-11 21:56:37 +0100 dmex : peview: Add enclave load config information
+[d9350c4d] 2019-02-11 21:56:05 +0100 dmex : peview: Improve TLS symbol lookup
+[95ea07dc] 2019-02-11 21:49:16 +0100 dmex : Fix types
+[da9a19c0] 2019-02-11 20:48:11 +0100 dmex : Fix macro usage
+[7478f7e7] 2019-02-11 20:47:56 +0100 dmex : Fix some warnings
 [1c974dbf] 2019-02-11 17:35:04 +0100 dmex : Add missing file from commit 2fa2fe0
 [789f2ce4] 2019-02-10 08:41:49 +0100 dmex : Add missing file from previous commit
 [2fa2fe0b] 2019-02-10 08:12:56 +0100 dmex : peview: Add ELF export section name
