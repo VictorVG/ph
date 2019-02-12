@@ -1,3 +1,15 @@
+[d0f0ee50] 2019-02-12 20:40:47 +0100 dmex : Update token capabilities tab layout
+[4950c866] 2019-02-12 20:39:36 +0100 dmex : Update resources
+[6de87060] 2019-02-12 20:26:58 +0100 dmex : NetworkTools: Fix tracert hostname lookup
+[5073dfa3] 2019-02-12 20:10:41 +0100 dmex : Fix messagebox window handle check
+[f4e988d8] 2019-02-12 20:00:14 +0100 dmex : WindowExplorer: Show window AppId
+[316432e0] 2019-02-12 19:59:34 +0100 dmex : Export PhAppResolverGetAppIdForWindow
+[cbbea2d1] 2019-02-12 19:59:20 +0100 dmex : BuildTools: Update exported phlib headers
+[27d8849b] 2019-02-12 19:52:23 +0100 dmex : Update token capabilities
+[7fbbdcc0] 2019-02-12 19:30:34 +0100 dmex : peview: Fix imports/exports issues
+[faf40f07] 2019-02-12 19:11:25 +0100 dmex : Fix previous commit
+[5b64e80c] 2019-02-12 19:07:09 +0100 dmex : Fix PhSearchFilePath maxpath limitations
+[ae20121f] 2019-02-12 19:02:03 +0100 dmex : Add PhQueryAttributesFileWin32
 [2a478755] 2019-02-11 21:56:37 +0100 dmex : peview: Add enclave load config information
 [d9350c4d] 2019-02-11 21:56:05 +0100 dmex : peview: Improve TLS symbol lookup
 [95ea07dc] 2019-02-11 21:49:16 +0100 dmex : Fix types
