@@ -1,3 +1,5 @@
+[dc51c36e] 2019-02-13 20:28:41 +0100 dmex : Add missing copyright
+[39417f1f] 2019-02-13 20:28:27 +0100 dmex : NetworkTools: Fix crash #379
 [9e927e69] 2019-02-13 20:12:00 +0100 dmex : Updater: Fix crash #379
 [d0f0ee50] 2019-02-12 20:40:47 +0100 dmex : Update token capabilities tab layout
 [4950c866] 2019-02-12 20:39:36 +0100 dmex : Update resources
