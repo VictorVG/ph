@@ -1,3 +1,5 @@
+[5c65ce7d] 2019-02-14 08:39:49 +0100 dmex : NetworkTools: Fix geoip updater regression 39417f1f
+[bf30fcf0] 2019-02-14 08:38:51 +0100 dmex : Fix PhSearchFilePath regression from commit 5b64e80c
 [dc51c36e] 2019-02-13 20:28:41 +0100 dmex : Add missing copyright
 [39417f1f] 2019-02-13 20:28:27 +0100 dmex : NetworkTools: Fix crash #379
 [9e927e69] 2019-02-13 20:12:00 +0100 dmex : Updater: Fix crash #379
