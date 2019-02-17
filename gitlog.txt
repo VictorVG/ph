@@ -1,3 +1,13 @@
+[619ee0f5] 2019-02-17 04:42:16 +0100 dmex : Add missing copyright
+[89631ca3] 2019-02-17 04:41:52 +0100 dmex : peview: Add MVID for CLR images
+[ae0de7e1] 2019-02-17 04:20:38 +0100 dmex : Improve token capability RID guid lookup
+[f2ba0eba] 2019-02-17 04:19:31 +0100 dmex : Add comment
+[126e7db4] 2019-02-17 04:18:56 +0100 dmex : peview: Remove unused win10 sets support
+[5ce94f26] 2019-02-17 04:18:00 +0100 dmex : peview: Add missing DelayLoadDLL
+[8168b44e] 2019-02-17 04:14:42 +0100 dmex : Improve macro usage
+[35fda0b1] 2019-02-17 04:03:55 +0100 dmex : Improve maro usage
+[006055ce] 2019-02-17 03:15:56 +0100 dmex : peview: Update DelayLoadDLLs
+[06ae7a85] 2019-02-17 03:12:19 +0100 dmex : Setup: Update DelayLoadDLLs
 [08119a44] 2019-02-17 02:45:50 +0100 dmex : peview: Improve import/export ordinal name lookup, Fix import/export symbol lookup
 [57fe40b7] 2019-02-17 02:42:30 +0100 dmex : Improve startup, Fix delayload version check, Update delayload imports, Remove legacy imports
 [af604184] 2019-02-17 02:30:51 +0100 dmex : Fix some VS2019 warnings, Fix empty unicode strings, Improve macro usage
