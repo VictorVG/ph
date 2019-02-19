@@ -1,3 +1,11 @@
+[fbf70474] 2019-02-19 19:25:38 +0100 dmex : Fix SAL warning
+[1905e36b] 2019-02-19 19:23:41 +0100 dmex : Fix MSVC warning C28112
+[dba2ade8] 2019-02-19 19:21:58 +0100 dmex : FIx macro usage
+[e059d784] 2019-02-19 19:21:45 +0100 dmex : Fix delayload CRT module handle
+[055d8365] 2019-02-19 18:51:08 +0100 dmex : Fix typo
+[21271db2] 2019-02-19 18:49:42 +0100 dmex : Improve single instance checks
+[3bd31f66] 2019-02-19 18:35:43 +0100 dmex : Fix SAL warnings
+[6e71c2e7] 2019-02-19 18:34:39 +0100 dmex : Fix PhCopyStringZFromBytes regression from commit 35fda0b1
 [619ee0f5] 2019-02-17 04:42:16 +0100 dmex : Add missing copyright
 [89631ca3] 2019-02-17 04:41:52 +0100 dmex : peview: Add MVID for CLR images
 [ae0de7e1] 2019-02-17 04:20:38 +0100 dmex : Improve token capability RID guid lookup
