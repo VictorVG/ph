@@ -1,3 +1,6 @@
+[bb47a70a] 2019-02-20 19:52:35 +0100 dmex : Update SE_MAX_WELL_KNOWN_PRIVILEGE
+[7a33be87] 2019-02-20 19:52:07 +0100 dmex : Fix SAL warnings
+[eaf0fea3] 2019-02-20 19:51:23 +0100 dmex : Add workaround for #204
 [fbf70474] 2019-02-19 19:25:38 +0100 dmex : Fix SAL warning
 [1905e36b] 2019-02-19 19:23:41 +0100 dmex : Fix MSVC warning C28112
 [dba2ade8] 2019-02-19 19:21:58 +0100 dmex : FIx macro usage
