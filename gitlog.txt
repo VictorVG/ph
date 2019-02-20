@@ -1,3 +1,10 @@
+[f0ad15f0] 2019-02-20 20:57:01 +0100 dmex : Fix build warning
+[430199c8] 2019-02-20 20:52:48 +0100 dmex : Fix typo
+[484725e1] 2019-02-20 20:52:11 +0100 dmex : UserNotes: Fix process priorities not being properly restored after restart
+[84dac8cf] 2019-02-20 20:50:35 +0100 dmex : Improve mxml usage (required for future mxml updates)
+[cdd3f022] 2019-02-20 20:36:51 +0100 dmex : Updater: Fix error message
+[830ecc3c] 2019-02-20 20:35:52 +0100 dmex : Improve PhGetObjectTypeName
+[cc27a8e9] 2019-02-20 20:35:09 +0100 dmex : Improve mxml usage (required for future mxml updates)
 [bb47a70a] 2019-02-20 19:52:35 +0100 dmex : Update SE_MAX_WELL_KNOWN_PRIVILEGE
 [7a33be87] 2019-02-20 19:52:07 +0100 dmex : Fix SAL warnings
 [eaf0fea3] 2019-02-20 19:51:23 +0100 dmex : Add workaround for #204
