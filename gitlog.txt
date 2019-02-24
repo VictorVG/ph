@@ -1,3 +1,9 @@
+[41005d68] 2019-02-24 19:05:27 +0100 dmex : NetworkTools: Update hostname query flags
+[db520d3f] 2019-02-24 19:04:44 +0100 dmex : Add search support to process threads tab
+[c57b049f] 2019-02-24 19:03:35 +0100 dmex : Add initial RS5 SideChannelIsolationPolicy mitigation
+[51579054] 2019-02-24 19:02:41 +0100 dmex : Update token capabilities tab layout
+[b45b3e16] 2019-02-24 19:01:02 +0100 dmex : DotNetTools: Fix memory leak
+[0b221a86] 2019-02-24 18:51:14 +0100 dmex : Fix searchbox memory leaks
 [d9102638] 2019-02-24 14:01:49 +0100 dmex : Update DnsQuery flags
 [ab5a1ff7] 2019-02-24 13:42:08 +0100 dmex : Add PhGetInternalWindowIcon
 [fb28a477] 2019-02-24 13:40:38 +0100 dmex : Fix Ip6ReverseName buffer length
