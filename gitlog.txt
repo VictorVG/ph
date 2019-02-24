@@ -1,3 +1,18 @@
+[d9102638] 2019-02-24 14:01:49 +0100 dmex : Update DnsQuery flags
+[ab5a1ff7] 2019-02-24 13:42:08 +0100 dmex : Add PhGetInternalWindowIcon
+[fb28a477] 2019-02-24 13:40:38 +0100 dmex : Fix Ip6ReverseName buffer length
+[f63d84cb] 2019-02-24 13:09:22 +0100 dmex : Fix typo from commit bb89acbe
+[f5f8e165] 2019-02-24 12:57:56 +0100 dmex : NetworkTools: Improve hostname lookup performance, Fix crash
+[bb89acbe] 2019-02-24 12:55:17 +0100 dmex : Remove legacy dbghelp minidump support
+[b1461f15] 2019-02-24 12:54:33 +0100 dmex : Improve network hostname lookup performance, Fix incorrect local address hostname lookup when using hostsfile
+[6ed1c64d] 2019-02-24 12:51:11 +0100 dmex : Improve macro usage
+[eeeeca16] 2019-02-24 12:49:51 +0100 dmex : Add token properties dark theme support
+[63fed449] 2019-02-24 12:43:43 +0100 dmex : Fix PhpStartPhSvcProcess crash
+[cb7ea5ae] 2019-02-24 12:42:55 +0100 dmex : ToolStatus: Improve toolbar graph performance (experimental)
+[a39d0f31] 2019-02-24 12:40:44 +0100 dmex : Add helper macro, Update comment authors
+[58a1ae7c] 2019-02-24 12:39:20 +0100 dmex : Fix SAL warnings
+[18c20b8e] 2019-02-24 12:38:16 +0100 dmex : Remove unused PhCreateProcessLxss paramater
+[e7b2f349] 2019-02-24 12:37:48 +0100 dmex : Fix dark theme groupbox sizes
 [4a4a0a57] 2019-02-21 22:06:58 +0100 dmex : Fix typo
 [3a6b2a8c] 2019-02-20 22:44:52 +0100 dmex : Update mxml usage (required for future mxml updates)
 [edb70e5f] 2019-02-20 22:44:06 +0100 dmex : Add PhDeleteFile
