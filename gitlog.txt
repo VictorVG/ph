@@ -1,3 +1,7 @@
+[3ca832ad] 2019-03-15 20:46:13 +0100 dmex : Add support for legacy v1 delayload imports (Fixes #390)
+[f186d6b4] 2019-03-15 20:43:15 +0100 dmex : Update create service window icons
+[0b8486af] 2019-03-15 20:39:10 +0100 dmex : Enable LFH mode for private heaps
+[7f8c3848] 2019-03-15 20:34:22 +0100 dmex : Update ntrtl.h
 [47e8b396] 2019-03-03 07:17:19 +0100 dmex : Update mxml-file.c
 [2b3a90bd] 2019-03-03 06:08:20 +0100 dmex : Update PCRE to 10.32
 [76b6e2c9] 2019-03-03 01:34:12 +0100 dmex : Update mxml to v3.0
