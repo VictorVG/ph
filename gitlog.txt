@@ -1,3 +1,5 @@
+[0bfa9c8a] 2019-03-16 05:03:53 +0100 dmex : Add missing ChpeImage flag
+[44c5ae7c] 2019-03-16 05:03:08 +0100 dmex : Fix sysinfo window dark frame support
 [25527dc1] 2019-03-16 00:23:46 +0100 dmex : HardwareDevices: Update common smart attributes
 [d2368072] 2019-03-16 00:22:08 +0100 dmex : Fix warning
 [22bbf8f2] 2019-03-16 00:15:18 +0100 dmex : Fix dark themed edit controls
