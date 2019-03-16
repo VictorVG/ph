@@ -1,3 +1,6 @@
+[25527dc1] 2019-03-16 00:23:46 +0100 dmex : HardwareDevices: Update common smart attributes
+[d2368072] 2019-03-16 00:22:08 +0100 dmex : Fix warning
+[22bbf8f2] 2019-03-16 00:15:18 +0100 dmex : Fix dark themed edit controls
 [3ca832ad] 2019-03-15 20:46:13 +0100 dmex : Add support for legacy v1 delayload imports (Fixes #390)
 [f186d6b4] 2019-03-15 20:43:15 +0100 dmex : Update create service window icons
 [0b8486af] 2019-03-15 20:39:10 +0100 dmex : Enable LFH mode for private heaps
