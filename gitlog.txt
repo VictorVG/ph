@@ -1,3 +1,5 @@
+[343c05a4] 2019-03-16 20:24:11 +0100 dmex : Add ProcessSideChannelIsolationPolicy support (Fixes #382)
+[23be1db8] 2019-03-16 20:23:11 +0100 dmex : peview: Fix regression/crash for image load config
 [0bfa9c8a] 2019-03-16 05:03:53 +0100 dmex : Add missing ChpeImage flag
 [44c5ae7c] 2019-03-16 05:03:08 +0100 dmex : Fix sysinfo window dark frame support
 [25527dc1] 2019-03-16 00:23:46 +0100 dmex : HardwareDevices: Update common smart attributes
