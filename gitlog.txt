@@ -1,3 +1,7 @@
+[2edfa639] 2019-03-22 22:49:09 +0100 dmex : HardwareDevices: Fix window icon
+[af043c47] 2019-03-22 22:47:48 +0100 dmex : Fix THREAD_UMS_INFORMATION type
+[3b92204f] 2019-03-22 22:47:24 +0100 dmex : Merge branch 'master' of https://github.com/processhacker/processhacker
+[13be58b8] 2019-03-22 22:47:22 +0100 dmex : Fix PhShowMessage2 dialog location issues
 [5c53ea5f] 2019-03-17 18:28:49 +0100 Gisle Vanem : Fix "NaN" in network adapter utilisation (#392)
 [343c05a4] 2019-03-16 20:24:11 +0100 dmex : Add ProcessSideChannelIsolationPolicy support (Fixes #382)
 [23be1db8] 2019-03-16 20:23:11 +0100 dmex : peview: Fix regression/crash for image load config
