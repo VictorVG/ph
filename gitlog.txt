@@ -1,3 +1,4 @@
+[a69ada03] 2019-03-24 01:46:16 +0100 dmex : Force system shutdown/reboot while holding the CTL key and selecting the menu
 [2edfa639] 2019-03-22 22:49:09 +0100 dmex : HardwareDevices: Fix window icon
 [af043c47] 2019-03-22 22:47:48 +0100 dmex : Fix THREAD_UMS_INFORMATION type
 [3b92204f] 2019-03-22 22:47:24 +0100 dmex : Merge branch 'master' of https://github.com/processhacker/processhacker
