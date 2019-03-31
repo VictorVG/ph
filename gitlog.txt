@@ -1,3 +1,9 @@
+[013995cc] 2019-03-31 15:22:06 +0200 dmex : Improve PhAccessResource error checking
+[1cdc6ade] 2019-03-31 15:05:45 +0200 dmex : Add workaround for the ImDisk driver (see commit description)
+[b0ae418e] 2019-03-31 14:33:04 +0200 dmex : Fix regression from commit cbf0576c
+[bee99e31] 2019-03-31 01:15:57 +0100 dmex : Add PhAccessResource
+[cbf0576c] 2019-03-31 01:14:08 +0100 dmex : Fix some SAL warnings
+[75087dae] 2019-03-31 01:10:45 +0100 dmex : Add PhOpenProcessTokenPublic, Export PhQueryTokenVariableSize
 [a69ada03] 2019-03-24 01:46:16 +0100 dmex : Force system shutdown/reboot while holding the CTL key and selecting the menu
 [2edfa639] 2019-03-22 22:49:09 +0100 dmex : HardwareDevices: Fix window icon
 [af043c47] 2019-03-22 22:47:48 +0100 dmex : Fix THREAD_UMS_INFORMATION type
