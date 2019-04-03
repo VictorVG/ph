@@ -1,3 +1,4 @@
+[1a049593] 2019-04-03 08:42:53 +0200 Xiaoyin Liu : Use HTTPS for Microsoft Symbol server URL (#399)
 [013995cc] 2019-03-31 15:22:06 +0200 dmex : Improve PhAccessResource error checking
 [1cdc6ade] 2019-03-31 15:05:45 +0200 dmex : Add workaround for the ImDisk driver (see commit description)
 [b0ae418e] 2019-03-31 14:33:04 +0200 dmex : Fix regression from commit cbf0576c
