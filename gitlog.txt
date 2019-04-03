@@ -1,3 +1,11 @@
+[744b5f88] 2019-04-03 19:58:15 +0200 dmex : Fix build errror from commit 22d21206
+[877f3929] 2019-04-03 19:03:31 +0200 Xiaoyin Liu : Don't prepend "Computer" when open key (#402)
+[803efb25] 2019-04-03 18:16:13 +0200 dmex : Fix crash viewing large default-token security descriptors
+[7cab2728] 2019-04-03 18:15:16 +0200 dmex : Remove string privilege
+[5761b19f] 2019-04-03 18:14:35 +0200 dmex : Fix SAL types
+[977b0024] 2019-04-03 18:12:45 +0200 dmex : Fix stack memory leak
+[bfa87767] 2019-04-03 18:12:13 +0200 dmex : Remove string privileges
+[22d21206] 2019-04-03 18:11:49 +0200 dmex : Fix SAL annotation warning, remove unused dpkg paramaters
 [be39ed6e] 2019-04-03 13:04:41 +0200 diversenok : Optimize SID translation (#401)
 [1a049593] 2019-04-03 08:42:53 +0200 Xiaoyin Liu : Use HTTPS for Microsoft Symbol server URL (#399)
 [013995cc] 2019-03-31 15:22:06 +0200 dmex : Improve PhAccessResource error checking
