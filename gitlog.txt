@@ -1,3 +1,4 @@
+[483ce611] 2019-04-03 20:23:43 +0200 dmex : DotNetTools: Remove legacy code
 [744b5f88] 2019-04-03 19:58:15 +0200 dmex : Fix build errror from commit 22d21206
 [877f3929] 2019-04-03 19:03:31 +0200 Xiaoyin Liu : Don't prepend "Computer" when open key (#402)
 [803efb25] 2019-04-03 18:16:13 +0200 dmex : Fix crash viewing large default-token security descriptors
