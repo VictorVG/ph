@@ -1,3 +1,11 @@
+[f91082ce] 2019-04-06 00:29:24 +0200 dmex : Update resource ID
+[c0140896] 2019-04-06 00:05:03 +0200 dmex : Update token guid string
+[7ff7e84d] 2019-04-06 00:01:51 +0200 dmex : Add filter options to threads tab
+[25fe6072] 2019-04-05 23:59:12 +0200 dmex : Improve macro usage
+[f3b22555] 2019-04-05 23:58:53 +0200 dmex : Add Win10 uptime stats to process statistics tab
+[dad517b0] 2019-04-05 23:40:52 +0200 dmex : peview: Add program icon (fixes random pinned shell icon corruption on win10)
+[fd1fd775] 2019-04-05 23:36:46 +0200 dmex : Improve searchbox GDI usage, Improve searchbox dark theme
+[cc442f50] 2019-04-05 21:50:49 +0200 dmex : Fix build, Fix service properties crash/regression
 [bf67024c] 2019-04-05 21:01:16 +0200 dmex : Remove legacy code, Add PhSetDebugKillProcessOnExit
 [70e4567d] 2019-04-05 20:34:27 +0200 dmex : Add setting for disabling linux support to options window #393
 [9bb1cd2b] 2019-04-05 19:17:12 +0200 dmex : Add setting to disable Linux subystem support #393
