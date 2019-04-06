@@ -1,3 +1,6 @@
+[b128ec4c] 2019-04-06 19:07:37 +0200 dmex : Remove guid copy
+[60b97e63] 2019-04-06 18:57:03 +0200 dmex : Remove unused paramater
+[f39a5121] 2019-04-06 18:55:01 +0200 dmex : Fix tray icon layout persistence after restart
 [f91082ce] 2019-04-06 00:29:24 +0200 dmex : Update resource ID
 [c0140896] 2019-04-06 00:05:03 +0200 dmex : Update token guid string
 [7ff7e84d] 2019-04-06 00:01:51 +0200 dmex : Add filter options to threads tab
