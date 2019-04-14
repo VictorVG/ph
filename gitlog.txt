@@ -1,3 +1,5 @@
+[f3d91aa5] 2019-04-14 18:47:36 +0200 dmex : Add copy menu to process services page
+[74437fb9] 2019-04-14 18:47:08 +0200 dmex : Fix type
 [ac3a1c96] 2019-04-14 16:05:38 +0200 dmex : Fix win7 crash regression from previous commit
 [ac444ac6] 2019-04-14 15:10:06 +0200 dmex : Update token advanced page layout, Add new token properties, Add token appcontainer page
 [ff53d413] 2019-04-14 15:07:18 +0200 dmex : Fix SystemProcessType
