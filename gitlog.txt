@@ -1,3 +1,4 @@
+[37a037cd] 2019-04-14 13:18:27 +0200 dmex : Add combobox theme support
 [5c9f46ca] 2019-04-12 20:53:54 +0200 dmex : Remove legacy trayicon version support
 [57def91e] 2019-04-12 20:53:19 +0200 dmex : ToolStatus: Fix searching PID as hex
 [b19bc89a] 2019-04-06 22:22:12 +0200 dmex : Add missing file from previous commit
