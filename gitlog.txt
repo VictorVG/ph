@@ -1,3 +1,8 @@
+[ac3a1c96] 2019-04-14 16:05:38 +0200 dmex : Fix win7 crash regression from previous commit
+[ac444ac6] 2019-04-14 15:10:06 +0200 dmex : Update token advanced page layout, Add new token properties, Add token appcontainer page
+[ff53d413] 2019-04-14 15:07:18 +0200 dmex : Fix SystemProcessType
+[cc3582a8] 2019-04-14 15:05:46 +0200 dmex : Add PhGetTokenProcessTrustLevelRID, PhGetAppContainerNamedObjectPath, PhGetTokenIsAppContainer, PhGetSecurityDescriptorAsString
+[cd17bbc0] 2019-04-14 15:03:33 +0200 dmex : Fix appresolver type
 [37a037cd] 2019-04-14 13:18:27 +0200 dmex : Add combobox theme support
 [5c9f46ca] 2019-04-12 20:53:54 +0200 dmex : Remove legacy trayicon version support
 [57def91e] 2019-04-12 20:53:19 +0200 dmex : ToolStatus: Fix searching PID as hex
