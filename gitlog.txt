@@ -1,3 +1,11 @@
+[b3bf840e] 2019-04-19 21:54:38 +0200 dmex : peview: Fix regression on Win7
+[97afc27c] 2019-04-19 21:15:14 +0200 dmex : Add ACL editor generic mapping / inheritance support
+[cb1b18fe] 2019-04-19 20:58:57 +0200 dmex : Add missing FileObject access entry type
+[644ed355] 2019-04-19 20:48:10 +0200 dmex : peview: Update dependencies, Update DelayLoadDLLs
+[2b3afd4c] 2019-04-19 20:44:25 +0200 dmex : peview: Add missing file from previous commit
+[3d4a9b07] 2019-04-19 20:42:02 +0200 dmex : peview: Add security button, Add PE import table hash after checksum
+[b51cf532] 2019-04-19 20:38:59 +0200 dmex : Add LdrStandardizeSystemPath
+[bb672498] 2019-04-19 20:38:43 +0200 dmex : Update ACL editor with partial FileObject support
 [83c98f82] 2019-04-19 15:50:02 +0200 dmex : Update token advanced page with standard profile locations
 [549de5f5] 2019-04-19 08:42:33 +0200 dmex : Add appcontainer profile locations to token container properties page
 [0b6e99cb] 2019-04-19 08:40:56 +0200 dmex : Add PhImpersonateToken/PhRevertImpersonationToken
