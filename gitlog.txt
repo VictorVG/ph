@@ -1,3 +1,16 @@
+[9c084471] 2019-04-19 02:26:25 +0200 dmex : Add PhInitializeWindowThemeEx
+[baa183db] 2019-04-19 02:08:34 +0200 dmex : Add LdrIsModuleSxsRedirected
+[884d2eca] 2019-04-19 01:51:16 +0200 dmex : Add package tasks function
+[e0d0ea97] 2019-04-19 00:30:04 +0200 dmex : Add undocumented PSM functions
+[b7ba0caf] 2019-04-19 00:29:10 +0200 dmex : Fix some SAL annotations
+[4800197d] 2019-04-19 00:13:40 +0200 dmex : Remove unused string duplication
+[40f6e981] 2019-04-19 00:12:44 +0200 dmex : Add copy support to WMI providers tab
+[7e814aed] 2019-04-19 00:11:51 +0200 dmex : Add workaround for issue with selection->search->termination of invisible entries
+[10640510] 2019-04-19 00:10:22 +0200 dmex : PHNT: Add RtlQueryTokenHostIdAsUlong64
+[5d660019] 2019-04-19 00:09:45 +0200 dmex : Update versioning for 19H1
+[f384d25b] 2019-04-18 20:53:26 +0200 dmex : Fix rare WMI providers tab crash
+[8c35d743] 2019-04-18 20:51:26 +0200 dmex : BuildTools: Update build links, Improve GC usage
+[d7244dfa] 2019-04-18 20:50:27 +0200 dmex : SetupTool: Increase service timeout
 [f3d91aa5] 2019-04-14 18:47:36 +0200 dmex : Add copy menu to process services page
 [74437fb9] 2019-04-14 18:47:08 +0200 dmex : Fix type
 [ac3a1c96] 2019-04-14 16:05:38 +0200 dmex : Fix win7 crash regression from previous commit
