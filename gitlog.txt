@@ -1,3 +1,4 @@
+[c4b62e9f] 2019-04-20 00:10:45 +0200 dmex : peview: Add section header hashes
 [b3bf840e] 2019-04-19 21:54:38 +0200 dmex : peview: Fix regression on Win7
 [97afc27c] 2019-04-19 21:15:14 +0200 dmex : Add ACL editor generic mapping / inheritance support
 [cb1b18fe] 2019-04-19 20:58:57 +0200 dmex : Add missing FileObject access entry type
