@@ -1,3 +1,6 @@
+[718b1e82] 2019-04-20 00:49:44 +0200 dmex : OnlineChecks: remove some junk
+[8c9d6220] 2019-04-20 00:48:29 +0200 dmex : Fix deadlock querying some types of pipe handles on Win10
+[e09d4a8c] 2019-04-20 00:47:46 +0200 dmex : Fix SAL annotation warnings
 [c4b62e9f] 2019-04-20 00:10:45 +0200 dmex : peview: Add section header hashes
 [b3bf840e] 2019-04-19 21:54:38 +0200 dmex : peview: Fix regression on Win7
 [97afc27c] 2019-04-19 21:15:14 +0200 dmex : Add ACL editor generic mapping / inheritance support
