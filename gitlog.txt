@@ -1,3 +1,5 @@
+[549de5f5] 2019-04-19 08:42:33 +0200 dmex : Add appcontainer profile locations to token container properties page
+[0b6e99cb] 2019-04-19 08:40:56 +0200 dmex : Add PhImpersonateToken/PhRevertImpersonationToken
 [9c084471] 2019-04-19 02:26:25 +0200 dmex : Add PhInitializeWindowThemeEx
 [baa183db] 2019-04-19 02:08:34 +0200 dmex : Add LdrIsModuleSxsRedirected
 [884d2eca] 2019-04-19 01:51:16 +0200 dmex : Add package tasks function
