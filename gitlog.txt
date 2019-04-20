@@ -1,3 +1,7 @@
+[e969a8b3] 2019-04-20 16:21:28 +0200 dmex : Add check for ACL editor MapGeneric types
+[187e984f] 2019-04-20 15:52:53 +0200 dmex : Fix incorrect 19H1 type
+[118841c7] 2019-04-20 15:52:09 +0200 dmex : Fix token LPAC checks
+[139fed7e] 2019-04-20 04:18:47 +0200 dmex : Update PHNT types for 19H1
 [718b1e82] 2019-04-20 00:49:44 +0200 dmex : OnlineChecks: remove some junk
 [8c9d6220] 2019-04-20 00:48:29 +0200 dmex : Fix deadlock querying some types of pipe handles on Win10
 [e09d4a8c] 2019-04-20 00:47:46 +0200 dmex : Fix SAL annotation warnings
