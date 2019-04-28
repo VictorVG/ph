@@ -1,3 +1,35 @@
+[4434d563] 2019-04-29 00:17:23 +0200 dmex : Add missing dates
+[b3c9bbed] 2019-04-29 00:15:46 +0200 dmex : Add types
+[02ecad2f] 2019-04-29 00:14:45 +0200 dmex : Fix SAL annotation
+[63a23392] 2019-04-29 00:13:58 +0200 dmex : Revert bad9bca2
+[5d7f8ecf] 2019-04-28 13:35:37 +0200 dmex : Fix #414
+[259623b1] 2019-04-28 05:41:51 +0200 dmex : WindowExplorer: Fix typo
+[95a39052] 2019-04-28 05:33:30 +0200 dmex : Update ntexapi.h
+[26dce508] 2019-04-28 04:44:24 +0200 dmex : Update d3dkmt.h
+[36391ee4] 2019-04-28 04:42:46 +0200 dmex : HardwareDevices: Fix build
+[c4f28e1f] 2019-04-28 04:08:51 +0200 dmex : Update ntexapi.h
+[391cba60] 2019-04-28 04:06:19 +0200 dmex : Update ntexapi.h
+[2febbcad] 2019-04-28 03:56:15 +0200 dmex : Update ntexapi.h
+[4cd865a5] 2019-04-28 03:09:02 +0200 dmex : Add PhLCIDToLocaleName
+[0cab4d91] 2019-04-28 03:08:57 +0200 dmex : Remove PEB SessionId dependency
+[d55a5802] 2019-04-28 03:04:29 +0200 dmex : Remove ntdll import
+[4576f841] 2019-04-28 03:00:56 +0200 dmex : Remove legacy PhCreateThread
+[b9820500] 2019-04-28 02:49:28 +0200 dmex : Update session shadow error message
+[4706e501] 2019-04-28 02:48:56 +0200 dmex : Fix runas desktop name error checking
+[0af44903] 2019-04-28 02:48:27 +0200 dmex : Remove legacy PhCreateThread
+[1a0ff98b] 2019-04-28 02:19:48 +0200 dmex : Fix thread tab column index
+[96d12184] 2019-04-28 00:36:25 +0200 dmex : Fix crash sorting threads by TID (hex) column
+[22e446a6] 2019-04-27 23:28:59 +0200 dmex : Remove RunAs dependencies on PEB
+[4345a51e] 2019-04-27 23:04:53 +0200 dmex : Improve macro usage
+[c3d6b7e8] 2019-04-27 23:03:37 +0200 dmex : ExtendedTools: Add WDDM 2.6 version support
+[e5112089] 2019-04-27 23:03:13 +0200 dmex : ExtendedTools: Fix SAL annotation
+[06bcc554] 2019-04-27 23:02:44 +0200 dmex : HardwareDevices: Improve error checking
+[bad9bca2] 2019-04-27 23:01:56 +0200 dmex : Fix token parameter
+[75956f1a] 2019-04-27 21:40:25 +0200 dmex : Update D3DKMT 19H1 types
+[7a9292d1] 2019-04-27 21:38:43 +0200 dmex : Update macro usage
+[000dd291] 2019-04-27 21:31:54 +0200 dmex : Update macro usage
+[da58a7ea] 2019-04-27 21:20:40 +0200 dmex : Fix querying WSL process information when signature checking disabled
+[0578c569] 2019-04-27 21:19:50 +0200 dmex : Update delay imports
 [49fcf708] 2019-04-22 02:53:50 +0200 dmex : Fix #411
 [03fae90f] 2019-04-21 00:21:40 +0200 dmex : Fix building with latest SDK
 [23828778] 2019-04-20 23:54:23 +0200 dmex : Update PHNT types for 19H1 (2/2)
