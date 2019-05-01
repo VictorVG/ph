@@ -1,3 +1,5 @@
+[04654584] 2019-05-01 10:10:21 +0200 dmex : ExtendedTools: Fix Disk tab GDI issues (major performance/reliability improvement)
+[fc0ff12f] 2019-05-01 09:01:56 +0200 dmex : Update ntioapi.h
 [4434d563] 2019-04-29 00:17:23 +0200 dmex : Add missing dates
 [b3c9bbed] 2019-04-29 00:15:46 +0200 dmex : Add types
 [02ecad2f] 2019-04-29 00:14:45 +0200 dmex : Fix SAL annotation
