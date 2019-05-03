@@ -1,3 +1,6 @@
+[71548afb] 2019-05-03 06:29:41 +0200 dmex : Add PhGetThreadIsIoPending
+[43ddcf04] 2019-05-03 06:29:16 +0200 dmex : Remove unused reference
+[bc002f64] 2019-05-03 06:28:44 +0200 dmex : ExtendedTools: Fix regression from commit 9c7d5ea5
 [9c7d5ea5] 2019-05-02 02:50:25 +0200 dmex : ExtendedTools: Add Event Queue support to Disk tab (experimental)
 [3ee66cba] 2019-05-02 02:27:59 +0200 dmex : Add Provider Event Queue to PHSDK
 [ffe7d69f] 2019-05-02 02:26:31 +0200 dmex : Remove legacy event provider window messages
