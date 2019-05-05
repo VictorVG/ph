@@ -1,3 +1,9 @@
+[c1579fcd] 2019-05-04 13:23:04 +0200 dmex : Fix filename regression on Windows 7
+[dc6f5810] 2019-05-04 10:37:30 +0200 dmex : Update ntmmapi.h
+[b9cf9f73] 2019-05-04 10:10:59 +0200 dmex : Fix issue closing process properties window from the X on the taskbar thumbnail preview
+[1f2b747e] 2019-05-04 09:13:18 +0200 dmex : ExtendedTools: Improve macro usage
+[e0925a69] 2019-05-04 09:12:50 +0200 dmex : ExtendedTools: Fix regression (reported by MarekKnapek)
+[30765e6b] 2019-05-03 21:22:27 +0200 dmex : Fix regression querying token properties
 [71548afb] 2019-05-03 06:29:41 +0200 dmex : Add PhGetThreadIsIoPending
 [43ddcf04] 2019-05-03 06:29:16 +0200 dmex : Remove unused reference
 [bc002f64] 2019-05-03 06:28:44 +0200 dmex : ExtendedTools: Fix regression from commit 9c7d5ea5
