@@ -1,3 +1,7 @@
+[9f962305] 2019-05-08 21:53:53 +0200 dmex : ExtendedServices: update macro
+[b7ba3931] 2019-05-08 21:49:09 +0200 dmex : Remove unused window ids
+[ff2d44aa] 2019-05-07 21:12:51 +0200 dmex : Fix uxtheme return types
+[4d1da49b] 2019-05-07 21:12:18 +0200 dmex : Fix some processes not showing as being debugged
 [c1579fcd] 2019-05-04 13:23:04 +0200 dmex : Fix filename regression on Windows 7
 [dc6f5810] 2019-05-04 10:37:30 +0200 dmex : Update ntmmapi.h
 [b9cf9f73] 2019-05-04 10:10:59 +0200 dmex : Fix issue closing process properties window from the X on the taskbar thumbnail preview
