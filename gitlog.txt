@@ -1,3 +1,13 @@
+[577daf22] 2019-05-11 08:53:33 +0200 dmex : Update filter.c
+[669f01cc] 2019-05-11 07:01:03 +0200 dmex : Remove duplicate process job query
+[d56c557b] 2019-05-11 05:35:29 +0200 dmex : Remove unused space
+[02ecb4e2] 2019-05-11 05:35:01 +0200 dmex : Improve process username caching for domain networks
+[5a69fa56] 2019-05-11 04:45:17 +0200 dmex : Fix performance issues with process username for sandboxie and slow domain networks
+[48d18a50] 2019-05-11 03:41:09 +0200 dmex : Fix #349
+[4f6824d1] 2019-05-11 03:26:48 +0200 dmex : Improve token error checking
+[5a7f26b9] 2019-05-11 03:25:48 +0200 dmex : Fix token profile path
+[2103bd8a] 2019-05-11 03:17:42 +0200 dmex : Update ntexapi.h
+[cc2d2c78] 2019-05-10 22:32:30 +0200 dmex : Fix forwarder rva ordinal support
 [9f962305] 2019-05-08 21:53:53 +0200 dmex : ExtendedServices: update macro
 [b7ba3931] 2019-05-08 21:49:09 +0200 dmex : Remove unused window ids
 [ff2d44aa] 2019-05-07 21:12:51 +0200 dmex : Fix uxtheme return types
