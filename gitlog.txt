@@ -1,3 +1,18 @@
+[ecb6c097] 2019-05-20 02:44:22 +0200 dmex : peview: Add description to propstore tab
+[e08dcfeb] 2019-05-20 00:32:34 +0200 dmex : Fix build
+[4280f99b] 2019-05-20 00:28:34 +0200 dmex : Fix debug highlighting
+[e85482d6] 2019-05-19 06:47:16 +0200 dmex : Update macro usage
+[84a9ffb1] 2019-05-19 06:46:27 +0200 dmex : Add missing file from previous commit
+[3dbd1870] 2019-05-19 06:46:11 +0200 dmex : Fix debugger check failing for protected processes
+[057446a3] 2019-05-19 06:44:33 +0200 dmex : Remove whitespace
+[4d13ae82] 2019-05-19 06:43:36 +0200 dmex : Update macro
+[d6225bcc] 2019-05-19 06:42:49 +0200 dmex : Remove unused const
+[a6c0d554] 2019-05-19 06:40:31 +0200 dmex : Update PhDuplicateStringZ buffer length
+[a9c061c5] 2019-05-19 06:39:46 +0200 dmex : ToolStatus: Update index value
+[3d6e1e76] 2019-05-19 06:38:33 +0200 dmex : Update apiimport.c
+[4191f955] 2019-05-19 06:36:50 +0200 dmex : Plugins: Disable CRT argument/environment processing
+[60d82acc] 2019-05-18 22:14:41 +0200 dmex : Update util.c
+[ac816c22] 2019-05-18 22:14:28 +0200 dmex : Update ntrtl.h
 [0bd91327] 2019-05-17 22:05:45 +0200 dmex : add missing file
 [b542b6a5] 2019-05-17 09:06:04 +0200 dmex : Remove legacy access mask
 [241405c1] 2019-05-17 02:09:08 +0200 dmex : Fix runas regression
