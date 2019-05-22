@@ -1,3 +1,6 @@
+[5bb5caf9] 2019-05-22 05:05:25 +0200 dmex : Fix some warnings, Fix PhLoadIndirectString parsing non-INF entries
+[280597e6] 2019-05-22 05:04:36 +0200 dmex : Disable ServiceNonPoll by default
+[113ff63d] 2019-05-22 05:03:42 +0200 dmex : Fix service notification leak
 [ecb6c097] 2019-05-20 02:44:22 +0200 dmex : peview: Add description to propstore tab
 [e08dcfeb] 2019-05-20 00:32:34 +0200 dmex : Fix build
 [4280f99b] 2019-05-20 00:28:34 +0200 dmex : Fix debug highlighting
