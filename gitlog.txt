@@ -1,3 +1,4 @@
+[331af4ad] 2019-05-29 17:26:08 +0200 dmex : Fix #421
 [77c9a747] 2019-05-24 22:48:31 +0200 dmex : WindowExplorer: Add font name to window properties
 [5bb5caf9] 2019-05-22 05:05:25 +0200 dmex : Fix some warnings, Fix PhLoadIndirectString parsing non-INF entries
 [280597e6] 2019-05-22 05:04:36 +0200 dmex : Disable ServiceNonPoll by default
