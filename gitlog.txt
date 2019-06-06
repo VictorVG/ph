@@ -1,3 +1,4 @@
+[f3fd5c37] 2019-06-06 05:41:25 +0200 dmex : Update process statistics tab with pool usage
 [21eb8927] 2019-05-30 16:54:54 +0200 dmex : peview: disable section hash
 [a29338f1] 2019-05-30 16:30:50 +0200 dmex : Update mapimg.c
 [32fa774f] 2019-05-30 16:29:29 +0200 dmex : Merge branch 'master' of https://github.com/processhacker/processhacker
