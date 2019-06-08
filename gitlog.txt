@@ -1,3 +1,10 @@
+[00446176] 2019-06-08 03:01:29 +0200 dmex : Add workaround for #424
+[8642ff7d] 2019-06-08 00:18:42 +0200 dmex : WindowExplorer: Improve path prefix resolution
+[6d544f14] 2019-06-08 00:17:43 +0200 dmex : Fix SAL annotation
+[04214de1] 2019-06-08 00:17:08 +0200 dmex : Add theme support to search window
+[8d275b08] 2019-06-08 00:16:24 +0200 dmex : Fix invalid NtSystemRoot
+[321f125b] 2019-06-08 00:15:06 +0200 dmex : Revert "Update solutions to VS 2019, Update Appveyor build image to VS 2019"
+[717092e8] 2019-06-08 00:01:54 +0200 dmex : Update solutions to VS 2019, Update Appveyor build image to VS 2019
 [f3fd5c37] 2019-06-06 05:41:25 +0200 dmex : Update process statistics tab with pool usage
 [21eb8927] 2019-05-30 16:54:54 +0200 dmex : peview: disable section hash
 [a29338f1] 2019-05-30 16:30:50 +0200 dmex : Update mapimg.c
