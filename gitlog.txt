@@ -1,3 +1,5 @@
+[3730238c] 2019-06-09 02:51:14 +0200 dmex : Re-enable the delayload fixup for plugins
+[1a2763b8] 2019-06-09 02:35:59 +0200 dmex : Fix #424
 [00446176] 2019-06-08 03:01:29 +0200 dmex : Add workaround for #424
 [8642ff7d] 2019-06-08 00:18:42 +0200 dmex : WindowExplorer: Improve path prefix resolution
 [6d544f14] 2019-06-08 00:17:43 +0200 dmex : Fix SAL annotation
