@@ -1,3 +1,8 @@
+[a9fd6a0f] 2019-06-11 00:39:54 +0200 dmex : ExtendedTools: Fix #427 (missing UDP connection statistics and utilisation)
+[208b3fdb] 2019-06-11 00:25:06 +0200 dmex : Fix typo
+[6e793854] 2019-06-10 22:45:51 +0200 dmex : Fix tray icon graph warning/overflow when using large sample count settings
+[017d6ec6] 2019-06-10 22:42:06 +0200 dmex : Fix handle object address search
+[436e7425] 2019-06-10 22:41:37 +0200 dmex : Fix handle properties object address regression
 [3730238c] 2019-06-09 02:51:14 +0200 dmex : Re-enable the delayload fixup for plugins
 [1a2763b8] 2019-06-09 02:35:59 +0200 dmex : Fix #424
 [00446176] 2019-06-08 03:01:29 +0200 dmex : Add workaround for #424
