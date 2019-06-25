@@ -1,3 +1,13 @@
+[57762d45] 2019-06-25 09:19:35 +0200 dmex : peview: Fix CLR tab layout spacing
+[c581a764] 2019-06-25 06:22:28 +0200 dmex : Improve window title column performance
+[574da6d2] 2019-06-25 06:21:49 +0200 dmex : Add PhEnumWindows, Update PhGetProcessMainWindow to enumerate top-level only
+[5daffdee] 2019-06-25 06:15:27 +0200 dmex : Remove autopool from PhFormatTimeSpanRelative
+[e2c45f98] 2019-06-25 06:14:07 +0200 dmex : Add MMapIO statistics to memory information tab
+[43b33549] 2019-06-25 06:10:34 +0200 dmex : Add PhGetAccountPrivileges
+[65b23f68] 2019-06-25 06:09:58 +0200 dmex : Fix SharedIconCacheHashtableEqual
+[a9c63d98] 2019-06-25 06:09:20 +0200 dmex : Plugins: Update macro usage
+[5a517104] 2019-06-25 06:06:47 +0200 dmex : Export PhSetWindowText
+[7249abbc] 2019-06-25 06:05:45 +0200 dmex : Disable WSL support by default
 [a9fd6a0f] 2019-06-11 00:39:54 +0200 dmex : ExtendedTools: Fix #427 (missing UDP connection statistics and utilisation)
 [208b3fdb] 2019-06-11 00:25:06 +0200 dmex : Fix typo
 [6e793854] 2019-06-10 22:45:51 +0200 dmex : Fix tray icon graph warning/overflow when using large sample count settings
