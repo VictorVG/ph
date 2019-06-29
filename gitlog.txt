@@ -1,3 +1,4 @@
+[e2e1f059] 2019-06-28 02:53:52 +0200 dmex : Fix #431
 [57762d45] 2019-06-25 09:19:35 +0200 dmex : peview: Fix CLR tab layout spacing
 [c581a764] 2019-06-25 06:22:28 +0200 dmex : Improve window title column performance
 [574da6d2] 2019-06-25 06:21:49 +0200 dmex : Add PhEnumWindows, Update PhGetProcessMainWindow to enumerate top-level only
