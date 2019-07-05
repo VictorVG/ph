@@ -1,3 +1,5 @@
+[2239c6a5] 2019-07-05 17:13:09 +0200 dmex : Fix #423
+[c5aa9e2f] 2019-07-05 17:11:37 +0200 dmex : Fix #396
 [e2e1f059] 2019-06-28 02:53:52 +0200 dmex : Fix #431
 [57762d45] 2019-06-25 09:19:35 +0200 dmex : peview: Fix CLR tab layout spacing
 [c581a764] 2019-06-25 06:22:28 +0200 dmex : Improve window title column performance
