@@ -1,3 +1,7 @@
+[804a46f9] 2019-07-06 09:25:00 +0200 dmex : Fix macro usage
+[40a225db] 2019-07-06 09:22:52 +0200 dmex : Add theme support to selection dialog
+[19009210] 2019-07-06 09:21:02 +0200 dmex : Fix filtered handle highlighting
+[48c25f9b] 2019-07-06 09:19:52 +0200 dmex : Improve memory enumeration performance
 [7665661d] 2019-07-05 18:51:20 +0200 dmex : Update PhDeleteFile flags for RS5
 [a47161c3] 2019-07-05 18:45:35 +0200 dmex : Add PhDoesFileExistsWin32
 [2239c6a5] 2019-07-05 17:13:09 +0200 dmex : Fix #423
