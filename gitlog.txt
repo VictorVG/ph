@@ -1,3 +1,10 @@
+[2021adb0] 2019-07-09 16:05:22 +0200 dmex : Update KPH solution to latest WDK
+[bba3ae5b] 2019-07-09 15:54:06 +0200 dmex : Merge branch 'master' of https://github.com/processhacker/processhacker
+[7969fba4] 2019-07-09 15:53:51 +0200 dmex : SetupTool: Update solution to VS2019
+[c6d36062] 2019-07-09 15:52:00 +0200 dmex : Create SECURITY.md
+[e4b65db5] 2019-07-09 15:26:24 +0200 dmex : Update solutions to VS2019
+[96cd2b9b] 2019-07-09 15:23:58 +0200 dmex : ExtendedTools: Disable disk events when tab disabled
+[1640dd82] 2019-07-09 15:21:23 +0200 dmex : Export PhDoesFileExistsWin32, Update RtlDoesFileExists_U
 [a33657ce] 2019-07-09 12:48:55 +0200 dmex : Fix incorrect listview values
 [6f8cc93a] 2019-07-09 12:28:57 +0200 dmex : ToolStatus: Improve toolbar image caching
 [ad12dbb1] 2019-07-09 12:22:29 +0200 dmex : Fix #435
