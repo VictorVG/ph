@@ -1,3 +1,6 @@
+[db2b76dc] 2019-07-11 12:59:48 +0200 dmex : peview: Update checksum selection
+[40f7cd4e] 2019-07-11 12:54:12 +0200 dmex : peview: Remove SetWindowSubclass
+[302d0b87] 2019-07-11 12:52:39 +0200 dmex : peview: Fix crash searching large pdbs
 [2021adb0] 2019-07-09 16:05:22 +0200 dmex : Update KPH solution to latest WDK
 [bba3ae5b] 2019-07-09 15:54:06 +0200 dmex : Merge branch 'master' of https://github.com/processhacker/processhacker
 [7969fba4] 2019-07-09 15:53:51 +0200 dmex : SetupTool: Update solution to VS2019
