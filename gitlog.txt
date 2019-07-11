@@ -1,3 +1,6 @@
+[d10de4fe] 2019-07-11 15:33:31 +0200 dmex : Fix #439
+[32d49c86] 2019-07-11 15:24:30 +0200 dmex : Remove unused paramaters
+[c7342505] 2019-07-11 13:37:46 +0200 dmex : Fix message error checking (#437)
 [db2b76dc] 2019-07-11 12:59:48 +0200 dmex : peview: Update checksum selection
 [40f7cd4e] 2019-07-11 12:54:12 +0200 dmex : peview: Remove SetWindowSubclass
 [302d0b87] 2019-07-11 12:52:39 +0200 dmex : peview: Fix crash searching large pdbs
