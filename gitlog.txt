@@ -1,3 +1,5 @@
+[0d91802e] 2019-07-13 17:57:27 +0200 dmex : Fix build
+[ca3e48f6] 2019-07-13 17:57:14 +0200 dmex : Fix #436
 [d10de4fe] 2019-07-11 15:33:31 +0200 dmex : Fix #439
 [32d49c86] 2019-07-11 15:24:30 +0200 dmex : Remove unused paramaters
 [c7342505] 2019-07-11 13:37:46 +0200 dmex : Fix message error checking (#437)
