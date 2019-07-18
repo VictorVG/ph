@@ -1,3 +1,4 @@
+[aa359b98] 2019-07-18 10:45:00 +0200 dmex : Fix #443
 [0d8d945f] 2019-07-18 08:43:20 +0200 dmex : Update settings.c
 [c96089fb] 2019-07-18 08:05:18 +0200 dmex : Fix build
 [fd2b6c43] 2019-07-18 07:58:18 +0200 dmex : Add custom RunFileDialog, Update Run menu options
