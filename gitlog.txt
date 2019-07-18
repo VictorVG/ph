@@ -1,3 +1,12 @@
+[0d8d945f] 2019-07-18 08:43:20 +0200 dmex : Update settings.c
+[c96089fb] 2019-07-18 08:05:18 +0200 dmex : Fix build
+[fd2b6c43] 2019-07-18 07:58:18 +0200 dmex : Add custom RunFileDialog, Update Run menu options
+[7d638dc5] 2019-07-18 03:26:09 +0200 dmex : Add missing files from previous commit
+[9553cc69] 2019-07-18 03:21:12 +0200 dmex : Fix duplicate tab font initialization
+[5fb507e1] 2019-07-18 02:57:26 +0200 dmex : ToolStatus: Fix font memory leak
+[71aa6589] 2019-07-18 02:53:43 +0200 dmex : Update default locale LCIDs
+[8911eb84] 2019-07-18 02:52:38 +0200 dmex : Remove unused type
+[f32141d6] 2019-07-18 02:52:21 +0200 dmex : Improve GDI handle checks
 [10425533] 2019-07-15 05:29:21 +0200 Rocco Matano : make RunFileDialog showing 'Run as Administrator' configurable (#440)
 [0d91802e] 2019-07-13 17:57:27 +0200 dmex : Fix build
 [ca3e48f6] 2019-07-13 17:57:14 +0200 dmex : Fix #436
