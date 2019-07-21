@@ -1,3 +1,7 @@
+[d120a4de] 2019-07-21 06:31:55 +0200 dmex : Remove unused field
+[c0bade86] 2019-07-21 06:30:15 +0200 dmex : Update menu command handle
+[d8c2daa0] 2019-07-21 06:29:28 +0200 dmex : Add PhLoadMenu
+[4015b134] 2019-07-21 04:23:49 +0200 dmex : Fix RunFileDialog command expansion, Fix default RunFileDialog parent directory
 [69f30f91] 2019-07-19 04:03:24 +0200 dmex : Update nttp.h
 [01155db3] 2019-07-19 04:02:47 +0200 dmex : Add error message to RunFileDialog
 [aa359b98] 2019-07-18 10:45:00 +0200 dmex : Fix #443
