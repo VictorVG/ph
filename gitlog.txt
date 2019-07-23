@@ -1,3 +1,7 @@
+[aefd92ad] 2019-07-23 16:13:58 +0200 dmex : ExtendedTools: Fix IPv4 event types
+[31ef91a6] 2019-07-23 16:11:45 +0200 dmex : Fix default notify icon handle
+[ba51d70c] 2019-07-23 16:10:23 +0200 dmex : ExtendedTools: Fix default window handle
+[8878da27] 2019-07-23 16:08:25 +0200 dmex : Remove unused string reference
 [9503fb46] 2019-07-21 09:38:00 +0200 dmex : #444
 [4d4eabc0] 2019-07-21 08:04:34 +0200 dmex : Improve RunFileDialog error messages
 [d120a4de] 2019-07-21 06:31:55 +0200 dmex : Remove unused field
