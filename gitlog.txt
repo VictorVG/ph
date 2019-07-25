@@ -1,3 +1,4 @@
+[dcbeadf7] 2019-07-25 20:59:09 +0200 dmex : Fix CreateProcess runas bug #436
 [8569819b] 2019-07-24 13:16:56 +0200 dmex : Add workaround for CreateProcess runas bug #436
 [aefd92ad] 2019-07-23 16:13:58 +0200 dmex : ExtendedTools: Fix IPv4 event types
 [31ef91a6] 2019-07-23 16:11:45 +0200 dmex : Fix default notify icon handle
