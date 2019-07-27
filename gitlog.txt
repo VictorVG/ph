@@ -1,3 +1,4 @@
+[15d53be3] 2019-07-27 15:25:20 +0200 dmex : WindowExplorer: Fix #448
 [21aef753] 2019-07-27 02:19:56 +0200 dmex : Fix window title name
 [09f60a4e] 2019-07-27 02:17:32 +0200 dmex : Remove unused parameter
 [5c1e5ce1] 2019-07-27 02:10:44 +0200 dmex : Remove unused return
