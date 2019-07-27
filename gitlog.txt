@@ -1,3 +1,7 @@
+[21aef753] 2019-07-27 02:19:56 +0200 dmex : Fix window title name
+[09f60a4e] 2019-07-27 02:17:32 +0200 dmex : Remove unused parameter
+[5c1e5ce1] 2019-07-27 02:10:44 +0200 dmex : Remove unused return
+[51ee5642] 2019-07-27 02:10:13 +0200 dmex : Fix PhDeleteFile regression
 [80166bb1] 2019-07-26 10:04:34 +0200 dmex : Rename SDDLAsString
 [dcbeadf7] 2019-07-25 20:59:09 +0200 dmex : Fix CreateProcess runas bug #436
 [8569819b] 2019-07-24 13:16:56 +0200 dmex : Add workaround for CreateProcess runas bug #436
