@@ -1,3 +1,12 @@
+[6989ac16] 2019-08-07 04:10:19 +1000 dmex : Add GPU/Disk/Network to process statistics page
+[fc09eb16] 2019-08-07 03:42:18 +1000 dmex : Update CustomSetupTool.vcxproj
+[11de2880] 2019-08-07 03:36:12 +1000 dmex : BuildTools: Update to v4.7.2
+[b9582f8b] 2019-08-07 03:29:28 +1000 dmex : SetupTool: Improve caching
+[f3311d8a] 2019-08-06 22:55:58 +1000 dmex : Fix window app name text
+[7ca27340] 2019-08-06 22:54:30 +1000 dmex : ExtendedServices: Remove unused timer
+[7f5e35b9] 2019-08-06 22:53:58 +1000 dmex : Update default token ACL editor types
+[1a4e2799] 2019-08-06 17:46:22 +1000 dmex : Save process token group states
+[cd1b1206] 2019-08-06 17:41:29 +1000 dmex : DotNetTools: Update .NET AppDomain layout
 [813fd9a9] 2019-07-28 19:15:11 +0200 dmex : DotNetTools: Remove unused section handle
 [ae876060] 2019-07-28 15:52:15 +0200 dmex : DotNetTools: Hide CLR statistics when the CLR data is invalid
 [4b012a73] 2019-07-27 17:31:04 +0200 dmex : Fix #447
