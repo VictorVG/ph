@@ -1,3 +1,11 @@
+[da43027c] 2019-08-07 10:19:58 +1000 dmex : ExtendedTools: Update stats rows
+[21de51e3] 2019-08-07 10:16:43 +1000 dmex : Fix options default regression
+[68c87f16] 2019-08-07 09:27:40 +1000 dmex : ExtendedTools: Update process gpu statistics
+[c01a9fb3] 2019-08-07 08:55:31 +1000 dmex : Fix error message parent window
+[343da0c2] 2019-08-07 07:44:58 +1000 dmex : peview: Add missing resources
+[333d48a4] 2019-08-07 07:42:05 +1000 dmex : peview: Add groups for module exports
+[c644c519] 2019-08-07 07:37:35 +1000 dmex : peview: Add options button
+[85e5c314] 2019-08-07 07:33:31 +1000 dmex : peview: Improve file dialog performance
 [6989ac16] 2019-08-07 04:10:19 +1000 dmex : Add GPU/Disk/Network to process statistics page
 [fc09eb16] 2019-08-07 03:42:18 +1000 dmex : Update CustomSetupTool.vcxproj
 [11de2880] 2019-08-07 03:36:12 +1000 dmex : BuildTools: Update to v4.7.2
