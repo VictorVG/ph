@@ -1,3 +1,4 @@
+[d76c3208] 2019-08-13 00:23:45 +1000 dmex : HardwareDevices: Add total disk delta stats; Update disk details window
 [da43027c] 2019-08-07 10:19:58 +1000 dmex : ExtendedTools: Update stats rows
 [21de51e3] 2019-08-07 10:16:43 +1000 dmex : Fix options default regression
 [68c87f16] 2019-08-07 09:27:40 +1000 dmex : ExtendedTools: Update process gpu statistics
