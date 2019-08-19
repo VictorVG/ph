@@ -1,3 +1,5 @@
+[627a577c] 2019-08-19 14:28:14 +1000 dmex : peview: Fix properties link for delay imports
+[f49a2284] 2019-08-19 13:41:31 +1000 dmex : Update msvc build flags
 [707287a0] 2019-08-18 22:17:48 +1000 dmex : peview: Add properties link to imports tab
 [8dc37766] 2019-08-18 11:38:22 +1000 Andrew Boyarshin : Implement PhEnumerateSymbols as front-end for SymEnumSymbolsW (#457)
 [38ee30da] 2019-08-15 21:12:32 +1000 dmex : Remove PhGetFileShellIcon
