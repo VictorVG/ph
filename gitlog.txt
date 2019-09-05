@@ -1,3 +1,5 @@
+[34577de4] 2019-09-05 20:08:33 +1000 dmex : Fix build
+[b7dde666] 2019-09-05 19:57:36 +1000 dmex : peview: Update dialog layouts
 [6f47f055] 2019-08-31 11:47:24 +1000 dmex : Add commandline arguments to information dialog
 [627a577c] 2019-08-19 14:28:14 +1000 dmex : peview: Fix properties link for delay imports
 [f49a2284] 2019-08-19 13:41:31 +1000 dmex : Update msvc build flags
