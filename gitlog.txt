@@ -1,3 +1,4 @@
+[84debe13] 2019-09-09 09:19:26 +1000 Marek Knápek : peview: Fix #469 Uninitialized variables when handling PDBs. (#470)
 [34577de4] 2019-09-05 20:08:33 +1000 dmex : Fix build
 [b7dde666] 2019-09-05 19:57:36 +1000 dmex : peview: Update dialog layouts
 [6f47f055] 2019-08-31 11:47:24 +1000 dmex : Add commandline arguments to information dialog
