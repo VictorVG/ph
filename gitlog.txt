@@ -1,3 +1,27 @@
+[4e4ae664] 2019-09-14 01:53:44 +1000 dmex : NetworkTools: Update tracert with DoH support
+[a17a0e61] 2019-09-14 01:33:50 +1000 dmex : Update http.c
+[a1259f84] 2019-09-14 00:54:36 +1000 dmex : Fix #474
+[69cc8695] 2019-09-13 23:50:38 +1000 dmex : Add PID column to network tab, Update network address sorting
+[ebfcefac] 2019-09-13 23:02:27 +1000 dmex : Update http.c
+[03d14e29] 2019-09-13 22:55:04 +1000 dmex : Update nettools.h
+[190ff96c] 2019-09-13 22:54:42 +1000 dmex : ExtendedTools: Add fahrenheit option
+[7624daa8] 2019-09-13 22:48:35 +1000 dmex : Fix DoH support on Win7
+[4a296117] 2019-09-13 22:03:13 +1000 dmex : Update netprv.c
+[c1e24a98] 2019-09-13 21:38:05 +1000 dmex : Add 'Resolve DNS over HTTPS' to options window
+[10aa888b] 2019-09-13 21:33:34 +1000 dmex : Add EnableNetworkResolveDoH setting
+[00957d79] 2019-09-13 21:12:54 +1000 dmex : OnlineChecks: Update delay imports
+[d00a81fc] 2019-09-13 21:02:38 +1000 dmex : Add settings/support for DNS over HTTPS
+[d82992bc] 2019-09-13 20:30:54 +1000 dmex : ExtendedTools: Add gpu temp Fahrenheit setting
+[327d6a81] 2019-09-13 20:25:37 +1000 dmex : Update prpgenv.c
+[768b8085] 2019-09-13 20:25:22 +1000 dmex : Update dbgcon.c
+[97d46fe5] 2019-09-13 20:16:13 +1000 dmex : Add phlib http wrappers
+[5e576e72] 2019-09-13 19:57:19 +1000 dmex : Add PhLoadPngImageFromFile
+[fc6363e0] 2019-09-13 19:55:23 +1000 dmex : Update appresolverp.h
+[3bfca7a1] 2019-09-13 19:53:47 +1000 dmex : Update ntrtl.h
+[c9e6f215] 2019-09-13 19:52:23 +1000 dmex : Export PhGetUserDefaultLangID
+[927d0507] 2019-09-13 19:50:56 +1000 dmex : Add PhSetListViewItemParam
+[c27acabb] 2019-09-13 19:50:05 +1000 dmex : Update named pipe imports
+[33037f28] 2019-09-13 19:47:31 +1000 dmex : Fix run dialog elevation prompt
 [84debe13] 2019-09-09 09:19:26 +1000 Marek Knápek : peview: Fix #469 Uninitialized variables when handling PDBs. (#470)
 [34577de4] 2019-09-05 20:08:33 +1000 dmex : Fix build
 [b7dde666] 2019-09-05 19:57:36 +1000 dmex : peview: Update dialog layouts
