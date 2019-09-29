@@ -1,3 +1,4 @@
+[5ff45a46] 2019-09-29 15:41:25 +1000 dmex : #478
 [5e52c489] 2019-09-25 21:50:25 +1000 dmex : Fix crash regression from commit 69cc869
 [4e4ae664] 2019-09-14 01:53:44 +1000 dmex : NetworkTools: Update tracert with DoH support
 [a17a0e61] 2019-09-14 01:33:50 +1000 dmex : Update http.c
