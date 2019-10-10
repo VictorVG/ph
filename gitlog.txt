@@ -1,3 +1,8 @@
+[0c45b947] 2019-10-11 02:32:43 +1100 dmex : Update phnet.h
+[55bf0b06] 2019-10-11 02:15:18 +1100 dmex : Fix server name
+[ae2c3c14] 2019-10-11 02:14:07 +1100 dmex : Update netprv.c
+[42dea399] 2019-10-11 02:11:55 +1100 dmex : Update http.c
+[d2aee364] 2019-10-11 02:07:40 +1100 dmex : NetworkTools: Add whois query status text, Fix tracert memory leak
 [5ff45a46] 2019-09-29 15:41:25 +1000 dmex : #478
 [5e52c489] 2019-09-25 21:50:25 +1000 dmex : Fix crash regression from commit 69cc869
 [4e4ae664] 2019-09-14 01:53:44 +1000 dmex : NetworkTools: Update tracert with DoH support
