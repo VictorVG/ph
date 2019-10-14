@@ -1,3 +1,6 @@
+[e0f0a2c6] 2019-10-15 00:13:06 +1100 dmex : Update version defines
+[2af29b4f] 2019-10-15 00:10:20 +1100 dmex : Add 19H2 support
+[822f8365] 2019-10-14 19:29:32 +1100 dmex : ExtendedTools: Fix crash
 [2112e716] 2019-10-14 12:45:59 +1100 dmex : HardwareDevices: Update settings
 [ab13d9db] 2019-10-14 11:36:57 +1100 dmex : HardwareDevices: Add Mbps to network details, Fix network details window settings
 [cb08d8fb] 2019-10-14 00:07:15 +1100 dmex : Update etwprprp.c
