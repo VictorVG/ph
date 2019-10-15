@@ -1,3 +1,11 @@
+[8e6c0768] 2019-10-15 11:28:22 +1100 dmex : Update README.md
+[7e4b42ad] 2019-10-15 11:22:31 +1100 dmex : Update README.md
+[9c60e7a5] 2019-10-15 11:12:55 +1100 dmex : Update local sync
+[aa7e7619] 2019-10-15 11:08:39 +1100 dmex : Fix #476
+[5cc1e861] 2019-10-15 11:00:09 +1100 dmex : Add propertysheet hotkey support
+[a22afa87] 2019-10-15 10:55:11 +1100 dmex : Update phsup.h
+[896527db] 2019-10-15 10:54:35 +1100 dmex : Update latest phlib
+[c36f7c22] 2019-10-15 10:51:35 +1100 dmex : phlib: Remove unused export
 [e0f0a2c6] 2019-10-15 00:13:06 +1100 dmex : Update version defines
 [2af29b4f] 2019-10-15 00:10:20 +1100 dmex : Add 19H2 support
 [822f8365] 2019-10-14 19:29:32 +1100 dmex : ExtendedTools: Fix crash
