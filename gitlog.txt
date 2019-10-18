@@ -1,3 +1,4 @@
+[49502ff7] 2019-10-18 18:52:23 +1100 dmex : Fix #484
 [3b3bde34] 2019-10-18 16:23:39 +1100 dmex : DotNetTools: Remove msvc warnings
 [4786912d] 2019-10-18 16:21:24 +1100 dmex : DotNetTools: Add net core 3.0
 [18f753e5] 2019-10-18 16:17:08 +1100 dmex : Update phnative.h
