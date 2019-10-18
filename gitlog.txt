@@ -1,3 +1,8 @@
+[4c3a0bdb] 2019-10-18 20:09:32 +1100 dmex : BuildTools: Fix git paths
+[6c15ce09] 2019-10-18 19:48:39 +1100 dmex : Update syssccpu.c
+[6a2fa13e] 2019-10-18 19:48:28 +1100 dmex : Update tokprp.c
+[105ef638] 2019-10-18 19:48:04 +1100 dmex : UserNotes: Fix warnings
+[49320359] 2019-10-18 19:46:40 +1100 dmex : DotNetTools: Fix warnings
 [49502ff7] 2019-10-18 18:52:23 +1100 dmex : Fix #484
 [3b3bde34] 2019-10-18 16:23:39 +1100 dmex : DotNetTools: Remove msvc warnings
 [4786912d] 2019-10-18 16:21:24 +1100 dmex : DotNetTools: Add net core 3.0
