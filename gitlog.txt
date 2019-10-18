@@ -1,3 +1,13 @@
+[3b3bde34] 2019-10-18 16:23:39 +1100 dmex : DotNetTools: Remove msvc warnings
+[4786912d] 2019-10-18 16:21:24 +1100 dmex : DotNetTools: Add net core 3.0
+[18f753e5] 2019-10-18 16:17:08 +1100 dmex : Update phnative.h
+[71cbd259] 2019-10-18 14:44:45 +1100 dmex : Add .NET Core 3.0 support
+[082bb8f9] 2019-10-18 08:13:09 +1100 dmex : Fix #484
+[cfc6cdd6] 2019-10-18 07:01:37 +1100 dmex : Update phnet.h
+[b384606a] 2019-10-18 07:01:09 +1100 dmex : Tidy up http
+[b0b2f426] 2019-10-18 04:15:45 +1100 dmex : Fix 19H1 version name
+[8c0273b0] 2019-10-18 04:14:14 +1100 dmex : Update ntrtl.h
+[d43c42cf] 2019-10-18 00:58:37 +1100 dmex : Fix WSL memory leak
 [ffea1dc8] 2019-10-17 02:48:31 +1100 dmex : Add WSL workaround #483
 [8e6c0768] 2019-10-15 11:28:22 +1100 dmex : Update README.md
 [7e4b42ad] 2019-10-15 11:22:31 +1100 dmex : Update README.md
