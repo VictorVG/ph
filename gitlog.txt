@@ -1,3 +1,15 @@
+[3549fc2c] 2019-10-19 19:49:48 +1100 dmex : Add PhOpenServiceEx
+[7318aebf] 2019-10-19 19:26:44 +1100 dmex : Update country.c
+[e6b96907] 2019-10-19 18:48:52 +1100 dmex : BuildTools: Add 64bit dotnet native publish
+[27b2f133] 2019-10-19 17:41:22 +1100 dmex : BuildTools: Fix 64bit csproj
+[fa9f7b4b] 2019-10-19 17:37:46 +1100 dmex : Remove unused build scripts
+[d399e0d2] 2019-10-19 16:59:40 +1100 dmex : Update CustomBuildTool.csproj
+[4d272709] 2019-10-19 15:46:59 +1100 dmex : Delete HeaderGen.cs
+[ea273f54] 2019-10-19 03:33:26 +1100 dmex : BuildTools: Update solution
+[7844f02d] 2019-10-19 03:01:07 +1100 dmex : Update theme.c
+[ead0580a] 2019-10-19 03:00:46 +1100 dmex : Fix dark theme window border, Update dark theme support
+[71b0300c] 2019-10-19 00:18:35 +1100 dmex : Fix geoip download #484
+[04977a22] 2019-10-18 23:56:24 +1100 dmex : BuildTools: Upgrade to net core 3 native
 [4c3a0bdb] 2019-10-18 20:09:32 +1100 dmex : BuildTools: Fix git paths
 [6c15ce09] 2019-10-18 19:48:39 +1100 dmex : Update syssccpu.c
 [6a2fa13e] 2019-10-18 19:48:28 +1100 dmex : Update tokprp.c
