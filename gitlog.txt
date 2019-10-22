@@ -1,3 +1,13 @@
+[0be603fd] 2019-10-22 20:57:51 +1100 diversenok : Detect terminated threads correctly (#488)
+[0677ba31] 2019-10-22 20:52:37 +1100 diversenok : phnt improvements (#487)
+[edbe077d] 2019-10-22 03:51:42 +1100 diversenok : Improve enumeration of processes in a job (#489)
+[942c7e65] 2019-10-22 03:44:44 +1100 dmex : Add PhGetThreadIsTerminated
+[ff2c834f] 2019-10-20 16:02:39 +1100 dmex : peview: Fix path leak
+[972e6120] 2019-10-20 16:01:20 +1100 dmex : Update apiimport.c
+[59c752ca] 2019-10-20 16:00:56 +1100 dmex : phnt: Update SAL
+[6d83ee4d] 2019-10-20 00:13:58 +1100 dmex : peview: Fix open file dialog error message
+[22f45fe4] 2019-10-19 23:49:22 +1100 dmex : Update theme.c
+[dcab1a7b] 2019-10-19 23:43:36 +1100 dmex : Fix token version check
 [3549fc2c] 2019-10-19 19:49:48 +1100 dmex : Add PhOpenServiceEx
 [7318aebf] 2019-10-19 19:26:44 +1100 dmex : Update country.c
 [e6b96907] 2019-10-19 18:48:52 +1100 dmex : BuildTools: Add 64bit dotnet native publish
