@@ -1,3 +1,4 @@
+[178a04a0] 2019-10-25 00:57:09 +1100 dmex : Update plugin.c
 [dd3ea48f] 2019-10-23 01:47:09 +1100 dmex : DotNetTools: Fix missing .NET stats for some processes
 [78e4b7d9] 2019-10-22 23:57:35 +1100 dmex : Update ntexapi.h
 [9b3d515d] 2019-10-22 23:09:39 +1100 dmex : peview: Add pe overlay size
