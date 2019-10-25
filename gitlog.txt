@@ -1,3 +1,12 @@
+[77972b47] 2019-10-25 11:25:16 +1100 dmex : Update ProcessHacker.vcxproj
+[75fd5dff] 2019-10-25 11:24:34 +1100 dmex : Update vcxproj
+[3b870481] 2019-10-25 11:17:04 +1100 dmex : Update appveyor.yml
+[e303cb63] 2019-10-25 11:09:14 +1100 dmex : Update CustomBuildTool
+[376272ef] 2019-10-25 10:58:24 +1100 dmex : Update build project
+[7a79280e] 2019-10-25 10:56:13 +1100 dmex : Revert "Update build project"
+[307705ad] 2019-10-25 10:49:54 +1100 dmex : Update build project
+[8e29fd71] 2019-10-25 10:15:44 +1100 dmex : BuildTools: Update checksums
+[3d56122e] 2019-10-25 09:52:49 +1100 dmex : Fix appveyor build
 [af27945c] 2019-10-25 08:56:29 +1100 dmex : Update build project
 [c076a4d6] 2019-10-25 07:48:29 +1100 dmex : BuildTool: Update binaries
 [734e8910] 2019-10-25 07:47:25 +1100 dmex : BuildTool: Remove unused manifest
