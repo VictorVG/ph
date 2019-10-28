@@ -1,3 +1,8 @@
+[5cc86e5f] 2019-10-28 10:58:16 +1100 dmex : Update ZwGen.cs
+[cac0450b] 2019-10-28 10:11:19 +1100 dmex : Remove legacy code
+[4a6e28b5] 2019-10-28 10:03:56 +1100 dmex : GenerateZw: Update to .NET core 3
+[594c0695] 2019-10-28 08:39:54 +1100 dmex : KProcessHacker: Update to latest WDK
+[61f22d1f] 2019-10-28 07:56:20 +1100 dmex : Update ntzwapi.h
 [77972b47] 2019-10-25 11:25:16 +1100 dmex : Update ProcessHacker.vcxproj
 [75fd5dff] 2019-10-25 11:24:34 +1100 dmex : Update vcxproj
 [3b870481] 2019-10-25 11:17:04 +1100 dmex : Update appveyor.yml
