@@ -1,3 +1,13 @@
+[32cb77f9] 2019-10-30 09:54:43 +1100 dmex : Update netprv.h
+[747f1138] 2019-10-30 09:22:37 +1100 dmex : Update mwpgnet.c
+[d68f15ea] 2019-10-30 02:10:50 +1100 dmex : ToolStatus: Add missing toolbar theme setting
+[a69beb8e] 2019-10-30 02:09:10 +1100 dmex : Update plugin manager window layout
+[fa25873a] 2019-10-30 01:35:08 +1100 dmex : BuildTools: Fix setup paths
+[adfe8fb7] 2019-10-30 00:38:46 +1100 dmex : Add PssCaptureSnapshot
+[382038d6] 2019-10-30 00:25:00 +1100 dmex : BuildTools: Update to latest .NET
+[87daa46e] 2019-10-30 00:19:11 +1100 dmex : Update PhCenterWindow
+[59d3d449] 2019-10-30 00:01:01 +1100 dmex : Fix main window dark theme refresh
+[e19414a9] 2019-10-29 09:48:27 +1100 Rocco Matano : fix hash object handling in sign tool (#493)
 [5cc86e5f] 2019-10-28 10:58:16 +1100 dmex : Update ZwGen.cs
 [cac0450b] 2019-10-28 10:11:19 +1100 dmex : Remove legacy code
 [4a6e28b5] 2019-10-28 10:03:56 +1100 dmex : GenerateZw: Update to .NET core 3
