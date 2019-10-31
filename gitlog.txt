@@ -1,3 +1,6 @@
+[7ec0b104] 2019-10-31 21:08:17 +1100 dmex : Add dns to delayload
+[c7f52953] 2019-10-31 20:37:42 +1100 dmex : ExtendedTools: Fix inital disk usage sample
+[74d81086] 2019-10-31 20:36:23 +1100 dmex : Add PhGetProcessInformationCache
 [7d58c6ec] 2019-10-31 17:12:08 +1100 dmex : Update http.c
 [ec1d3eaf] 2019-10-31 17:07:50 +1100 dmex : Add dnsapi to delayload
 [23f48a1a] 2019-10-31 16:50:10 +1100 dmex : ExtendedTools: Remove legacy code
