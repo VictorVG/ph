@@ -1,3 +1,4 @@
+[e7ab5663] 2019-11-01 13:42:20 +1100 dmex : Fix #495
 [7ec0b104] 2019-10-31 21:08:17 +1100 dmex : Add dns to delayload
 [c7f52953] 2019-10-31 20:37:42 +1100 dmex : ExtendedTools: Fix inital disk usage sample
 [74d81086] 2019-10-31 20:36:23 +1100 dmex : Add PhGetProcessInformationCache
