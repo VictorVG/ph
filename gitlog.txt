@@ -1,3 +1,6 @@
+[6829f607] 2019-11-02 20:28:10 +1100 dmex : Add PhOpenServiceEx
+[b2fe6f74] 2019-11-02 20:25:17 +1100 dmex : ExtendedTools: Show basic network gragh without uac elevation
+[a0610e86] 2019-11-02 19:52:33 +1100 dmex : Update CPU brand string #486
 [3bc91daf] 2019-11-02 17:01:15 +1100 dmex : Update ProcessHacker.vcxproj
 [33f84738] 2019-11-01 22:53:27 +1100 dmex : Improve service handle caching
 [1d1996b1] 2019-11-01 21:30:52 +1100 dmex : Add versioning support for insider builds
