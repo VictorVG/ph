@@ -1,3 +1,6 @@
+[a90422ec] 2019-11-03 03:52:07 +1100 dmex : HardwareDevices: Fix incorrect network stats when adapter disabled
+[210406b0] 2019-11-03 03:00:26 +1100 dmex : Update peview.vcxproj
+[16d3116d] 2019-11-03 02:52:22 +1100 dmex : ExtendedTools: Fix bug querying network usage for exited processes
 [6829f607] 2019-11-02 20:28:10 +1100 dmex : Add PhOpenServiceEx
 [b2fe6f74] 2019-11-02 20:25:17 +1100 dmex : ExtendedTools: Show basic network gragh without uac elevation
 [a0610e86] 2019-11-02 19:52:33 +1100 dmex : Update CPU brand string #486
