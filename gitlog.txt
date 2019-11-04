@@ -1,3 +1,5 @@
+[9924bee2] 2019-11-05 02:04:34 +1100 dmex : Update Utils.cs
+[6c64b9e2] 2019-11-05 01:54:29 +1100 dmex : BuildTools: Fix custom builds without git installed
 [88212369] 2019-11-05 01:05:07 +1100 dmex : Update ntsam.h
 [d7893769] 2019-11-05 00:57:47 +1100 dmex : Update session properties window layout
 [3b2254d5] 2019-11-04 22:58:27 +1100 dmex : Update peprp.c
