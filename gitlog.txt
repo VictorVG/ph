@@ -1,3 +1,15 @@
+[a3a7c910] 2019-11-05 08:13:08 +1100 dmex : BuildTools: Fix upload path
+[5c09abbc] 2019-11-05 07:43:34 +1100 dmex : Fix build
+[7d8b6298] 2019-11-05 07:41:55 +1100 dmex : BuildTools: Add custom build url support
+[c1d28ee6] 2019-11-05 06:58:57 +1100 dmex : Fix CollapseServicesOnStart filtering user processes when HideOtherUserProcesses enabled
+[29672fd9] 2019-11-05 06:54:53 +1100 dmex : Update PCRE includes
+[bb62b730] 2019-11-05 06:54:28 +1100 dmex : Update pcre2_compile.c
+[ee1e3482] 2019-11-05 06:24:41 +1100 dmex : Update PCRE to 10.33
+[1bb5236f] 2019-11-05 06:02:17 +1100 dmex : Update mxml to 3.1
+[2a0dfd36] 2019-11-05 05:46:51 +1100 dmex : Fix msvc warnings
+[3a450710] 2019-11-05 05:44:50 +1100 dmex : Update plugman.c
+[7e587e90] 2019-11-05 05:44:39 +1100 dmex : Update plugin.c
+[562ad7f5] 2019-11-05 05:43:17 +1100 dmex : Update hndlprp.c
 [9924bee2] 2019-11-05 02:04:34 +1100 dmex : Update Utils.cs
 [6c64b9e2] 2019-11-05 01:54:29 +1100 dmex : BuildTools: Fix custom builds without git installed
 [88212369] 2019-11-05 01:05:07 +1100 dmex : Update ntsam.h
