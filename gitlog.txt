@@ -1,3 +1,6 @@
+[3b2254d5] 2019-11-04 22:58:27 +1100 dmex : Update peprp.c
+[5c2dd002] 2019-11-04 22:58:17 +1100 dmex : Fix msvc warnings
+[18749553] 2019-11-04 22:56:10 +1100 dmex : Update PhEnumerateKey
 [48d6cd07] 2019-11-03 19:36:20 +1100 dmex : Update peview.vcxproj
 [852ba2b2] 2019-11-03 19:18:39 +1100 dmex : BuildTools: Fix building sdk
 [c9833390] 2019-11-03 19:05:52 +1100 dmex : BuildTools: Show missing build packages
