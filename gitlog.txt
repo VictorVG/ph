@@ -1,3 +1,5 @@
+[88212369] 2019-11-05 01:05:07 +1100 dmex : Update ntsam.h
+[d7893769] 2019-11-05 00:57:47 +1100 dmex : Update session properties window layout
 [3b2254d5] 2019-11-04 22:58:27 +1100 dmex : Update peprp.c
 [5c2dd002] 2019-11-04 22:58:17 +1100 dmex : Fix msvc warnings
 [18749553] 2019-11-04 22:56:10 +1100 dmex : Update PhEnumerateKey
