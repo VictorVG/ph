@@ -1,3 +1,6 @@
+[dfee8976] 2019-11-07 05:43:43 +1100 dmex : Update ntrtl.h
+[d216ecc5] 2019-11-07 05:43:39 +1100 dmex : Update ntexapi.h
+[bb6f88b5] 2019-11-07 02:54:11 +1100 dmex : Update ntioapi.h
 [0ec10899] 2019-11-06 23:08:35 +1100 dmex : Update svcapi.c
 [5537a557] 2019-11-06 22:24:14 +1100 dmex : Update appsup.c
 [3e4f4539] 2019-11-06 22:18:26 +1100 dmex : Update main.c
