@@ -1,3 +1,13 @@
+[0ec10899] 2019-11-06 23:08:35 +1100 dmex : Update svcapi.c
+[5537a557] 2019-11-06 22:24:14 +1100 dmex : Update appsup.c
+[3e4f4539] 2019-11-06 22:18:26 +1100 dmex : Update main.c
+[cb66f403] 2019-11-06 22:18:02 +1100 dmex : Update memrslt.c
+[195de89e] 2019-11-06 22:17:48 +1100 dmex : BuildTools: Remove legacy build server
+[f2a3975c] 2019-11-06 21:34:58 +1100 dmex : ExtendedTools: Update disk restart tab to treeview status
+[eede6231] 2019-11-06 20:57:16 +1100 dmex : Update actions.c
+[162b369c] 2019-11-06 20:44:03 +1100 dmex : Remove ExitWindows build warning
+[58664088] 2019-11-06 20:36:25 +1100 dmex : Revert "Updater: Improve filename cache"
+[3d4ba0ad] 2019-11-06 19:38:47 +1100 dmex : Fix msvc warnings
 [0372edd6] 2019-11-05 22:20:08 +1100 dmex : Updater: Improve filename cache
 [771f2dbe] 2019-11-05 17:24:55 +1100 dmex : BuildTools: Add http headers
 [42610d7a] 2019-11-05 14:33:49 +1100 dmex : BuildTools: Fix timeout regression
