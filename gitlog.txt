@@ -1,3 +1,14 @@
+[10592432] 2019-11-08 02:59:20 +1100 dmex : Remove legacy resource
+[c6e70d92] 2019-11-08 02:58:17 +1100 dmex : Update counters.c
+[c1a78a37] 2019-11-08 02:46:50 +1100 dmex : Update memlist.c
+[7cb699d5] 2019-11-08 02:36:39 +1100 dmex : Update svcapi.c
+[62daa344] 2019-11-07 23:43:18 +1100 dmex : #497
+[ffe13d12] 2019-11-07 18:24:37 +1100 dmex : Update procprv.c
+[3aa72e22] 2019-11-07 18:24:21 +1100 dmex : Update appresolver.c
+[3e438440] 2019-11-07 16:15:11 +1100 dmex : ExtendedTools: Update DelayLoadDLLs
+[4b03f163] 2019-11-07 15:56:32 +1100 dmex : BuildTools: Fix vs2019 warnings
+[0b17d029] 2019-11-07 15:45:52 +1100 dmex : Revert "BuildTools: Remove legacy build server"
+[c990c55e] 2019-11-07 07:17:38 +1100 dmex : Update svcapi.c
 [dfee8976] 2019-11-07 05:43:43 +1100 dmex : Update ntrtl.h
 [d216ecc5] 2019-11-07 05:43:39 +1100 dmex : Update ntexapi.h
 [bb6f88b5] 2019-11-07 02:54:11 +1100 dmex : Update ntioapi.h
