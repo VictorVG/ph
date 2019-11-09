@@ -34,9 +34,9 @@ program starts (plugin search path is fixed, any subdirectories are ignored)):
 ./plugins/ExtendedNotifications.dll
 ./plugins/ExtendedServices.dll
 ./plugins/ExtendedTools.dll
-./plugins/FirewallMonitorPlugin.dll - for Windows 8.1 - 10
+./plugins/FirewallMonitorPlugin.dll - only for Windows 10 (not all version!)
 ./plugins/FirmwarePlugin.dll
-./plugins/ForceShutdownPlugin.dll
+./plugins/ForceShutdownPlugin.dll - deleted in to v3.0.7307.2780 Git-10592432
 ./plugins/HardwareDevices.dll
 ./plugins/HexPidPlugin.dll - deleted in to v3.0.6628.2101 Git-208154f5
 ./plugins/LiveDumpPlugin.dll - only for Windows 10
@@ -49,7 +49,7 @@ program starts (plugin search path is fixed, any subdirectories are ignored)):
 ./plugins/PoolMonPlugin.dll
 ./plugins/ProductPolicyPlugin.dll
 ./plugins/ROTViewerPlugin.dll
-./plugins/SbieSupport.dll - not compatible after v3.0(r1254)
+./plugins/SbieSupport.dll - disabled in to Process Hacker source v3.0.6509.1982 Git-f0b96b18
 ./plugins/SecurityExplorer.dll
 ./plugins/ServiceBackupRestorePlugin.dll
 ./plugins/SetCriticalPlugin.dll
@@ -67,12 +67,13 @@ Deleted plug-ins:
  BootEntriesPlugin.dll - then replaced FirmwarePlugin.dll
  CommonUtil.dll - deleted in to v3.0.5411.884
  ExtraPlugins.dll    - deleted in to v3.0.5585.1058 then not longer needed
+ ForceShutdownPlugin.dll - deleted in to v3.0.7307.2780 Git-10592432
  HexPidPlugin.dll - deleted in to v3.0.6628.2101 then not longer needed
  NetExtrasPlugin.dll - then NetworkTools.dll v1.8 already included custom
                        Tracert, Ping, WhoIs and Country column support and
                        this plug-in is don't needed.
  SbieSupport.dll - disabled in v3.0.6509.1982 Git-f0b96b18 (see Issues
-                   #233 - SBIE2035: Out of memory)
+                   #233 - SBIE2035: Out of memory), disabled in to source
 
 Also deleted:
 

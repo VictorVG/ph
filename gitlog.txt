@@ -1,3 +1,5 @@
+[99f0c590] 2019-11-09 23:32:48 +1100 dmex : Add native UTF8 support, Fix vs2019 warnings
+[84169ad3] 2019-11-09 22:37:35 +1100 dmex : DotNetTools: Fix netcore stack traces
 [10592432] 2019-11-08 02:59:20 +1100 dmex : Remove legacy resource
 [c6e70d92] 2019-11-08 02:58:17 +1100 dmex : Update counters.c
 [c1a78a37] 2019-11-08 02:46:50 +1100 dmex : Update memlist.c
