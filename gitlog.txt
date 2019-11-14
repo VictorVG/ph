@@ -1,3 +1,8 @@
+[8b930578] 2019-11-14 23:24:09 +1100 dmex : Update kdump.c
+[a6c74509] 2019-11-14 21:36:49 +1100 dmex : Add live dump option to the Tools menu
+[df2c1bae] 2019-11-14 17:25:05 +1100 dmex : ExtendedTools: Remove unused lock
+[6a16ef77] 2019-11-14 17:16:13 +1100 dmex : Fix memory tab searchbox crash
+[e503c097] 2019-11-14 15:10:35 +1100 dmex : Update resources, Fix vs19 warnings
 [99f0c590] 2019-11-09 23:32:48 +1100 dmex : Add native UTF8 support, Fix vs2019 warnings
 [84169ad3] 2019-11-09 22:37:35 +1100 dmex : DotNetTools: Fix netcore stack traces
 [10592432] 2019-11-08 02:59:20 +1100 dmex : Remove legacy resource
