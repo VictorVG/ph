@@ -1,3 +1,37 @@
+[9ea973a1] 2019-11-16 10:35:44 +1100 dmex : Update theme.c
+[cea65ac8] 2019-11-16 10:04:51 +1100 dmex : Update emenu.c
+[4322f97c] 2019-11-16 09:51:57 +1100 dmex : Fix native dark theme menu on Win10-19H2
+[669abc5f] 2019-11-16 09:14:20 +1100 dmex : Add status text to live dump progress window
+[742aa7fb] 2019-11-16 09:00:48 +1100 dmex : Add missing case label for notification menu
+[1ce7fc59] 2019-11-16 08:35:12 +1100 dmex : Add file size to live dump progress
+[6d23ce01] 2019-11-16 08:02:02 +1100 dmex : Add notification options to View > tray icons menu, Fix vs19 warnings
+[5c777e33] 2019-11-16 08:00:56 +1100 dmex : Add shield to runas dialog
+[f0cc4b03] 2019-11-16 06:00:57 +1100 dmex : Update statusbar.c
+[4226d9be] 2019-11-16 06:00:44 +1100 dmex : Update emenu.c
+[608f7b4c] 2019-11-15 16:47:23 +1100 dmex : Remove unused code
+[bd5e5068] 2019-11-15 16:33:33 +1100 dmex : Fix typos
+[2e7595ce] 2019-11-15 16:19:32 +1100 dmex : Fix plugin window dark theme, Remove legacy code, Fix vs19 warnings
+[443444f3] 2019-11-15 14:44:07 +1100 dmex : Fix typo, Improve runas forground window focus
+[3cdbcc70] 2019-11-15 14:34:47 +1100 dmex : Update kdump.c
+[84550a99] 2019-11-15 14:25:58 +1100 dmex : Update mainwnd.c
+[ac98a5ac] 2019-11-15 13:03:12 +1100 dmex : Fix live dump handle leak
+[3e1760c3] 2019-11-15 12:50:48 +1100 dmex : Add 'Trusted Installer' checkbox to Hacker > Run window
+[9d440e49] 2019-11-15 12:37:36 +1100 dmex : Move page priority sub menu into process menu
+[8b9df4a6] 2019-11-15 12:36:30 +1100 dmex : Update kdump.c
+[e27fd1fe] 2019-11-15 12:02:28 +1100 dmex : ToolStatus: Add toolbar options to the main menu
+[308b0299] 2019-11-15 11:02:22 +1100 dmex : ExtendedTools: Fix disk tab crash
+[c3ce7d96] 2019-11-15 10:38:01 +1100 dmex : Update disktab.c
+[b519e685] 2019-11-15 10:37:50 +1100 dmex : Update treenew.c
+[050014f3] 2019-11-15 10:06:49 +1100 dmex : Update treenew.c
+[001d3ac0] 2019-11-15 09:58:01 +1100 dmex : ExtendedTools: Add dark theme to disk tab
+[f6eef998] 2019-11-15 08:29:47 +1100 dmex : Fix some dark theme issues
+[c054f396] 2019-11-15 08:14:52 +1100 dmex : Update theme.c
+[c423cbc0] 2019-11-15 08:08:39 +1100 dmex : Update options.c
+[80369dc6] 2019-11-15 08:06:30 +1100 dmex : Add dark main menu theme, Set dark theme as default
+[0ca18aea] 2019-11-15 04:55:40 +1100 dmex : Update plugin.c
+[86ac0db5] 2019-11-15 04:55:18 +1100 dmex : Reset KPH after Windows build updates
+[049bd900] 2019-11-15 04:40:42 +1100 dmex : Update cached directory paths
+[d83e4ffb] 2019-11-15 03:51:17 +1100 dmex : Update SAL annotations, Add KPH config reset
 [8ee066ed] 2019-11-15 01:54:45 +1100 dmex : OnlineChecks: Fix process modules menu
 [8b930578] 2019-11-14 23:24:09 +1100 dmex : Update kdump.c
 [a6c74509] 2019-11-14 21:36:49 +1100 dmex : Add live dump option to the Tools menu
