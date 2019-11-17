@@ -1,3 +1,5 @@
+[1f1cdc15] 2019-11-17 06:19:48 +1100 dmex : Add live dump cancellation support, Hide live dump feature on unsupported windows
+[26c0e967] 2019-11-17 03:20:11 +1100 dmex : Fix network tab hostname regression
 [9ea973a1] 2019-11-16 10:35:44 +1100 dmex : Update theme.c
 [cea65ac8] 2019-11-16 10:04:51 +1100 dmex : Update emenu.c
 [4322f97c] 2019-11-16 09:51:57 +1100 dmex : Fix native dark theme menu on Win10-19H2
