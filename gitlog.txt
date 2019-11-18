@@ -1,3 +1,4 @@
+[3b00b096] 2019-11-18 08:58:31 +1100 dmex : BuildTools: Fix #503
 [1f1cdc15] 2019-11-17 06:19:48 +1100 dmex : Add live dump cancellation support, Hide live dump feature on unsupported windows
 [26c0e967] 2019-11-17 03:20:11 +1100 dmex : Fix network tab hostname regression
 [9ea973a1] 2019-11-16 10:35:44 +1100 dmex : Update theme.c
