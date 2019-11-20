@@ -1,3 +1,4 @@
+[0e1e2ce4] 2019-11-21 03:26:45 +1100 dmex : peview: Add text preview tab
 [121c6e45] 2019-11-20 22:14:08 +1100 dmex : Update main.c
 [fa017cbc] 2019-11-20 22:11:58 +1100 dmex : Revert "Updater: Add update prompt on exit option to setting window"
 [09d8a7d3] 2019-11-20 21:16:28 +1100 dmex : Updater: Add update prompt on exit option to setting window
