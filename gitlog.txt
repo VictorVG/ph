@@ -1,3 +1,14 @@
+[121c6e45] 2019-11-20 22:14:08 +1100 dmex : Update main.c
+[fa017cbc] 2019-11-20 22:11:58 +1100 dmex : Revert "Updater: Add update prompt on exit option to setting window"
+[09d8a7d3] 2019-11-20 21:16:28 +1100 dmex : Updater: Add update prompt on exit option to setting window
+[0be6726e] 2019-11-20 21:07:30 +1100 dmex : Update modules tab menu
+[1d0916bb] 2019-11-20 21:05:28 +1100 dmex : Update taskdialog status text
+[d1011e32] 2019-11-20 21:02:40 +1100 dmex : Update main.c
+[c654ef1b] 2019-11-20 16:08:12 +1100 dmex : Fix #507 setup regression
+[4c381595] 2019-11-20 16:00:11 +1100 dmex : BuildTools: Fix #503
+[a37876f6] 2019-11-20 11:35:47 +1100 dmex : Remove CollapseServicesOnStart setting (duplicates Misc > Collapse by default menu) Fixes #508
+[839cd053] 2019-11-20 10:51:31 +1100 dmex : Update kdump.c
+[1aee58e3] 2019-11-20 10:51:15 +1100 dmex : Update ProcessHacker.vcxproj.filters
 [3b00b096] 2019-11-18 08:58:31 +1100 dmex : BuildTools: Fix #503
 [1f1cdc15] 2019-11-17 06:19:48 +1100 dmex : Add live dump cancellation support, Hide live dump feature on unsupported windows
 [26c0e967] 2019-11-17 03:20:11 +1100 dmex : Fix network tab hostname regression
