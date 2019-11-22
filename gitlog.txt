@@ -1,3 +1,9 @@
+[2c169621] 2019-11-22 17:46:26 +1100 dmex : Fix previous runas command
+[9687c6e5] 2019-11-22 17:42:52 +1100 dmex : Updater: Remove unused flag
+[1bff6743] 2019-11-22 17:42:36 +1100 dmex : OnlineChecks: Add workqueue support
+[69c91463] 2019-11-22 17:40:36 +1100 dmex : DotNetTools: Update .NET perf category order
+[4ed23c22] 2019-11-22 14:59:02 +1100 dmex : Fix warning
+[ccdb17b4] 2019-11-22 14:46:49 +1100 dmex : BuildTools: Remove legacy setup dialogs
 [0e1e2ce4] 2019-11-21 03:26:45 +1100 dmex : peview: Add text preview tab
 [121c6e45] 2019-11-20 22:14:08 +1100 dmex : Update main.c
 [fa017cbc] 2019-11-20 22:11:58 +1100 dmex : Revert "Updater: Add update prompt on exit option to setting window"
