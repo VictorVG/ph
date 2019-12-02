@@ -1,3 +1,4 @@
+[d9709543] 2019-12-02 02:33:09 +1100 diversenok : Small improvements for ntrtl.h (#512)
 [ed83e955] 2019-11-23 12:32:50 +1100 dmex : Add compressed png resources
 [d7e936af] 2019-11-23 12:18:29 +1100 dmex : peview: Add default preview size
 [2c169621] 2019-11-22 17:46:26 +1100 dmex : Fix previous runas command
