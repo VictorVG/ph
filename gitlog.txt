@@ -1,3 +1,23 @@
+[94f68c30] 2019-12-06 00:47:22 +1100 dmex : Update prpggen.c
+[fe20fc24] 2019-12-06 00:03:55 +1100 dmex : Update actions.c
+[5c178302] 2019-12-06 00:03:52 +1100 dmex : Update dbgcon.c
+[17d43c85] 2019-12-06 00:03:47 +1100 dmex : Update itemtips.c
+[1c654d3b] 2019-12-06 00:00:45 +1100 dmex : Add win32 filename
+[455954f0] 2019-12-05 23:54:44 +1100 dmex : Add PhDoesFileExist
+[81ef661e] 2019-12-05 23:34:42 +1100 dmex : Add PhTraceControl example
+[6f573f2d] 2019-12-05 23:32:41 +1100 dmex : Update DelayLoadDLLs
+[c919ff6a] 2019-12-05 23:28:46 +1100 dmex : Fix warning
+[bea1457e] 2019-12-05 23:26:05 +1100 dmex : Add PhTraceControl
+[edebe384] 2019-12-05 23:04:04 +1100 dmex : Update ntmisc.h
+[e57f80f5] 2019-12-05 21:48:46 +1100 dmex : Add PhGetProcessCurrentDirectory
+[54cbabe6] 2019-12-05 06:19:37 +1100 dmex : peview: Fix clr string leak
+[400fdbe9] 2019-12-05 02:07:18 +1100 dmex : peview: Add .NET binary StrongNameToken
+[f44a90f5] 2019-12-04 22:21:31 +1100 dmex : Add PhAddJsonObjectInt64
+[9c9def65] 2019-12-04 22:21:15 +1100 dmex : Add PhDoesDirectoryExist
+[861dc6b6] 2019-12-04 22:20:26 +1100 dmex : Update ntmmapi.h
+[c527649a] 2019-12-04 22:20:21 +1100 dmex : Update ntpfapi.h
+[a337ae7d] 2019-12-04 22:19:45 +1100 dmex : Merge branch 'master' of https://github.com/processhacker/processhacker
+[911e8ef8] 2019-12-04 22:19:42 +1100 dmex : BuildTools: netcore3.1
 [d9709543] 2019-12-02 02:33:09 +1100 diversenok : Small improvements for ntrtl.h (#512)
 [ed83e955] 2019-11-23 12:32:50 +1100 dmex : Add compressed png resources
 [d7e936af] 2019-11-23 12:18:29 +1100 dmex : peview: Add default preview size
