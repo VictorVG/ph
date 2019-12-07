@@ -1,3 +1,6 @@
+[a7600511] 2019-12-07 08:40:20 +1100 dmex : Updater: Add sourceforge nightly
+[727659cc] 2019-12-07 07:58:55 +1100 dmex : Update prpggen.c
+[80605836] 2019-12-07 07:49:22 +1100 dmex : Add native image path to process properties
 [94f68c30] 2019-12-06 00:47:22 +1100 dmex : Update prpggen.c
 [fe20fc24] 2019-12-06 00:03:55 +1100 dmex : Update actions.c
 [5c178302] 2019-12-06 00:03:52 +1100 dmex : Update dbgcon.c
