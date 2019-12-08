@@ -1,3 +1,5 @@
+[1188f9d5] 2019-12-08 10:46:52 +1100 Maximilian Michael Schaumann : Create CODE_OF_CONDUCT.md (#517)
+[6004572f] 2019-12-08 09:41:12 +1100 dmex : Fix typo
 [a7600511] 2019-12-07 08:40:20 +1100 dmex : Updater: Add sourceforge nightly
 [727659cc] 2019-12-07 07:58:55 +1100 dmex : Update prpggen.c
 [80605836] 2019-12-07 07:49:22 +1100 dmex : Add native image path to process properties
