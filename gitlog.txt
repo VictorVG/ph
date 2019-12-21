@@ -1,3 +1,4 @@
+[8763c746] 2019-12-22 01:49:03 +1100 dmex : peview: Add PE directories tab
 [0eeed83e] 2019-12-21 22:30:18 +1100 dmex : Plugins: Fix FileName regressions
 [de5b6d97] 2019-12-21 20:58:34 +1100 dmex : Update pagefile dialog #526
 [e03703f9] 2019-12-21 20:57:21 +1100 dmex : Update ntexapi.h
