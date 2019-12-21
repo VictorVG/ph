@@ -1,3 +1,4 @@
+[2fa61bc7] 2019-12-21 09:49:21 +1100 dmex : #526
 [d24601a4] 2019-12-11 08:32:03 +1100 dmex : Add file missing from previous commit
 [0576e285] 2019-12-11 05:01:56 +1100 dmex : Fix open file location regression
 [1188f9d5] 2019-12-08 10:46:52 +1100 Maximilian Michael Schaumann : Create CODE_OF_CONDUCT.md (#517)
