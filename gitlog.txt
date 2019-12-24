@@ -1,3 +1,5 @@
+[3590b7a1] 2019-12-25 07:31:40 +1100 dmex : NetworkTools: Update status text
+[8d4cba4d] 2019-12-25 07:12:33 +1100 dmex : NetworkTools: Fix geoip status text #510
 [c7a37117] 2019-12-24 04:04:17 +1100 dmex : Updater: Update changelog window #384
 [d7fe254e] 2019-12-24 04:02:25 +1100 dmex : Update DoesFileExist, Fix SAL, Export PhGetListViewItemText
 [6caf7e6a] 2019-12-24 04:00:15 +1100 dmex : Update native.c
