@@ -1,3 +1,7 @@
+[c7a37117] 2019-12-24 04:04:17 +1100 dmex : Updater: Update changelog window #384
+[d7fe254e] 2019-12-24 04:02:25 +1100 dmex : Update DoesFileExist, Fix SAL, Export PhGetListViewItemText
+[6caf7e6a] 2019-12-24 04:00:15 +1100 dmex : Update native.c
+[267ad415] 2019-12-24 04:00:03 +1100 dmex : Add PhGetListViewItemText
 [0bb354ab] 2019-12-23 09:25:24 +1100 Kasper Fabæch Brandt : Fix analyzer warnings from WindowExplorer plugin. (#529)
 [8763c746] 2019-12-22 01:49:03 +1100 dmex : peview: Add PE directories tab
 [0eeed83e] 2019-12-21 22:30:18 +1100 dmex : Plugins: Fix FileName regressions
