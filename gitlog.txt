@@ -1,3 +1,7 @@
+[de62890d] 2020-01-15 21:47:31 +1000 dmex : Updater: Fix incorrect changelog highlighting
+[b1dea8c0] 2020-01-15 21:45:51 +1000 dmex : Add PhGetPhVersionHash
+[5bf729b7] 2020-01-15 16:03:44 +1000 dmex : Update copyright
+[c7c02265] 2020-01-15 14:40:01 +1000 dmex : Fix filename column regression #540
 [b44a1573] 2019-12-26 23:57:22 +1100 dmex : Update VS2019 SAL annotations
 [3590b7a1] 2019-12-25 07:31:40 +1100 dmex : NetworkTools: Update status text
 [8d4cba4d] 2019-12-25 07:12:33 +1100 dmex : NetworkTools: Fix geoip status text #510
