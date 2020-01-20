@@ -1,3 +1,5 @@
+[0176c924] 2020-01-19 14:48:21 +1000 dmex : Add PhGetProcessPriorityBoost
+[b4cae4f9] 2020-01-19 10:40:53 +1000 dmex : Add PhGetThreadPriorityBoost
 [de62890d] 2020-01-15 21:47:31 +1000 dmex : Updater: Fix incorrect changelog highlighting
 [b1dea8c0] 2020-01-15 21:45:51 +1000 dmex : Add PhGetPhVersionHash
 [5bf729b7] 2020-01-15 16:03:44 +1000 dmex : Update copyright
