@@ -1,3 +1,4 @@
+[f739c55d] 2020-01-31 19:22:44 +1000 dmex : Update comment for broken Win10 feature #547
 [83276a2c] 2020-01-30 17:32:50 +1000 dmex : Revert menu autodismiss #547
 [64be6f10] 2020-01-27 13:57:18 +1000 zeffy : Make several functions from ntrtl.h take const strings (#494)
 [e6b7510b] 2020-01-27 13:53:04 +1000 dmex : ToolStatus: Add handle check
