@@ -1,3 +1,5 @@
+[e47806e6] 2020-02-09 21:49:56 +1000 dmex : Fix some VS2019 warnings
+[ecedf54e] 2020-02-09 21:39:46 +1000 dmex : Add restart process option to tray icon menu
 [0e9cf471] 2020-02-07 11:54:42 +1000 dmex : Fix #550
 [9307e0ad] 2020-02-07 11:54:19 +1000 dmex : Remove dead link
 [f739c55d] 2020-01-31 19:22:44 +1000 dmex : Update comment for broken Win10 feature #547
