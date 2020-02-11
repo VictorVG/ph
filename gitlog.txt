@@ -1,3 +1,5 @@
+[e5a7de5b] 2020-02-11 10:16:33 +1000 dmex : Fix GetWindowPlacement warning
+[9c21204d] 2020-02-11 09:21:17 +1000 dmex : Move HungWindowFromGhostWindow into dedicated function
 [1d22fea1] 2020-02-10 13:48:56 +1000 dmex : Updater: Fix changelog link #555
 [e47806e6] 2020-02-09 21:49:56 +1000 dmex : Fix some VS2019 warnings
 [ecedf54e] 2020-02-09 21:39:46 +1000 dmex : Add restart process option to tray icon menu
