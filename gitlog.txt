@@ -1,3 +1,5 @@
+[6b1939f9] 2020-02-12 21:40:42 +1000 dmex : WindowExplorer: Fix subclass leak from previous commit
+[949147e3] 2020-02-12 21:26:46 +1000 dmex : WindowExplorer: Add FindWindow button #557, Add alternate enumeration #537, Add wndextra property, Fix various issues
 [e5a7de5b] 2020-02-11 10:16:33 +1000 dmex : Fix GetWindowPlacement warning
 [9c21204d] 2020-02-11 09:21:17 +1000 dmex : Move HungWindowFromGhostWindow into dedicated function
 [1d22fea1] 2020-02-10 13:48:56 +1000 dmex : Updater: Fix changelog link #555
