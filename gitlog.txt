@@ -1,3 +1,15 @@
+[e734bab5] 2020-02-14 18:33:28 +1000 dmex : NetworkTools: Improve string typedef usage
+[5c9b9a21] 2020-02-14 18:32:54 +1000 dmex : ExtendedServices: Remove legacy ETW lookup
+[87fe5666] 2020-02-14 18:32:10 +1000 dmex : Add PhGetEtwPublisherName
+[bb45e97c] 2020-02-14 17:44:42 +1000 dmex : ExtendedServices: Improve string typedef usage
+[665a2306] 2020-02-14 15:22:24 +1000 dmex : WindowExplorer: Add automation server detection to window properties
+[504ddce0] 2020-02-14 14:44:34 +1000 dmex : Update global.c
+[6a08a1f8] 2020-02-14 14:43:29 +1000 dmex : Update PhEnumChildWindows
+[d42a277b] 2020-02-14 14:42:02 +1000 dmex : Add missing unknown priority case
+[e531bf79] 2020-02-14 14:41:27 +1000 dmex : peview: Add hex for timestamp on Win10
+[5bb6bbc8] 2020-02-14 14:37:44 +1000 dmex : Remove duplicate dns query for localhost
+[ebbbdad1] 2020-02-14 14:36:00 +1000 dmex : Remove duplicate definition, Update SAL for VS2019
+[ce7ec9f7] 2020-02-14 14:35:04 +1000 dmex : ToolStatus: Fix toolbar graphs sometimes not updating correctly
 [6b1939f9] 2020-02-12 21:40:42 +1000 dmex : WindowExplorer: Fix subclass leak from previous commit
 [949147e3] 2020-02-12 21:26:46 +1000 dmex : WindowExplorer: Add FindWindow button #557, Add alternate enumeration #537, Add wndextra property, Fix various issues
 [e5a7de5b] 2020-02-11 10:16:33 +1000 dmex : Fix GetWindowPlacement warning
