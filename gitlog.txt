@@ -1,3 +1,4 @@
+[892545af] 2020-02-14 21:06:26 +1000 dmex : Updater: Remove workqueue from UI threads #560
 [e734bab5] 2020-02-14 18:33:28 +1000 dmex : NetworkTools: Improve string typedef usage
 [5c9b9a21] 2020-02-14 18:32:54 +1000 dmex : ExtendedServices: Remove legacy ETW lookup
 [87fe5666] 2020-02-14 18:32:10 +1000 dmex : Add PhGetEtwPublisherName
