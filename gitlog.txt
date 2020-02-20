@@ -1,3 +1,4 @@
+[57179cf1] 2020-02-20 22:34:13 +1000 dmex : Improve PhGetClassObject error handling
 [f7b150db] 2020-02-20 21:08:33 +1000 dmex : peview: Add missing parameter
 [5cb17aef] 2020-02-20 21:02:09 +1000 dmex : Add TraceLogging GUID names to handle window
 [984b3350] 2020-02-20 20:59:49 +1000 dmex : BuildTools: Add event trace build
