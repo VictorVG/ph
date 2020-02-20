@@ -1,3 +1,7 @@
+[f7b150db] 2020-02-20 21:08:33 +1000 dmex : peview: Add missing parameter
+[5cb17aef] 2020-02-20 21:02:09 +1000 dmex : Add TraceLogging GUID names to handle window
+[984b3350] 2020-02-20 20:59:49 +1000 dmex : BuildTools: Add event trace build
+[2dd536ea] 2020-02-20 09:51:01 +1000 dmex : Add PhGetFileText UTF8 support
 [0da25e8b] 2020-02-19 21:04:35 +1000 dmex : CustomBuildTool: Add cert checks
 [8c60d5a9] 2020-02-19 20:08:56 +1000 dmex : CustomBuildTool: Fix previous commit
 [1390f912] 2020-02-19 19:45:25 +1000 dmex : CustomBuildTool: Add SSL policy override #563
