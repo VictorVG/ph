@@ -1,3 +1,4 @@
+[2e352774] 2020-02-25 16:36:22 +1000 dmex : Fix vs2019 SAL annotations
 [7c483ce6] 2020-02-22 17:52:45 +1000 dmex : Update hndlinfo.c
 [d28e42ce] 2020-02-22 17:39:49 +1000 dmex : Add warning when enabling 'start as admin' for portable releases #546
 [57179cf1] 2020-02-20 22:34:13 +1000 dmex : Improve PhGetClassObject error handling
