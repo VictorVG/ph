@@ -1,3 +1,6 @@
+[245b40d9] 2020-02-26 23:44:09 +1000 dmex : Fix vs2019 SAL checks
+[3e681015] 2020-02-26 23:40:57 +1000 dmex : PHNT: Update SAL annotations for latest Windows SDK
+[e7b7d319] 2020-02-26 15:19:16 +1000 Biswapriyo Nath : Fix some compilation errors in ARM64 (#565)
 [2e352774] 2020-02-25 16:36:22 +1000 dmex : Fix vs2019 SAL annotations
 [7c483ce6] 2020-02-22 17:52:45 +1000 dmex : Update hndlinfo.c
 [d28e42ce] 2020-02-22 17:39:49 +1000 dmex : Add warning when enabling 'start as admin' for portable releases #546
