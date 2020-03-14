@@ -1,3 +1,4 @@
+[d82f82de] 2020-03-14 10:26:08 +1000 Biswapriyo Nath : Add CRT alternatives in PhFindCharInStringRef and PhFindLastCharInStringRef (#568)
 [5c5995cb] 2020-03-05 01:25:11 +1000 dmex : Fix warning
 [64619f11] 2020-03-02 09:54:09 +1000 dmex : Fix 32bit defines from previous commit
 [96d22d51] 2020-03-02 09:43:58 +1000 dmex : Fix win10 kernel update breaking changes
