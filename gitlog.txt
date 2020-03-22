@@ -1,3 +1,4 @@
+[306f870a] 2020-03-22 19:25:55 +1000 dmex : ToolStatus: Improve extension checking for graphs, Update UTF16 usage
 [3665cb40] 2020-03-22 14:13:40 +1000 dmex : Update UTF16 chars, Update solutions, Fix SAL warnings
 [194b1b0b] 2020-03-22 14:07:11 +1000 dmex : Fix some visual studio 2019 SAL annotations
 [5f117343] 2020-03-22 11:14:41 +1000 dmex : Export PhGetClassObject
