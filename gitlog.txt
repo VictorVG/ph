@@ -1,3 +1,6 @@
+[3665cb40] 2020-03-22 14:13:40 +1000 dmex : Update UTF16 chars, Update solutions, Fix SAL warnings
+[194b1b0b] 2020-03-22 14:07:11 +1000 dmex : Fix some visual studio 2019 SAL annotations
+[5f117343] 2020-03-22 11:14:41 +1000 dmex : Export PhGetClassObject
 [e5cdc950] 2020-03-18 18:52:32 +1000 dmex : Add version to diagnostics window #575
 [d82f82de] 2020-03-14 10:26:08 +1000 Biswapriyo Nath : Add CRT alternatives in PhFindCharInStringRef and PhFindLastCharInStringRef (#568)
 [5c5995cb] 2020-03-05 01:25:11 +1000 dmex : Fix warning
