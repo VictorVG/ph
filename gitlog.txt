@@ -1,3 +1,6 @@
+[c991175c] 2020-03-29 13:22:18 +1000 dmex : OnlineChecks: Update DelayLoadDLLs
+[6a5a4885] 2020-03-29 13:10:20 +1000 dmex : Plugins: Update UTF16 strings, Add PhGetClassObject
+[f48ccba5] 2020-03-29 13:08:45 +1000 dmex : ExtendedTools: Add event tracing error messages #577,  Fix experimental GPU performance counters being enabled by default
 [306f870a] 2020-03-22 19:25:55 +1000 dmex : ToolStatus: Improve extension checking for graphs, Update UTF16 usage
 [3665cb40] 2020-03-22 14:13:40 +1000 dmex : Update UTF16 chars, Update solutions, Fix SAL warnings
 [194b1b0b] 2020-03-22 14:07:11 +1000 dmex : Fix some visual studio 2019 SAL annotations
