@@ -1,3 +1,5 @@
+[c606f4b8] 2020-03-30 09:53:27 +1000 dmex : peview: Update SAL annotations, Add UTF16 strings
+[071fb397] 2020-03-30 09:50:59 +1000 dmex : BuildTools: Remove certificate workaround, Add SourceForge support
 [c991175c] 2020-03-29 13:22:18 +1000 dmex : OnlineChecks: Update DelayLoadDLLs
 [6a5a4885] 2020-03-29 13:10:20 +1000 dmex : Plugins: Update UTF16 strings, Add PhGetClassObject
 [f48ccba5] 2020-03-29 13:08:45 +1000 dmex : ExtendedTools: Add event tracing error messages #577,  Fix experimental GPU performance counters being enabled by default
