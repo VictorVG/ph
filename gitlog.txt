@@ -1,3 +1,6 @@
+[708e214a] 2020-04-01 10:59:01 +1000 dmex : peview: Fix portable settings filename #589
+[dccac2ff] 2020-04-01 10:58:19 +1000 dmex : Fix typedef
+[3346cf1a] 2020-03-31 17:26:19 +1000 dmex : Update ntexapi
 [c606f4b8] 2020-03-30 09:53:27 +1000 dmex : peview: Update SAL annotations, Add UTF16 strings
 [071fb397] 2020-03-30 09:50:59 +1000 dmex : BuildTools: Remove certificate workaround, Add SourceForge support
 [c991175c] 2020-03-29 13:22:18 +1000 dmex : OnlineChecks: Update DelayLoadDLLs
