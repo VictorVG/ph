@@ -1,3 +1,5 @@
+[c6162945] 2020-04-02 16:56:06 +1000 dmex : Update README.md
+[0b2cd383] 2020-04-02 16:53:45 +1000 dmex : Fix threads tab text invalidation #583
 [708e214a] 2020-04-01 10:59:01 +1000 dmex : peview: Fix portable settings filename #589
 [dccac2ff] 2020-04-01 10:58:19 +1000 dmex : Fix typedef
 [3346cf1a] 2020-03-31 17:26:19 +1000 dmex : Update ntexapi
