@@ -1,3 +1,7 @@
+[c1a8c103] 2020-04-05 21:47:03 +1000 dmex : Update ntexapi.h
+[38aa1940] 2020-04-05 21:19:04 +1000 dmex : Update subprocesstag.h
+[1635d763] 2020-04-05 21:18:43 +1000 dmex : Add SetEnvironmentVariable
+[9228cf3f] 2020-04-05 15:25:59 +1000 Biswapriyo Nath : Add basic support for ARM64 (#574)
 [c6162945] 2020-04-02 16:56:06 +1000 dmex : Update README.md
 [0b2cd383] 2020-04-02 16:53:45 +1000 dmex : Fix threads tab text invalidation #583
 [708e214a] 2020-04-01 10:59:01 +1000 dmex : peview: Fix portable settings filename #589
