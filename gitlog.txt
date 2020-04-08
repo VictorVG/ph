@@ -1,3 +1,4 @@
+[cf410e4a] 2020-04-08 22:17:45 +1000 dmex : Fix byte size unit regression #593
 [8e8f29cf] 2020-04-08 18:17:44 +1000 dmex : NetworkTools: Update whois with DoH support
 [5f3050dc] 2020-04-08 18:09:24 +1000 dmex : OnlineChecks: Update CurrentByteOffset
 [aad9d70b] 2020-04-08 18:08:22 +1000 dmex : Export PhGetFilePosition
