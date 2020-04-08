@@ -1,3 +1,11 @@
+[8e8f29cf] 2020-04-08 18:17:44 +1000 dmex : NetworkTools: Update whois with DoH support
+[5f3050dc] 2020-04-08 18:09:24 +1000 dmex : OnlineChecks: Update CurrentByteOffset
+[aad9d70b] 2020-04-08 18:08:22 +1000 dmex : Export PhGetFilePosition
+[b3dd7986] 2020-04-08 18:06:20 +1000 dmex : HardwareDevices: Add delayed propsheet initialization
+[563e5041] 2020-04-08 18:04:54 +1000 dmex : Add PhGetFilePosition
+[977c2f10] 2020-04-08 18:04:17 +1000 dmex : Fix dns query seed
+[3f723799] 2020-04-08 18:03:16 +1000 dmex : Add PhSetEnabledEMenuItem
+[b03a1efd] 2020-04-08 17:58:57 +1000 dmex : BuildTools: Update JsonSerializer
 [c1a8c103] 2020-04-05 21:47:03 +1000 dmex : Update ntexapi.h
 [38aa1940] 2020-04-05 21:19:04 +1000 dmex : Update subprocesstag.h
 [1635d763] 2020-04-05 21:18:43 +1000 dmex : Add SetEnvironmentVariable
