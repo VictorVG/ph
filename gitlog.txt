@@ -1,3 +1,4 @@
+[42570305] 2020-04-08 23:26:50 +1000 dmex : Fix main menu dark theme for HiDPI displays #570 #594
 [cf410e4a] 2020-04-08 22:17:45 +1000 dmex : Fix byte size unit regression #593
 [8e8f29cf] 2020-04-08 18:17:44 +1000 dmex : NetworkTools: Update whois with DoH support
 [5f3050dc] 2020-04-08 18:09:24 +1000 dmex : OnlineChecks: Update CurrentByteOffset
