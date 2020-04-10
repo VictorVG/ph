@@ -1,3 +1,9 @@
+[080bc85d] 2020-04-10 12:57:05 +1000 dmex : ExtendedTools: Add inspect menu to disk tab
+[121ff964] 2020-04-10 12:55:36 +1000 dmex : DotNetTools: Add context length
+[b81da5d2] 2020-04-10 12:55:15 +1000 dmex : DotNetTools: Add context length
+[f762431a] 2020-04-10 12:25:25 +1000 dmex : NetworkTools: Remove duplicate tracert query for unspecified addresses
+[439087c2] 2020-04-10 12:23:35 +1000 dmex : ExtendedTools: Fix opening file locations for ADS paths
+[bf8ff7ef] 2020-04-10 12:19:44 +1000 dmex : Update comment
 [42570305] 2020-04-08 23:26:50 +1000 dmex : Fix main menu dark theme for HiDPI displays #570 #594
 [cf410e4a] 2020-04-08 22:17:45 +1000 dmex : Fix byte size unit regression #593
 [8e8f29cf] 2020-04-08 18:17:44 +1000 dmex : NetworkTools: Update whois with DoH support
