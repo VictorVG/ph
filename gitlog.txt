@@ -1,3 +1,8 @@
+[34c41cec] 2020-04-11 18:13:45 +1000 dmex : Update ntexapi.h
+[6967f6dd] 2020-04-11 16:27:47 +1000 dmex : Update copyright
+[21f516fc] 2020-04-11 15:16:32 +1000 dmex : peviewer: Add section/directory/resource hashes, Update directory tab
+[95e5c8ac] 2020-04-11 15:13:39 +1000 dmex : Add PhLargeIntegerToSystemTime exports
+[2ee1244c] 2020-04-11 15:12:42 +1000 dmex : Add RtlTimeToTimeFields
 [080bc85d] 2020-04-10 12:57:05 +1000 dmex : ExtendedTools: Add inspect menu to disk tab
 [121ff964] 2020-04-10 12:55:36 +1000 dmex : DotNetTools: Add context length
 [b81da5d2] 2020-04-10 12:55:15 +1000 dmex : DotNetTools: Add context length
