@@ -1,3 +1,7 @@
+[c69886a0] 2020-04-15 23:15:31 +1000 dmex : Add some native wrappers, Remove unused types
+[a810520b] 2020-04-15 23:11:45 +1000 dmex : Enable IntelJCCErratum, Enable version.rc
+[ce95a863] 2020-04-15 00:03:09 +1000 dmex : Update mapimg.h
+[9acece27] 2020-04-14 23:59:42 +1000 dmex : Add image rich header checksum validation, Improve build version text
 [8d32cfe6] 2020-04-14 02:41:52 +1000 dmex : peview: Ignore ProductBuild for image rich headers
 [4d9c5da4] 2020-04-14 02:36:23 +1000 dmex : Fix incorrect rich image header hash, Fix missing rich image header entries
 [fef971b0] 2020-04-14 01:46:36 +1000 dmex : peview: Add image rich header to ProdId tab
