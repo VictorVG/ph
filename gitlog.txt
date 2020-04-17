@@ -1,3 +1,7 @@
+[591cb83b] 2020-04-17 22:14:13 +1000 dmex : phnt: move definition
+[0b214e57] 2020-04-17 21:49:32 +1000 dmex : DotNetTools: Update RTL string usage
+[a24df005] 2020-04-17 19:02:47 +1000 dmex : DotNetTools: Remove incomplete .net core testing code from commit 69c91463
+[b55180a2] 2020-04-17 13:13:11 +1000 dmex : ToolStatus: Add dark theme support to customize dialog #598
 [d56953da] 2020-04-16 18:09:42 +1000 dmex : Allow changing priority of multiple threads
 [f1aab3a4] 2020-04-16 18:08:08 +1000 dmex : Add comments, Remove newline
 [85401543] 2020-04-16 18:07:19 +1000 dmex : Fix previous commit
