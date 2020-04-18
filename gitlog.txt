@@ -1,3 +1,7 @@
+[c1c60436] 2020-04-18 15:31:19 +1000 dmex : Add PhFindListViewItemByFlags
+[ad173114] 2020-04-18 15:23:38 +1000 dmex : Add PhSetFileExtendedAttributes
+[dcb173e4] 2020-04-18 15:19:37 +1000 dmex : Update guisup.c
+[33e0e14b] 2020-04-18 15:16:03 +1000 dmex : Update ntexapi.h
 [591cb83b] 2020-04-17 22:14:13 +1000 dmex : phnt: move definition
 [0b214e57] 2020-04-17 21:49:32 +1000 dmex : DotNetTools: Update RTL string usage
 [a24df005] 2020-04-17 19:02:47 +1000 dmex : DotNetTools: Remove incomplete .net core testing code from commit 69c91463
