@@ -1,3 +1,9 @@
+[543f7d71] 2020-04-19 22:04:46 +1000 dmex : Add SymGetDiaSession
+[e8da1d44] 2020-04-19 19:18:21 +1000 dmex : Fix type name
+[35618d38] 2020-04-19 19:17:24 +1000 dmex : peviewer: Add latest debug types
+[694d92d9] 2020-04-19 18:55:54 +1000 dmex : peviewer: Add debug tab
+[1d94e020] 2020-04-19 18:28:52 +1000 dmex : Add PhGetMappedImageDebug
+[f642db82] 2020-04-19 17:45:18 +1000 dmex : Update macro usage
 [c1c60436] 2020-04-18 15:31:19 +1000 dmex : Add PhFindListViewItemByFlags
 [ad173114] 2020-04-18 15:23:38 +1000 dmex : Add PhSetFileExtendedAttributes
 [dcb173e4] 2020-04-18 15:19:37 +1000 dmex : Update guisup.c
