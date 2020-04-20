@@ -1,3 +1,7 @@
+[41e85ba2] 2020-04-20 21:34:57 +1000 dmex : Update capslist.txt
+[f2661243] 2020-04-20 21:32:11 +1000 dmex : Add SymFreeDiaString
+[81f1dd7d] 2020-04-20 21:31:45 +1000 dmex : Update ntioapi.h
+[018ae6f7] 2020-04-20 09:35:20 +1000 dmex : Update wrapper usage
 [586eaacc] 2020-04-20 00:04:13 +1000 dmex : HardwareDevices: Fix network adatper disconnected state #599
 [543f7d71] 2020-04-19 22:04:46 +1000 dmex : Add SymGetDiaSession
 [e8da1d44] 2020-04-19 19:18:21 +1000 dmex : Fix type name
