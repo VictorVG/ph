@@ -1,3 +1,4 @@
+[5de6b5ff] 2020-04-21 11:18:53 +1000 dmex : Add PhGetSymbolProviderDiaSession
 [41e85ba2] 2020-04-20 21:34:57 +1000 dmex : Update capslist.txt
 [f2661243] 2020-04-20 21:32:11 +1000 dmex : Add SymFreeDiaString
 [81f1dd7d] 2020-04-20 21:31:45 +1000 dmex : Update ntioapi.h
