@@ -1,3 +1,5 @@
+[90f54b2a] 2020-04-21 22:05:49 +1000 dmex : Add lines missing from last commit
+[6ca65fd9] 2020-04-21 22:03:46 +1000 dmex : Fix SymbolProviderDiaSession handle usage, Add SymFreeDiaString
 [5de6b5ff] 2020-04-21 11:18:53 +1000 dmex : Add PhGetSymbolProviderDiaSession
 [41e85ba2] 2020-04-20 21:34:57 +1000 dmex : Update capslist.txt
 [f2661243] 2020-04-20 21:32:11 +1000 dmex : Add SymFreeDiaString
