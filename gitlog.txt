@@ -1,3 +1,7 @@
+[ad1be136] 2020-04-22 17:50:46 +1000 dmex : HardwareDevices: Add GetIfEntry2Ex
+[089fa066] 2020-04-22 17:44:29 +1000 dmex : Add PhGetMappedImageDebugEntryByType
+[f89d4915] 2020-04-22 17:42:25 +1000 dmex : Update ntexapi.h
+[20d339be] 2020-04-22 17:42:14 +1000 dmex : Update ntrtl.h
 [90f54b2a] 2020-04-21 22:05:49 +1000 dmex : Add lines missing from last commit
 [6ca65fd9] 2020-04-21 22:03:46 +1000 dmex : Fix SymbolProviderDiaSession handle usage, Add SymFreeDiaString
 [5de6b5ff] 2020-04-21 11:18:53 +1000 dmex : Add PhGetSymbolProviderDiaSession
