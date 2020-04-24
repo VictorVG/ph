@@ -1,3 +1,6 @@
+[a7bb6882] 2020-04-23 19:42:37 +1000 dmex : Fix handle check when changing multiple thread affinities
+[61e12369] 2020-04-23 18:26:21 +1000 dmex : Allow changing affinity for multiple threads #583
+[db04d224] 2020-04-23 18:23:32 +1000 dmex : Update ntexapi.h
 [ad1be136] 2020-04-22 17:50:46 +1000 dmex : HardwareDevices: Add GetIfEntry2Ex
 [089fa066] 2020-04-22 17:44:29 +1000 dmex : Add PhGetMappedImageDebugEntryByType
 [f89d4915] 2020-04-22 17:42:25 +1000 dmex : Update ntexapi.h
