@@ -1,3 +1,4 @@
+[98e776bd] 2020-04-25 12:12:26 +1000 dmex : NetworkTools: Set whois IPv6 as default, Add context menu to whois window
 [a7bb6882] 2020-04-23 19:42:37 +1000 dmex : Fix handle check when changing multiple thread affinities
 [61e12369] 2020-04-23 18:26:21 +1000 dmex : Allow changing affinity for multiple threads #583
 [db04d224] 2020-04-23 18:23:32 +1000 dmex : Update ntexapi.h
