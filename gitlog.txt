@@ -1,3 +1,5 @@
+[d1a53850] 2020-04-27 23:26:36 +1000 dmex : Fix users mainmenu delayload winsta
+[21c916b4] 2020-04-27 22:00:18 +1000 dmex : Add PhSetValueKey
 [8fe263d4] 2020-04-27 21:10:54 +1000 dmex : Update ntldr.h
 [b4822c57] 2020-04-27 21:01:52 +1000 dmex : Update ntldr.h
 [85776536] 2020-04-27 18:39:56 +1000 dmex : Remove unused environment string
