@@ -1,3 +1,5 @@
+[0301b86e] 2020-05-02 18:35:04 +1000 dmex : ExtendedTools: Update types for 20H1
+[52f2d757] 2020-05-02 18:34:31 +1000 dmex : Update d3dkmt.h
 [730f9de8] 2020-05-02 02:07:16 +1000 dmex : Fix runas dialog shellexecute arguments
 [94536b2f] 2020-05-02 01:50:02 +1000 dmex : Add PHNT_20H1
 [3b866cb0] 2020-05-02 01:44:28 +1000 dmex : Add KPH support for 20H1
