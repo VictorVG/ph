@@ -1,3 +1,9 @@
+[730f9de8] 2020-05-02 02:07:16 +1000 dmex : Fix runas dialog shellexecute arguments
+[94536b2f] 2020-05-02 01:50:02 +1000 dmex : Add PHNT_20H1
+[3b866cb0] 2020-05-02 01:44:28 +1000 dmex : Add KPH support for 20H1
+[61e03e8c] 2020-05-02 00:17:19 +1000 dmex : peview: Allow reordering extra columns, Update prodid columns
+[782c400e] 2020-05-02 00:15:20 +1000 dmex : Add comment
+[9fe9744e] 2020-05-01 23:29:42 +1000 dmex : Improve string formatting performance, Fix crash when compiled with latest CRT
 [9c46fe76] 2020-04-29 23:55:57 +1000 dmex : Update ntioapi.h
 [d1a53850] 2020-04-27 23:26:36 +1000 dmex : Fix users mainmenu delayload winsta
 [21c916b4] 2020-04-27 22:00:18 +1000 dmex : Add PhSetValueKey
