@@ -1,3 +1,6 @@
+[6a019c3c] 2020-05-03 01:47:29 +1000 dmex : Improve perfpage graph performance
+[9ad1d106] 2020-05-03 00:34:32 +1000 dmex : SetupTool: Add AppId, Remove legacy imports
+[dd50d04d] 2020-05-03 00:32:50 +1000 dmex : Export PhSetValueKey
 [0301b86e] 2020-05-02 18:35:04 +1000 dmex : ExtendedTools: Update types for 20H1
 [52f2d757] 2020-05-02 18:34:31 +1000 dmex : Update d3dkmt.h
 [730f9de8] 2020-05-02 02:07:16 +1000 dmex : Fix runas dialog shellexecute arguments
