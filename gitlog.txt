@@ -1,3 +1,4 @@
+[51141301] 2020-05-05 14:03:25 +1000 dmex : Improve string formatting performance (#607)
 [2b5bec88] 2020-05-04 02:54:12 +1000 dmex : SetupTool: Fix shortcut properties
 [e322e2e5] 2020-05-03 22:33:30 +1000 dmex : Add perfpage format comments
 [80d13418] 2020-05-03 20:25:51 +1000 dmex : Export PhCreateFile
