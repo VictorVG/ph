@@ -1,3 +1,25 @@
+[9fb99794] 2020-05-08 01:11:26 +1000 dmex : ExtendedTools: Fix gpu node ordinal
+[98e0d235] 2020-05-08 01:08:43 +1000 dmex : ExtendedTools: Remove d3dkmt.h
+[5d27d4cd] 2020-05-08 01:08:01 +1000 dmex : BuildTools: Add ntd3dkmt.h to sdk headers
+[9d8d6bb1] 2020-05-08 01:04:58 +1000 dmex : Add ntd3dkmt.h
+[cf6af447] 2020-05-08 00:59:24 +1000 Biswapriyo Nath : Add ARM64 platform for plugins (#610)
+[489a47b8] 2020-05-07 13:10:50 +1000 dmex : BuildTools: Silence fxcop warnings
+[c47181ce] 2020-05-07 12:55:04 +1000 dmex : Fix CPU brand whitespace #611
+[566d658e] 2020-05-06 22:17:35 +1000 dmex : ExtendedTools: Fix history buffer index, Fix Intel GPU devices
+[39a6ee84] 2020-05-06 21:22:10 +1000 dmex : Add missing copyright
+[8b5a2da1] 2020-05-06 18:25:32 +1000 dmex : Update util.c
+[1e588dbc] 2020-05-06 17:59:36 +1000 dmex : SetupTool: Add download page, Fix peview appid
+[2ab5d666] 2020-05-06 17:38:38 +1000 dmex : SetupTool: Fix regression from commit 2b5bec88
+[cc037edc] 2020-05-06 03:32:18 +1000 dmex : Add text to CPU graph for individual cores when one graph per CPU option selected
+[828cb846] 2020-05-06 03:18:24 +1000 dmex : ExtendedTools: Update disk/network tooltips, Update string formats, Fix warnings
+[fbca7b39] 2020-05-06 02:42:14 +1000 dmex : NetworkTools: Remove unsed SelectFont
+[84b32872] 2020-05-06 02:41:56 +1000 dmex : OnlineChecks: Update string format
+[aa4d1f5c] 2020-05-06 02:41:21 +1000 dmex : ToolStatus: Update string formats, Fix warning
+[a8ee210c] 2020-05-06 01:50:30 +1000 dmex : Add graph dark theme tooltips
+[e57752fa] 2020-05-06 01:16:50 +1000 dmex : Add cached GetDlgItem
+[38794177] 2020-05-06 01:15:15 +1000 dmex : Add theme support to process record dialog
+[36e2de4d] 2020-05-06 01:14:26 +1000 dmex : Fix record filename regression
+[04bf0142] 2020-05-05 19:46:10 +1000 dmex : HardwareDevices: Performance improvements
 [51141301] 2020-05-05 14:03:25 +1000 dmex : Improve string formatting performance (#607)
 [2b5bec88] 2020-05-04 02:54:12 +1000 dmex : SetupTool: Fix shortcut properties
 [e322e2e5] 2020-05-03 22:33:30 +1000 dmex : Add perfpage format comments
