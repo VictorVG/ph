@@ -1,3 +1,5 @@
+[f7c35fab] 2020-05-18 03:01:45 +1000 dmex : Add maxversiontested to app.manifest
+[c7c3519b] 2020-05-18 02:52:27 +1000 dmex : phnt: Add remaning 20H1 changes
 [9fb99794] 2020-05-08 01:11:26 +1000 dmex : ExtendedTools: Fix gpu node ordinal
 [98e0d235] 2020-05-08 01:08:43 +1000 dmex : ExtendedTools: Remove d3dkmt.h
 [5d27d4cd] 2020-05-08 01:08:01 +1000 dmex : BuildTools: Add ntd3dkmt.h to sdk headers
