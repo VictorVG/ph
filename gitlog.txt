@@ -1,3 +1,4 @@
+[43e37ca0] 2020-05-30 03:39:12 +1000 dmex : Add PhStringToGuid
 [8c0e2764] 2020-05-29 15:46:05 +1000 dmex : Remove unused AppContainer imports
 [23307ade] 2020-05-29 15:45:00 +1000 dmex : Remove duplicate ws_visible
 [e88d3184] 2020-05-29 15:40:08 +1000 dmex : Improve ShowIconNotification and LogEntry performance, Fix warnings
