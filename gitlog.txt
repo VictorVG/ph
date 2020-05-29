@@ -1,3 +1,8 @@
+[8c0e2764] 2020-05-29 15:46:05 +1000 dmex : Remove unused AppContainer imports
+[23307ade] 2020-05-29 15:45:00 +1000 dmex : Remove duplicate ws_visible
+[e88d3184] 2020-05-29 15:40:08 +1000 dmex : Improve ShowIconNotification and LogEntry performance, Fix warnings
+[942d6c8f] 2020-05-29 15:33:33 +1000 dmex : Update macro usage
+[5459ef72] 2020-05-29 15:32:47 +1000 dmex : Disable showing kph errors for debug builds #623
 [2c960ce5] 2020-05-29 03:36:24 +1000 dmex : Update capslist.txt
 [c73058b9] 2020-05-29 03:32:12 +1000 dmex : Update ntzwapi.h
 [bf64f60d] 2020-05-29 03:31:56 +1000 dmex : Update ntioapi.h
