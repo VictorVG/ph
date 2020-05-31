@@ -1,3 +1,5 @@
+[153294a5] 2020-05-31 18:38:51 +1000 dmex : peview: Add support for 0-byte Win10 executables with AppExecLink reparse tags
+[b0833799] 2020-05-31 18:35:10 +1000 dmex : Update exlfprp.c
 [5acdce57] 2020-05-31 07:40:19 +1000 dmex : ExtendedTools: Update error message to TaskDialog
 [203a02be] 2020-05-31 07:15:42 +1000 dmex : Fix runas import error checking
 [caf3cbd5] 2020-05-30 19:18:18 +1000 dmex : Fix runas error check
