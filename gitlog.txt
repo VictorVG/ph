@@ -1,3 +1,7 @@
+[0f7f9ba8] 2020-06-03 05:53:48 +1000 dmex : Disable duplicate path validation when launching peviewer
+[19af1da1] 2020-06-03 04:26:02 +1000 dmex : Update mitigation strings
+[cb66ddb8] 2020-06-03 04:24:42 +1000 dmex : Update json.c
+[809e4b35] 2020-06-03 03:49:21 +1000 dmex : WindowExplorer: Add window preview tab
 [1babfc92] 2020-06-02 21:15:49 +1000 dmex : Fix github api response type crash #626
 [16d1305a] 2020-06-02 21:11:22 +1000 dmex : Add PhGetJsonObjectType
 [d49e1c91] 2020-06-01 20:10:17 +1000 dmex : Add warning for closing handles when strict handle checking enabled
