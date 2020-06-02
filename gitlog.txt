@@ -1,3 +1,5 @@
+[1babfc92] 2020-06-02 21:15:49 +1000 dmex : Fix github api response type crash #626
+[16d1305a] 2020-06-02 21:11:22 +1000 dmex : Add PhGetJsonObjectType
 [d49e1c91] 2020-06-01 20:10:17 +1000 dmex : Add warning for closing handles when strict handle checking enabled
 [153294a5] 2020-05-31 18:38:51 +1000 dmex : peview: Add support for 0-byte Win10 executables with AppExecLink reparse tags
 [b0833799] 2020-05-31 18:35:10 +1000 dmex : Update exlfprp.c
