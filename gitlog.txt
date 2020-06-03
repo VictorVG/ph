@@ -1,3 +1,5 @@
+[2e5d972f] 2020-06-03 20:49:08 +1000 dmex : ToolStatus: Improve options spacing
+[b87fcd2f] 2020-06-03 20:45:37 +1000 dmex : UserNotes: Add legacy support for CollapseServicesOnStart #519
 [0f7f9ba8] 2020-06-03 05:53:48 +1000 dmex : Disable duplicate path validation when launching peviewer
 [19af1da1] 2020-06-03 04:26:02 +1000 dmex : Update mitigation strings
 [cb66ddb8] 2020-06-03 04:24:42 +1000 dmex : Update json.c
