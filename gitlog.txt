@@ -1,3 +1,6 @@
+[b29cf53b] 2020-06-15 18:31:42 +1000 dmex : Add win64 ifdef for NtHeaders32
+[a221c91b] 2020-06-15 18:29:24 +1000 dmex : Update ntexapi.h
+[68f77060] 2020-06-15 18:29:10 +1000 dmex : Update ntpsapi.h
 [2e5d972f] 2020-06-03 20:49:08 +1000 dmex : ToolStatus: Improve options spacing
 [b87fcd2f] 2020-06-03 20:45:37 +1000 dmex : UserNotes: Add legacy support for CollapseServicesOnStart #519
 [0f7f9ba8] 2020-06-03 05:53:48 +1000 dmex : Disable duplicate path validation when launching peviewer
