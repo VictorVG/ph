@@ -1,3 +1,6 @@
+[19b04607] 2020-06-18 12:30:55 +1000 dmex : Add missing header
+[dd546732] 2020-06-18 12:18:08 +1000 dmex : Remove unused headers
+[e1308dce] 2020-06-18 12:10:53 +1000 dmex : Enable segment heap support
 [d83e2d82] 2020-06-16 06:21:03 +1000 dmex : NetworkTools: Update maxminddb to v1.4.2
 [9dae9ab7] 2020-06-16 06:19:50 +1000 dmex : Update tracert.c
 [b29cf53b] 2020-06-15 18:31:42 +1000 dmex : Add win64 ifdef for NtHeaders32
