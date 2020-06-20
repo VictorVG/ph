@@ -1,3 +1,6 @@
+[5b247723] 2020-06-20 21:34:40 +1000 dmex : Remove unused return status
+[9983290e] 2020-06-20 21:33:31 +1000 dmex : ExtendedTools: Improve GPU segment enumeration
+[8f788208] 2020-06-20 21:32:16 +1000 dmex : Update ntrtl.h
 [7cfa1911] 2020-06-20 15:25:47 +1000 dmex : Add 20H1 version
 [909bc068] 2020-06-18 20:19:58 +1000 dmex : Fix ARM build regression
 [19b04607] 2020-06-18 12:30:55 +1000 dmex : Add missing header
