@@ -1,3 +1,5 @@
+[c46fddb8] 2020-06-25 13:15:45 +1000 dmex : Add error messages to heap dialog
+[317774c8] 2020-06-25 12:07:09 +1000 dmex : UserNotes: Fix CollapseServicesOnStart compatibility with previous versions
 [e5502f73] 2020-06-24 23:34:20 +1000 dmex : Fix building json-c for 32bit
 [d5282520] 2020-06-24 23:13:01 +1000 dmex : Update json_tokener.h
 [41b0766c] 2020-06-24 23:12:43 +1000 dmex : Update json-c to 0.14
