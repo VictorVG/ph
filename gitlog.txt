@@ -1,3 +1,5 @@
+[06964b9f] 2020-06-29 22:07:15 +1000 dmex : peview: Fix regression opening pdb files from commit 431e5615
+[4d3147b3] 2020-06-29 22:06:25 +1000 dmex : Revert "Update application icon (experimental)"
 [eb30ec96] 2020-06-29 04:25:38 +1000 dmex : Update application icon (experimental)
 [f22fed09] 2020-06-29 03:59:12 +1000 dmex : peview: Update pdb imports
 [742a79b3] 2020-06-29 03:53:36 +1000 dmex : Update phnative.h
