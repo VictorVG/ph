@@ -1,3 +1,10 @@
+[eb30ec96] 2020-06-29 04:25:38 +1000 dmex : Update application icon (experimental)
+[f22fed09] 2020-06-29 03:59:12 +1000 dmex : peview: Update pdb imports
+[742a79b3] 2020-06-29 03:53:36 +1000 dmex : Update phnative.h
+[97c782a9] 2020-06-29 03:53:06 +1000 dmex : peview: Add unsupported error message
+[431e5615] 2020-06-29 03:51:25 +1000 dmex : peview: Switch Symbols tab to undocumented IDiaSession import
+[bbc4f39d] 2020-06-29 03:27:18 +1000 dmex : ExtendedTools: Fix gpumini text regression
+[50cf9d3d] 2020-06-29 00:18:11 +1000 dmex : Add process name for unnamed jobs
 [90e5fee1] 2020-06-28 23:35:22 +1000 dmex : Fix process provider sometimes not updating when explorer process not responding
 [d6994351] 2020-06-28 23:24:11 +1000 dmex : Fix crash when viewing UWP immersive process heaps #634
 [c0857ffb] 2020-06-28 23:21:04 +1000 dmex : Add IPackageDebugSettings wrappers
