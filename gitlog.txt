@@ -1,3 +1,17 @@
+[4cd79446] 2020-07-02 17:44:39 +1000 dmex : Try improve RunAsAdmin foreground issue #639
+[2bda66b3] 2020-07-02 16:58:06 +1000 dmex : Add PhSetApplicationWindowIcon
+[5937127e] 2020-07-02 16:52:15 +1000 dmex : ExtendedTools: Update performance counters to latest version
+[41b84d50] 2020-07-02 12:05:00 +1000 dmex : Update environment length macro
+[1b7d9bc5] 2020-07-02 11:52:54 +1000 dmex : Remove unused pragma
+[30bc39cd] 2020-07-02 11:47:33 +1000 dmex : Add PhLoadModulesForProcessSymbolProvider
+[38764a5f] 2020-07-02 11:46:40 +1000 dmex : HardwareDevices: Add PhGetProcessDeviceMap
+[5200feb8] 2020-07-02 11:45:18 +1000 dmex : Enable GDI handle column reordering
+[4c42a0a4] 2020-07-02 11:44:13 +1000 dmex : Add PhGetProcessDeviceMap
+[6a552d2c] 2020-07-02 11:42:17 +1000 dmex : Add error messages for process environment tab
+[3695641d] 2020-07-02 11:40:38 +1000 dmex : UserNotes: Remove unused options focus
+[9d3e3ca2] 2020-07-02 11:39:28 +1000 dmex : Update ntpsapi.h
+[0d5abe24] 2020-07-02 11:39:12 +1000 dmex : Update ntexapi.h
+[b597f167] 2020-07-02 11:38:54 +1000 dmex : Update ntrtl.h
 [06964b9f] 2020-06-29 22:07:15 +1000 dmex : peview: Fix regression opening pdb files from commit 431e5615
 [4d3147b3] 2020-06-29 22:06:25 +1000 dmex : Revert "Update application icon (experimental)"
 [eb30ec96] 2020-06-29 04:25:38 +1000 dmex : Update application icon (experimental)
