@@ -1,3 +1,4 @@
+[1415b96b] 2020-07-06 23:38:31 +1000 dmex : Add workaround for querying immersive process heaps
 [9370d60c] 2020-07-03 00:04:46 +1000 dmex : Updater: Add build version header
 [4cd79446] 2020-07-02 17:44:39 +1000 dmex : Try improve RunAsAdmin foreground issue #639
 [2bda66b3] 2020-07-02 16:58:06 +1000 dmex : Add PhSetApplicationWindowIcon
