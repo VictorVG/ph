@@ -1,3 +1,7 @@
+[5501ff64] 2020-07-17 18:45:01 +1000 dmex : Add thread stack dialog highlighting
+[c0194956] 2020-07-17 18:43:01 +1000 dmex : Remove unused string
+[73f2183c] 2020-07-17 18:41:59 +1000 dmex : Update ntpsapi.h
+[407c58d0] 2020-07-17 18:41:38 +1000 dmex : Disable mxml debugging
 [247647e9] 2020-07-15 22:29:53 +1000 dmex : HardwareDevices: Set alias network name
 [97aabc10] 2020-07-15 21:31:14 +1000 dmex : Add command line start jobs
 [1415b96b] 2020-07-06 23:38:31 +1000 dmex : Add workaround for querying immersive process heaps
