@@ -1,3 +1,18 @@
+[57a7e277] 2020-07-21 09:18:45 +1000 dmex : Update tracert.c
+[806478c2] 2020-07-21 09:09:46 +1000 dmex : NetworkTools: Fix tracert crash #648
+[73913da5] 2020-07-21 02:17:33 +1000 dmex : Update phnet.h
+[39c81f97] 2020-07-21 02:12:28 +1000 dmex : Update mainwnd.c
+[dbed6d65] 2020-07-21 00:53:55 +1000 dmex : Update ProcessHacker.def
+[e45625f4] 2020-07-21 00:12:21 +1000 dmex : Remove dnsapi imports
+[0755885c] 2020-07-21 00:01:05 +1000 dmex : Remove dns-doh settings
+[e0d39cf7] 2020-07-20 23:57:55 +1000 dmex : Add PhDnsQuery export
+[b4017b9e] 2020-07-20 23:19:44 +1000 dmex : ExtendedTools: Update counter value caching
+[4e4c96ae] 2020-07-20 22:57:49 +1000 dmex : ExtendedTools: Update counter locks
+[feb0f5dc] 2020-07-20 22:30:41 +1000 dmex : Add ServiceName support
+[9128d6e1] 2020-07-20 21:59:32 +1000 dmex : BuildTools: Fix regression #645
+[2c3b8f6a] 2020-07-20 20:24:16 +1000 dmex : Update prpgmod.c
+[7113dd92] 2020-07-20 20:24:00 +1000 dmex : Update memprv.c
+[d1ad3735] 2020-07-20 16:34:42 +1000 dmex : Update capslist.txt
 [1f67519b] 2020-07-19 21:50:50 +1000 dmex : ExtendedTools: Add d3d node usage
 [486d420f] 2020-07-19 20:02:32 +1000 dmex : Remove unused import
 [af740c1e] 2020-07-19 19:54:25 +1000 dmex : BuildTools: Fix dependency string

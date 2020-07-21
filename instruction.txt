@@ -1,0 +1,23 @@
+Firewall Monitor Plugin
+
+Currently, the Zip archive of the assembly includes two revisions of
+FirewallMonitorPlugin.dll (English) - one FirewallMonitorPlugin.dl_ for
+Windows 10 v1607 - v1803 and FirewallMonitorPlugin.dll for Windows 10 v1809
+and newer. The need for two revisions of the plug-in is caused by the
+peculiarities of the OS, so if you have Windows 10 v1809 and newer, then
+FirewallMonitorPlugin.dl_ will not be loaded and it can be removed to save
+disk space, if you have Windows 10 v1607 - v1803, then rename
+FirewallMonitorPlugin.dl_ in FirewallMonitorPlugin.dll overwriting the
+existing file and restart Process Hacker after which the plugin should work in
+Windows 10 v1607 and newer.
+
+If you use the installer processhacker-3.0-setup.exe version 3.0.7735.3208,
+then it will install the necessary revision of the plugin itself, and if your
+OS version is lower than Windows 10 v1607, then the plugin will not be
+displayed in the list of components.
+
+NOTES!
+
+If FirewallMonitorPlugin.dll for Windows 10 v1607 - v1803 becomes incompatible
+with the current version of Process Hacker, it will be removed without
+warning!
