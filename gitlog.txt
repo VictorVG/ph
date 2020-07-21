@@ -1,3 +1,4 @@
+[2aa1fcba] 2020-07-21 20:08:52 +1000 dmex : Updater: Add gdi32 DelayLoadDLLs
 [57a7e277] 2020-07-21 09:18:45 +1000 dmex : Update tracert.c
 [806478c2] 2020-07-21 09:09:46 +1000 dmex : NetworkTools: Fix tracert crash #648
 [73913da5] 2020-07-21 02:17:33 +1000 dmex : Update phnet.h
