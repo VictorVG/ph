@@ -1,3 +1,6 @@
+[c1aacd60] 2020-07-23 01:56:33 +1000 dmex : Update settings.c
+[2121ec46] 2020-07-23 01:53:56 +1000 dmex : Add CPU (relative) columns for process/thread linux style cpu usage
+[e4eec846] 2020-07-23 01:28:41 +1000 dmex : Add EnableRelativeCpuUsage setting
 [2aa1fcba] 2020-07-21 20:08:52 +1000 dmex : Updater: Add gdi32 DelayLoadDLLs
 [57a7e277] 2020-07-21 09:18:45 +1000 dmex : Update tracert.c
 [806478c2] 2020-07-21 09:09:46 +1000 dmex : NetworkTools: Fix tracert crash #648
