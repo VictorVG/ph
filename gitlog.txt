@@ -1,3 +1,8 @@
+[a7141bb6] 2020-07-27 20:33:50 +1000 dmex : Add IMAGE_DEBUG_DIRECTORY_CODEVIEW
+[40cef391] 2020-07-27 20:32:35 +1000 dmex : Fix struct name typo
+[380f21bb] 2020-07-27 20:25:56 +1000 dmex : peview: Update general tab page layout, Add inital options window
+[d7365eae] 2020-07-27 19:51:12 +1000 dmex : HardwareDevices: Ignore windows store xbox virtual disk device (vxdd)
+[55a40503] 2020-07-27 19:46:53 +1000 dmex : peview: Add dark theme support
 [2167cc8c] 2020-07-23 08:50:06 +1000 dmex : Fix idle process showing thread information, Fix relative cpu usage not updating correctly
 [e165cddf] 2020-07-23 08:47:35 +1000 dmex : Update toolbar.c
 [c1aacd60] 2020-07-23 01:56:33 +1000 dmex : Update settings.c
