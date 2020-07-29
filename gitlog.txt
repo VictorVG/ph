@@ -1,3 +1,9 @@
+[54430335] 2020-07-29 19:23:37 +1000 dmex : Update wndprp.c
+[20f686b6] 2020-07-29 18:05:52 +1000 dmex : peview: Fix default theme
+[34e6481b] 2020-07-29 16:38:27 +1000 dmex : Re-add EnableNetworkResolveDoH #651
+[85806ca9] 2020-07-29 12:35:39 +1000 dmex : BuildTools: Fix build artifact filename
+[258d5b0c] 2020-07-29 12:19:46 +1000 dmex : Add PhGetPluginFileName
+[0c9848c1] 2020-07-29 11:09:45 +1000 dmex : Fix plugin import bug
 [a7141bb6] 2020-07-27 20:33:50 +1000 dmex : Add IMAGE_DEBUG_DIRECTORY_CODEVIEW
 [40cef391] 2020-07-27 20:32:35 +1000 dmex : Fix struct name typo
 [380f21bb] 2020-07-27 20:25:56 +1000 dmex : peview: Update general tab page layout, Add inital options window
