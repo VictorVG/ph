@@ -1,3 +1,8 @@
+[6671ed49] 2020-07-31 00:52:52 +1000 dmex : Update peview.h
+[7dea227e] 2020-07-31 00:33:20 +1000 dmex : peview: Add security tab
+[b69270df] 2020-07-31 00:29:32 +1000 dmex : Add spacing to process general groupbox
+[c1468f5f] 2020-07-30 23:08:51 +1000 dmex : peview: merge image characteristics columns
+[1ad2ed41] 2020-07-30 23:06:50 +1000 dmex : Disable unused json-c exports
 [f1c3a209] 2020-07-30 08:00:34 +1000 dmex : peview: Fix deterministic image time stamps, Add file time stamps to general tab
 [54430335] 2020-07-29 19:23:37 +1000 dmex : Update wndprp.c
 [20f686b6] 2020-07-29 18:05:52 +1000 dmex : peview: Fix default theme
