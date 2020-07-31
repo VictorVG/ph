@@ -12,12 +12,43 @@ if you have Windows 8.1 - 10 v1809, then rename FirewallMonitorPlugin.dl_ in
 FirewallMonitorPlugin.dll overwriting the existing file and restart Process
 Hacker after which the plugin should work in Windows 10 v1607 and newer.
 
-If you use the installer processhacker-3.0-setup.exe version 3.0.7735.3208 or
-newer, then it will install the necessary revision of the plug-in itself, and
-if your OS version is lower than Windows 8.1, then the plug-in will not be
+If you use the installer processhacker-3.0-setup.exe version 3.0.7735.3208,
+then it will install the necessary revision of the plug-in itself, and if your
+OS version is lower than Windows 8.1, then the plug-in will not be
 displayed in the list of components.
 
 NOTES!
 
 If FirewallMonitorPlugin.dll for Windows 8.1 - 10 v1809 becomes incompatible
 with the current version of Process Hacker, it will be removed without warning!
+
+For Windows 10 v2004 or newer please, temporary disable or delete plugin's:
+
+  AtomTablePlugin
+  AvgCpuPlugin
+  DbgViewPlugin
+  DnsCachePlugin
+  DpiAwarenessExtPlugin
+  FirewallMonitorPlugin
+  FirmwarePlugin
+  LiveDumpPlugin
+  MemoryExtPlugin
+  NvGpuPlugin
+  ObjectManagerPlugin
+  PerfMonPlugin
+  PoolMonPlugin
+  ProductPolicyPlugin
+  ROTViewerPlugin
+  SecurityExplorer
+  ServiceBackupRestorePlugin
+  SetCriticalPlugin
+  TaskbarExtPlugin
+  TerminatorPlugin
+  TrustedInstallerPlugin
+  WaitChainPlugin
+
+Today this plug-ins is not compatible this Windows 10.0 v2004 or newer.
+Please, wait for new version this plug-ins.
+
+For disable plug-in go to Hacker -> Plugins... menu, choice needed plug-in,
+press right mouse button and choice Disable menu item.
