@@ -1,3 +1,7 @@
+[e1169a4e] 2020-08-03 12:02:01 +1000 dmex : Disable policy2 mitigation flags due to crashes reported here: https://github.com/processhacker/plugins-extra/issues/72
+[e1582503] 2020-08-02 14:34:06 +1000 dmex : peview: Add nested signatures to security tab
+[001c07cb] 2020-08-02 14:33:29 +1000 dmex : Revert "peview: Add nested signatures to security tab"
+[c00405ac] 2020-08-02 14:32:56 +1000 dmex : peview: Add nested signatures to security tab
 [aa5f9ef5] 2020-07-31 14:18:50 +1000 dmex : peview: Add section RVA end address
 [ed745a72] 2020-07-31 13:23:09 +1000 dmex : Add Debuggers And Tools Wow64 dbghelp support #652
 [6671ed49] 2020-07-31 00:52:52 +1000 dmex : Update peview.h
