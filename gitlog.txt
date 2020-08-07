@@ -1,3 +1,4 @@
+[4092dfa6] 2020-08-07 16:12:45 +1000 dmex : peview: Add DEBUG_TYPE_VC_FEATURE, Fix 32bit header values
 [e1169a4e] 2020-08-03 12:02:01 +1000 dmex : Disable policy2 mitigation flags due to crashes reported here: https://github.com/processhacker/plugins-extra/issues/72
 [e1582503] 2020-08-02 14:34:06 +1000 dmex : peview: Add nested signatures to security tab
 [001c07cb] 2020-08-02 14:33:29 +1000 dmex : Revert "peview: Add nested signatures to security tab"
