@@ -1,3 +1,14 @@
+[3439fc0e] 2020-08-18 08:52:42 +1000 dmex : Remove unused DelayLoadDLL
+[d37d9409] 2020-08-18 08:46:26 +1000 dmex : Remove unused file reference
+[b8294b76] 2020-08-18 08:32:08 +1000 dmex : Fix CPU time does not show days #644
+[7c8e6616] 2020-08-18 08:28:31 +1000 dmex : Remove duplicate inherit source query for non-file objects
+[4b0eabf7] 2020-08-18 08:26:41 +1000 dmex : peview: Fix saving resources with existing filename
+[2aff45b2] 2020-08-18 08:26:04 +1000 dmex : Fix SAL annotation
+[cf84b206] 2020-08-18 08:25:19 +1000 dmex : Remove version.dll dependency
+[087abd9c] 2020-08-15 08:18:55 +1000 dmex : peview: Add hex values for flags
+[f52e9a6f] 2020-08-14 09:56:43 +1000 dmex : peview: Add menu to save image resources, Fix load flags text
+[e69dfee7] 2020-08-14 09:52:55 +1000 dmex : Update phbasesup.h
+[7943767f] 2020-08-14 09:52:46 +1000 dmex : Update ntrtl.h
 [5a0efc92] 2020-08-08 18:33:44 +1000 dmex : peview: Fix crash viewing reproducible CoreCLR images, Add more header values
 [37a6e607] 2020-08-08 18:31:38 +1000 dmex : Fix SAL annotation
 [4092dfa6] 2020-08-07 16:12:45 +1000 dmex : peview: Add DEBUG_TYPE_VC_FEATURE, Fix 32bit header values
