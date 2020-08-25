@@ -1,3 +1,4 @@
+[6e6f743a] 2020-08-25 19:03:10 +1000 TheEragon : Add support for Shadow Stack (CET) and EH metadata (#666)
 [3439fc0e] 2020-08-18 08:52:42 +1000 dmex : Remove unused DelayLoadDLL
 [d37d9409] 2020-08-18 08:46:26 +1000 dmex : Remove unused file reference
 [b8294b76] 2020-08-18 08:32:08 +1000 dmex : Fix CPU time does not show days #644
