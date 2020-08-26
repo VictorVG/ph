@@ -1,3 +1,5 @@
+[921a186f] 2020-08-26 18:33:42 +1000 TheEragon : Fixed crash when sorting CET column (#668)
+[7f16aff3] 2020-08-26 18:27:53 +1000 TheEragon : Remove unnecessary defines (#667)
 [6e6f743a] 2020-08-25 19:03:10 +1000 TheEragon : Add support for Shadow Stack (CET) and EH metadata (#666)
 [3439fc0e] 2020-08-18 08:52:42 +1000 dmex : Remove unused DelayLoadDLL
 [d37d9409] 2020-08-18 08:46:26 +1000 dmex : Remove unused file reference
