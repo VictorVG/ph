@@ -1,3 +1,5 @@
+[03c3f897] 2020-08-27 15:11:51 +1000 TheEragon : Replace constants with defines (#670)
+[6280516a] 2020-08-27 12:42:08 +1000 TheEragon : Support for XFG (#669)
 [921a186f] 2020-08-26 18:33:42 +1000 TheEragon : Fixed crash when sorting CET column (#668)
 [7f16aff3] 2020-08-26 18:27:53 +1000 TheEragon : Remove unnecessary defines (#667)
 [6e6f743a] 2020-08-25 19:03:10 +1000 TheEragon : Add support for Shadow Stack (CET) and EH metadata (#666)
