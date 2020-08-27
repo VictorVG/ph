@@ -9,8 +9,6 @@ program starts (plugin search path is fixed, any subdirectories are ignored)):
 ./capslist.txt
 ./CHANGELOG.txt
 ./COPYRIGHT.txt
-./dbgcore.dll - latest version and same bitness as ProcessHacker.exe
-./x86/dbgcore.dll - same as x64 version, but x86 for x64 edition only
 ./kprocesshacker.sys
 ./LICENSE.txt
 ./peview.exe
@@ -36,10 +34,7 @@ program starts (plugin search path is fixed, any subdirectories are ignored)):
 ./plugins/ExtendedTools.dll
 ./plugins/FirewallMonitorPlugin.dll - only for Windows 10 (not all version!)
 ./plugins/FirmwarePlugin.dll
-./plugins/ForceShutdownPlugin.dll - deleted in to v3.0.7307.2780 Git-10592432
 ./plugins/HardwareDevices.dll
-./plugins/HexPidPlugin.dll - deleted in to v3.0.6628.2101 Git-208154f5
-./plugins/LiveDumpPlugin.dll - only for Windows 10
 ./plugins/MemoryExtPlugin.dll - only for Windows 10
 ./plugins/NetworkTools.dll
 ./plugins/NvGpuPlugin.dll
@@ -49,7 +44,6 @@ program starts (plugin search path is fixed, any subdirectories are ignored)):
 ./plugins/PoolMonPlugin.dll
 ./plugins/ProductPolicyPlugin.dll
 ./plugins/ROTViewerPlugin.dll
-./plugins/SbieSupport.dll - disabled in to Process Hacker source v3.0.6509.1982 Git-f0b96b18
 ./plugins/SecurityExplorer.dll
 ./plugins/ServiceBackupRestorePlugin.dll
 ./plugins/SetCriticalPlugin.dll
@@ -69,6 +63,8 @@ Deleted plug-ins:
  ExtraPlugins.dll    - deleted in to v3.0.5585.1058 then not longer needed
  ForceShutdownPlugin.dll - deleted in to v3.0.7307.2780 Git-10592432
  HexPidPlugin.dll - deleted in to v3.0.6628.2101 then not longer needed
+ LiveDumpPlugin.dll - deleted in to v3.0.7816.3289 Git-4e59db73
+ NetAdapters.dll - blacklisted, legacy, deleted in to v2.38 (?)
  NetExtrasPlugin.dll - then NetworkTools.dll v1.8 already included custom
                        Tracert, Ping, WhoIs and Country column support and
                        this plug-in is don't needed.

@@ -1,3 +1,24 @@
+[4e59db73] 2020-08-27 23:57:39 +1000 dmex : Fix warning C4703
+[b31d0b70] 2020-08-27 23:52:35 +1000 dmex : Fix warning C4703
+[c046bce8] 2020-08-27 23:42:18 +1000 dmex : Fix warning C4703
+[f47dc8e6] 2020-08-27 19:56:13 +1000 dmex : Revert "Add missing CallingConvention for ARM"
+[1e4ab48d] 2020-08-27 19:24:40 +1000 dmex : Fix typo
+[0908485b] 2020-08-27 19:15:09 +1000 dmex : Fix GuardEHCont check
+[7215b851] 2020-08-27 19:09:39 +1000 dmex : DotNetTools: Fix 32bit build
+[a4809d3d] 2020-08-27 18:33:39 +1000 dmex : Fix warning C6287
+[95e36e66] 2020-08-27 18:27:53 +1000 dmex : Remove unused flag
+[45dca63b] 2020-08-27 18:25:52 +1000 dmex : Fix SAL warning
+[e4ad6000] 2020-08-27 18:16:49 +1000 dmex : Remove fixed TID workaround
+[35235f45] 2020-08-27 18:11:15 +1000 dmex : Revert "WindowExplorer: Remove legacy DelayLoadDLL"
+[524e4020] 2020-08-27 18:10:21 +1000 dmex : WindowExplorer: Remove legacy DelayLoadDLL
+[a8cc7b78] 2020-08-27 18:08:20 +1000 dmex : DotNetTools: Change AppDomain threads column to always visible
+[594d058a] 2020-08-27 18:06:55 +1000 dmex : ExtendedServices: Remove unused handle
+[898efa0d] 2020-08-27 18:02:03 +1000 dmex : Add missing CallingConvention for ARM
+[b2036c1d] 2020-08-27 17:52:25 +1000 dmex : Update thread stack window layout
+[81877d72] 2020-08-27 17:51:50 +1000 dmex : Add debug information, Add save option to certificates tab, Fix crash viewing certificates located in multiple stores
+[e39f7541] 2020-08-27 17:50:18 +1000 dmex : Add legacy NetAdapters plugin to blocklist
+[f725812d] 2020-08-27 17:49:29 +1000 dmex : Remove unused export
+[90c5e5de] 2020-08-27 17:48:30 +1000 dmex : Tidy up tabspace
 [03c3f897] 2020-08-27 15:11:51 +1000 TheEragon : Replace constants with defines (#670)
 [6280516a] 2020-08-27 12:42:08 +1000 TheEragon : Support for XFG (#669)
 [921a186f] 2020-08-26 18:33:42 +1000 TheEragon : Fixed crash when sorting CET column (#668)
