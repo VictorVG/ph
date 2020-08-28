@@ -1,3 +1,6 @@
+[c933473b] 2020-08-28 19:36:50 +1000 TheEragon : Add support for new flags in PROCESS_MITIGATION_USER_SHADOW_STACK_POLICY (#671)
+[aa7a0447] 2020-08-28 19:19:06 +1000 dmex : Enable CFG, CET, IntelJCC, SDL, Spectre and LTGC for release builds
+[63d1db9e] 2020-08-28 19:14:57 +1000 dmex : phnt: update comments
 [f014e1d9] 2020-08-28 15:57:53 +1000 dmex : Updater: Remove legacy VerQueryValue
 [db5fc95c] 2020-08-28 15:56:27 +1000 dmex : Export PhGetFileVersionInfoValue
 [8448ed28] 2020-08-28 00:39:36 +1000 dmex : Disable KPH by default #454
