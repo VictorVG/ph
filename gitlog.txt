@@ -1,3 +1,7 @@
+[14bdde1b] 2020-09-08 07:18:40 +1000 dmex : Add PhLoadLibraryAsImageResource
+[51b8a7a0] 2020-09-08 06:54:08 +1000 dmex : peview: Add nested certificates group
+[799319da] 2020-09-08 04:41:30 +1000 dmex : Update secprp.c
+[45a07d5d] 2020-09-08 04:39:28 +1000 dmex : Update peprp.c
 [2277b6a6] 2020-09-08 02:31:13 +1000 dmex : Update virustotal.c
 [d6b9caa1] 2020-09-08 02:20:31 +1000 dmex : Enable brepro, Update delayload imports
 [6fe0fce8] 2020-09-08 02:19:22 +1000 dmex : Update options.c
