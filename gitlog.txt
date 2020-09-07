@@ -1,3 +1,14 @@
+[2277b6a6] 2020-09-08 02:31:13 +1000 dmex : Update virustotal.c
+[d6b9caa1] 2020-09-08 02:20:31 +1000 dmex : Enable brepro, Update delayload imports
+[6fe0fce8] 2020-09-08 02:19:22 +1000 dmex : Update options.c
+[bf3134e1] 2020-09-08 02:17:57 +1000 dmex : NetworkTools: Add PhFormatBytes
+[153a58c3] 2020-09-08 02:17:28 +1000 dmex : Update commonutil.h
+[ec216f0b] 2020-09-08 02:16:35 +1000 dmex : Remove duplicate SCM handle
+[d2732ba7] 2020-09-07 20:31:52 +1000 dmex : SetupTools: Enable brepro, Remove legacy import
+[6d05b5a4] 2020-09-07 20:29:09 +1000 dmex : Add RunAsEnableAutoComplete setting
+[9569b6b2] 2020-09-07 20:22:55 +1000 dmex : Update exports, Update SAL
+[f605f95c] 2020-09-07 20:19:56 +1000 dmex : BuildTools: Fix SDK versions (21H1 uses 20H1 name with newer version)
+[93c0cf19] 2020-09-07 18:59:25 +1000 dmex : peview: Enable brepro, Add POGO debug tab
 [c933473b] 2020-08-28 19:36:50 +1000 TheEragon : Add support for new flags in PROCESS_MITIGATION_USER_SHADOW_STACK_POLICY (#671)
 [aa7a0447] 2020-08-28 19:19:06 +1000 dmex : Enable CFG, CET, IntelJCC, SDL, Spectre and LTGC for release builds
 [63d1db9e] 2020-08-28 19:14:57 +1000 dmex : phnt: update comments
