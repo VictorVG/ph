@@ -1,3 +1,4 @@
+[49c21ccc] 2020-09-08 09:15:10 +1000 dmex : Add extended FileVersion strings
 [14bdde1b] 2020-09-08 07:18:40 +1000 dmex : Add PhLoadLibraryAsImageResource
 [51b8a7a0] 2020-09-08 06:54:08 +1000 dmex : peview: Add nested certificates group
 [799319da] 2020-09-08 04:41:30 +1000 dmex : Update secprp.c
