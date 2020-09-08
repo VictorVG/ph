@@ -4,14 +4,13 @@
 [![Github stats](https://img.shields.io/github/downloads/processhacker/processhacker/total.svg?style=for-the-badge&color=red)](https://github.com/processhacker/processhacker/releases)
 [![SourceForge stats](https://img.shields.io/sourceforge/dt/processhacker.svg?style=for-the-badge&color=red)](https://sourceforge.net/projects/processhacker/)
 
-![Logo](https://raw.githubusercontent.com/processhacker/processhacker/master/ProcessHacker/resources/ProcessHacker.png)
+<img align="left" src="https://raw.githubusercontent.com/processhacker/processhacker/master/ProcessHacker/resources/ProcessHacker.png" width="128" height="128">
 
 ## Process Hacker
 
 A free, powerful, multi-purpose tool that helps you monitor system resources, debug software and detect malware.
 
-* [Official Website](https://processhacker.sourceforge.io/)
-* [Nightly Builds](https://processhacker.sourceforge.io/nightly.php)
+[Project Website](https://processhacker.sourceforge.io/) - [Project Downloads](https://processhacker.sourceforge.io/downloads.php)
 
 ## System requirements
 
@@ -33,19 +32,16 @@ Windows 7 or higher, 32-bit or 64-bit.
 ## Building the project
 
 
-Requires Visual Studio (2017 or later).
+Requires Visual Studio (2019 or later).
 
 Execute `build_release.cmd` located in the `build` directory to compile the project or load the `ProcessHacker.sln` and `Plugins.sln` solutions if you prefer building the project using Visual Studio.
 
-You can download the free [Visual Studio Community Edition](https://www.visualstudio.com/vs/community/)
-to build, run or develop Process Hacker.
+You can download the free [Visual Studio Community Edition](https://www.visualstudio.com/vs/community/) to build the Process Hacker source code.
 
 ## Additional information
 
 
-You cannot run the 32-bit version of Process Hacker on a
-64-bit system and expect it to work correctly, unlike other programs.
-
+You cannot run the 32-bit version of Process Hacker on a 64-bit system and expect it to work correctly, unlike other programs.
 
 
 ## Enhancements/Bugs
@@ -91,7 +87,7 @@ assist with certain functionality. This includes:
 * Setting handle attributes
 
 Note that by default, KProcessHacker only allows connections from
-processes with administrative privileges (SeDebugPrivilege). To allow Process Hacker 
+processes with administrative privileges (SeDebugPrivilege). To allow Process Hacker
 to show details for all processes when it is not running as administrator:
 
 1. In Registry Editor, navigate to:
