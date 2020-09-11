@@ -1,3 +1,6 @@
+[3ee42947] 2020-09-12 00:12:01 +1000 dmex : Add package service support #681
+[15fcbf37] 2020-09-11 23:46:59 +1000 dmex : ExtendedServices: Fix assert when allocating 0 sized service list
+[0d637f6b] 2020-09-11 23:43:37 +1000 dmex : peview: Fix warnings, Add ProdID versions for Win7
 [4bca3e2e] 2020-09-10 15:17:31 +1000 dmex : Fix refreshing process environment strings
 [dbada3c1] 2020-09-10 14:46:41 +1000 dmex : UserNotes: Fix collapsed processes remaining invisible
 [75f7e4c2] 2020-09-10 13:07:07 +1000 dmex : Fix localhost hostname
