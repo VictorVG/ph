@@ -1,3 +1,4 @@
+[3f737f27] 2020-09-12 09:49:22 +1000 dmex : Update richprp.c
 [7e4b90b2] 2020-09-12 04:48:11 +1000 dmex : Fix typo
 [7bbdd60b] 2020-09-12 04:46:36 +1000 dmex : Remove duplicate ProcessIdString print
 [3ee42947] 2020-09-12 00:12:01 +1000 dmex : Add package service support #681
