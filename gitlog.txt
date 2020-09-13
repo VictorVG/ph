@@ -1,3 +1,10 @@
+[2e7652cc] 2020-09-13 11:56:48 +1000 dmex : Fix typo
+[346e7e2b] 2020-09-13 11:16:59 +1000 dmex : Add EnableVersionSupport setting for extended versions #680
+[e3aa326c] 2020-09-13 11:00:17 +1000 dmex : Improve file version error checking
+[b56a9bbf] 2020-09-13 10:47:29 +1000 dmex : Add improved version checks
+[0a5f7878] 2020-09-13 10:44:00 +1000 dmex : Update svcsup.c
+[2e5423fd] 2020-09-13 10:43:48 +1000 dmex : Add check for TaskDialogIndirect
+[9f30e8e9] 2020-09-13 10:42:51 +1000 dmex : Add improved version parser
 [3f737f27] 2020-09-12 09:49:22 +1000 dmex : Update richprp.c
 [7e4b90b2] 2020-09-12 04:48:11 +1000 dmex : Fix typo
 [7bbdd60b] 2020-09-12 04:46:36 +1000 dmex : Remove duplicate ProcessIdString print
