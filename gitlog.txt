@@ -1,3 +1,4 @@
+[87ff042a] 2020-09-13 13:49:43 +1000 dmex : Add PhGetMappedImagePogoEntryByName
 [2e7652cc] 2020-09-13 11:56:48 +1000 dmex : Fix typo
 [346e7e2b] 2020-09-13 11:16:59 +1000 dmex : Add EnableVersionSupport setting for extended versions #680
 [e3aa326c] 2020-09-13 11:00:17 +1000 dmex : Improve file version error checking
