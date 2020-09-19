@@ -1,3 +1,12 @@
+[91e5842f] 2020-09-20 06:03:20 +1000 dmex : BuildTools: Fix missing filename
+[67f06788] 2020-09-20 05:50:44 +1000 dmex : peview: Add missing options filename
+[ac10ffb8] 2020-09-20 05:47:37 +1000 dmex : BuildTools: Enable embedded pdb, Add config class
+[e89251b1] 2020-09-20 04:33:05 +1000 dmex : Fix build
+[15fc5de1] 2020-09-20 04:30:40 +1000 dmex : ExtendedTools: Fix SAL warnings
+[94f77217] 2020-09-20 04:29:07 +1000 dmex : Fix tls callback regression
+[329f554a] 2020-09-20 04:24:41 +1000 dmex : peview: Add CRT Initializers tab, Add initial options to settings window
+[b9a16756] 2020-09-20 04:22:25 +1000 dmex : Improve mapped image enumeration
+[60d94d59] 2020-09-20 04:11:40 +1000 dmex : Fix naming and consistency
 [a0bb6d8e] 2020-09-17 11:56:03 +1000 dmex : Remove functions added to WinSDK
 [0b5932c6] 2020-09-14 20:36:42 +1000 dmex : Update apiimport.c
 [937c54d8] 2020-09-14 20:34:24 +1000 dmex : Fix offset type
