@@ -1,3 +1,10 @@
+[1bbb7bf2] 2020-09-21 12:39:04 +1000 dmex : BuildTools: update status format
+[41c9c5b8] 2020-09-21 12:14:44 +1000 dmex : BuildTools: disable node reuse
+[2c829baa] 2020-09-21 11:57:39 +1000 dmex : Fix newline
+[981de04d] 2020-09-21 11:46:49 +1000 dmex : Update buildtools postbuild command
+[49332233] 2020-09-21 10:56:48 +1000 dmex : Remove unused console encoding, Fix returning status
+[b6efab01] 2020-09-21 10:25:53 +1000 dmex : BuildTools: update status text
+[57d2e707] 2020-09-21 10:14:17 +1000 dmex : Allow changing the default process tree name column with the ProcessTreeListNameDefault setting
 [ecb71236] 2020-09-21 06:36:38 +1000 dmex : Fix tabspace
 [039e072c] 2020-09-21 06:33:17 +1000 dmex : BuildTools: Add extra status text
 [c881b914] 2020-09-21 05:52:57 +1000 dmex : Updater: Fix version #689
