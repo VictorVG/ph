@@ -1,3 +1,4 @@
+[4df9480c] 2020-09-21 20:22:07 +1000 Martin Arndt : Align & improve updater wordings  (#692)
 [1bbb7bf2] 2020-09-21 12:39:04 +1000 dmex : BuildTools: update status format
 [41c9c5b8] 2020-09-21 12:14:44 +1000 dmex : BuildTools: disable node reuse
 [2c829baa] 2020-09-21 11:57:39 +1000 dmex : Fix newline
