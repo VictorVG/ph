@@ -1,3 +1,5 @@
+[13ab19d2] 2020-09-25 08:32:06 +1000 dmex : peview: Add mscoree.h
+[2fdc4d42] 2020-09-25 08:31:03 +1000 dmex : Update appveyor.yml
 [6f71e7e0] 2020-09-25 07:27:33 +1000 dmex : Fix build
 [28d4002d] 2020-09-25 06:37:45 +1000 dmex : BuildTools: Add improved process error handling
 [c5ba2f20] 2020-09-25 05:40:57 +1000 dmex : Add workaround for vs19 preview preprocessor issue with windows sdk
