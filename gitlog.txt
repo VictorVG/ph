@@ -1,3 +1,5 @@
+[3589846f] 2020-09-24 18:11:55 +1000 dmex : Add coreclr to .NET modules
+[ce330aeb] 2020-09-24 17:43:12 +1000 dmex : Add support for 20H2
 [2f726412] 2020-09-24 04:37:22 +1000 dmex : Add metahost.h
 [636a86b0] 2020-09-23 10:54:31 +1000 dmex : Fix error message
 [a6260f47] 2020-09-23 10:28:57 +1000 dmex : Fis status message
