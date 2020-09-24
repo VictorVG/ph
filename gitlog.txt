@@ -1,3 +1,10 @@
+[6f71e7e0] 2020-09-25 07:27:33 +1000 dmex : Fix build
+[28d4002d] 2020-09-25 06:37:45 +1000 dmex : BuildTools: Add improved process error handling
+[c5ba2f20] 2020-09-25 05:40:57 +1000 dmex : Add workaround for vs19 preview preprocessor issue with windows sdk
+[9916b204] 2020-09-25 05:18:03 +1000 dmex : Update appveyor.yml
+[af9f4b2e] 2020-09-25 05:12:56 +1000 dmex : Enable appveyor preview images
+[1b3b9189] 2020-09-25 04:52:16 +1000 dmex : Fix leak querying WSL versioninfo
+[abf549a1] 2020-09-24 21:35:45 +1000 dmex : Fix #483
 [3589846f] 2020-09-24 18:11:55 +1000 dmex : Add coreclr to .NET modules
 [ce330aeb] 2020-09-24 17:43:12 +1000 dmex : Add support for 20H2
 [2f726412] 2020-09-24 04:37:22 +1000 dmex : Add metahost.h
