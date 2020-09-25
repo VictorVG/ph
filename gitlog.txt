@@ -1,3 +1,6 @@
+[d222e216] 2020-09-26 02:51:38 +1000 dmex : Fix updater cache #687
+[88effa69] 2020-09-26 02:33:43 +1000 dmex : Update mapimg.c
+[6c49c862] 2020-09-26 02:32:51 +1000 dmex : Add refresh to advanved options
 [978baf1a] 2020-09-26 00:35:17 +1000 dmex : Add searchbox to advanced options, Update advanced options page layout
 [0c33a6a0] 2020-09-26 00:33:54 +1000 dmex : Update Plugins.props
 [4a1a4466] 2020-09-26 00:32:45 +1000 dmex : Improve find window memory usage
