@@ -1,3 +1,5 @@
+[d1166462] 2020-09-25 09:13:14 +1000 dmex : BuildTools: Fix output string
+[6f769f01] 2020-09-25 09:12:21 +1000 dmex : Fix stdc17 macro usage
 [13ab19d2] 2020-09-25 08:32:06 +1000 dmex : peview: Add mscoree.h
 [2fdc4d42] 2020-09-25 08:31:03 +1000 dmex : Update appveyor.yml
 [6f71e7e0] 2020-09-25 07:27:33 +1000 dmex : Fix build
