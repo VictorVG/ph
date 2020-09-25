@@ -1,3 +1,6 @@
+[978baf1a] 2020-09-26 00:35:17 +1000 dmex : Add searchbox to advanced options, Update advanced options page layout
+[0c33a6a0] 2020-09-26 00:33:54 +1000 dmex : Update Plugins.props
+[4a1a4466] 2020-09-26 00:32:45 +1000 dmex : Improve find window memory usage
 [d1166462] 2020-09-25 09:13:14 +1000 dmex : BuildTools: Fix output string
 [6f769f01] 2020-09-25 09:12:21 +1000 dmex : Fix stdc17 macro usage
 [13ab19d2] 2020-09-25 08:32:06 +1000 dmex : peview: Add mscoree.h
