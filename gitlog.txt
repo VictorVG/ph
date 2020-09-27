@@ -1,3 +1,11 @@
+[79747cef] 2020-09-27 09:50:08 +1000 dmex : Fix updater cache #687
+[62fe20f1] 2020-09-27 09:35:12 +1000 dmex : Revert "Fix updater cache #687"
+[23cf800e] 2020-09-27 09:08:59 +1000 dmex : Add UnhandledExceptionCrashDump
+[887d621e] 2020-09-27 08:56:46 +1000 dmex : Add comments, Fix tabspace, Remove legacy code
+[790b5a65] 2020-09-27 08:51:15 +1000 dmex : Revert "Update procrec.c"
+[974a85f2] 2020-09-27 08:48:31 +1000 dmex : Update procrec.c
+[ebe789a0] 2020-09-27 08:48:26 +1000 dmex : Update options.c
+[821df21f] 2020-09-27 08:43:50 +1000 dmex : Add copy menu to advanced options, Refresh advanced options after editing values
 [d222e216] 2020-09-26 02:51:38 +1000 dmex : Fix updater cache #687
 [88effa69] 2020-09-26 02:33:43 +1000 dmex : Update mapimg.c
 [6c49c862] 2020-09-26 02:32:51 +1000 dmex : Add refresh to advanved options
