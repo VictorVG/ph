@@ -1,3 +1,9 @@
+[ace871d8] 2020-09-29 01:44:02 +1000 dmex : Move console support to dedicated CustomCmdTool project
+[4fee64ee] 2020-09-29 00:12:54 +1000 dmex : KPH: Update to stdc17, Add zero pool support
+[17ca663c] 2020-09-28 04:31:12 +1000 dmex : Add KphServiceName setting for using custom driver service names
+[f3599085] 2020-09-27 21:57:33 +1000 dmex : Update prpggen.c
+[7a938fdd] 2020-09-27 21:55:23 +1000 dmex : Add improved performance for plugin window extensions
+[edf229a3] 2020-09-27 20:44:25 +1000 dmex : Disable MicrosoftSignedOnly mitigation on Win10 20H1
 [79747cef] 2020-09-27 09:50:08 +1000 dmex : Fix updater cache #687
 [62fe20f1] 2020-09-27 09:35:12 +1000 dmex : Revert "Fix updater cache #687"
 [23cf800e] 2020-09-27 09:08:59 +1000 dmex : Add UnhandledExceptionCrashDump
