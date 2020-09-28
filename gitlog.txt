@@ -1,3 +1,4 @@
+[b291bde2] 2020-09-29 06:38:11 +1000 dmex : ExtendedTools: Improve text caching, Remove string allocations
 [ace871d8] 2020-09-29 01:44:02 +1000 dmex : Move console support to dedicated CustomCmdTool project
 [4fee64ee] 2020-09-29 00:12:54 +1000 dmex : KPH: Update to stdc17, Add zero pool support
 [17ca663c] 2020-09-28 04:31:12 +1000 dmex : Add KphServiceName setting for using custom driver service names
