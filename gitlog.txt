@@ -1,3 +1,12 @@
+[decadc6e] 2020-10-03 02:16:45 +1000 dmex : CmdTool: Add help for commandline options, Add copyright
+[9b057cb5] 2020-10-03 02:15:37 +1000 dmex : Remove legacy commandline
+[dbb77ab4] 2020-10-03 02:15:05 +1000 dmex : Fix crash changing treeview columns
+[90bf7e0f] 2020-10-03 02:13:19 +1000 dmex : ToolStatus: Add settings for showing graphs on the taskbar
+[359fc076] 2020-10-02 21:31:53 +1000 dmex : Fix searchbox dark background #693
+[ac3aa072] 2020-10-02 19:53:34 +1000 dmex : Fix searching inactive columns
+[c526672d] 2020-10-02 19:18:08 +1000 dmex : Update column chooser window layout
+[62465b73] 2020-10-02 18:51:00 +1000 dmex : Add searchbox to tree column chooser window
+[1c33ab8f] 2020-10-02 17:26:18 +1000 dmex : ToolStatus: Add customize dialog window icon
 [7527d4d3] 2020-09-30 00:55:58 +1000 dmex : ToolStatus: Fix search regression #696 from commit 7a938fdd
 [b291bde2] 2020-09-29 06:38:11 +1000 dmex : ExtendedTools: Improve text caching, Remove string allocations
 [ace871d8] 2020-09-29 01:44:02 +1000 dmex : Move console support to dedicated CustomCmdTool project
