@@ -1,3 +1,11 @@
+[cda3f2a0] 2020-10-03 19:17:47 +1000 dmex : Add mxml fix for attribute names
+[1f0e035b] 2020-10-03 18:51:18 +1000 dmex : Fix crash changing columns after using the filter
+[c2f5db05] 2020-10-03 18:50:34 +1000 dmex : Improve options dialog startup check for autorun
+[f4ae9c75] 2020-10-03 18:48:26 +1000 dmex : Fix unicode split characters
+[695308a9] 2020-10-03 18:47:54 +1000 dmex : Add correct types
+[17be77e1] 2020-10-03 18:45:52 +1000 dmex : Add infoclass to PhEnumerateValueKey
+[14a57e64] 2020-10-03 17:59:52 +1000 dmex : Fix changing menu color
+[7edcf882] 2020-10-03 17:51:22 +1000 dmex : Fix PhFormatDouble from commit 9fe9744e
 [decadc6e] 2020-10-03 02:16:45 +1000 dmex : CmdTool: Add help for commandline options, Add copyright
 [9b057cb5] 2020-10-03 02:15:37 +1000 dmex : Remove legacy commandline
 [dbb77ab4] 2020-10-03 02:15:05 +1000 dmex : Fix crash changing treeview columns
