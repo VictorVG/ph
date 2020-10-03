@@ -1,3 +1,7 @@
+[c2917277] 2020-10-04 04:27:54 +1100 dmex : Fix column dialog fonts
+[81ee035a] 2020-10-03 22:54:54 +1000 dmex : Fix newly added columns from showing on the column dialog
+[b3cac64b] 2020-10-03 21:33:51 +1000 dmex : peview: Improve certificate enumeration for nested certificates
+[f7efd45b] 2020-10-03 20:37:55 +1000 dmex : Add sorting for entries removed from column dialog
 [cda3f2a0] 2020-10-03 19:17:47 +1000 dmex : Add mxml fix for attribute names
 [1f0e035b] 2020-10-03 18:51:18 +1000 dmex : Fix crash changing columns after using the filter
 [c2f5db05] 2020-10-03 18:50:34 +1000 dmex : Improve options dialog startup check for autorun
