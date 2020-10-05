@@ -1,54 +1,11 @@
-Firewall Monitor Plugin
+Current revision Firewall Monitor Plugin is compatible only with Windows 10
+v1809 or newer!
 
-Currently, the Zip archive of the assembly includes two different revisions of
-Firewall Monitor Plugin (English): FirewallMonitorPlugin.dl_ for Windows 8.1 -
-10 v1809 and FirewallMonitorPlugin.dll for Windows 10 v1903 and newer.
+About dbghelp.dll
 
-The needed different revisions of the plug-in is caused by the peculiarities
-of the OS, but if you have Windows 10 v1809 and newer FirewallMonitorPlugin.dl_
-will not be loaded and it can be removed to save disk space,
+Just download this DLL some version whats and your OS and copy to
 
-if you have Windows 8.1 - 10 v1809, then rename FirewallMonitorPlugin.dl_ in
-FirewallMonitorPlugin.dll overwriting the existing file and restart Process
-Hacker after which the plugin should work in Windows 10 v1607 and newer.
+   x64 DLL - C:\WINDOWS\system32\
+   x86 DLL - C:\WINDOWS\SysWOW64\
 
-If you use the installer processhacker-3.0-setup.exe version 3.0.7735.3208,
-then it will install the necessary revision of the plug-in itself, and if your
-OS version is lower than Windows 8.1, then the plug-in will not be
-displayed in the list of components.
-
-NOTES!
-
-If FirewallMonitorPlugin.dll for Windows 8.1 - 10 v1809 becomes incompatible
-with the current version of Process Hacker, it will be removed without warning!
-
-For Windows 10 v2004 or newer please, temporary disable or delete plugin's:
-
-  AtomTablePlugin
-  AvgCpuPlugin
-  DbgViewPlugin
-  DnsCachePlugin
-  DpiAwarenessExtPlugin
-  FirewallMonitorPlugin
-  FirmwarePlugin
-  LiveDumpPlugin
-  MemoryExtPlugin
-  NvGpuPlugin
-  ObjectManagerPlugin
-  PerfMonPlugin
-  PoolMonPlugin
-  ProductPolicyPlugin
-  ROTViewerPlugin
-  SecurityExplorer
-  ServiceBackupRestorePlugin
-  SetCriticalPlugin
-  TaskbarExtPlugin
-  TerminatorPlugin
-  TrustedInstallerPlugin
-  WaitChainPlugin
-
-Today this plug-ins is not compatible this Windows 10.0 v2004 or newer.
-Please, wait for new version this plug-ins.
-
-For disable plug-in go to Hacker -> Plugins... menu, choice needed plug-in,
-press right mouse button and choice Disable menu item.
+if Process Hacker can't create process dump.
