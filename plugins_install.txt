@@ -67,7 +67,8 @@ Deleted plug-ins:
  NetAdapters.dll - blacklisted, legacy, deleted in to v2.38 (?)
  NetExtrasPlugin.dll - then NetworkTools.dll v1.8 already included custom
                        Tracert, Ping, WhoIs and Country column support and
-                       this plug-in is don't needed.
+                       this plug-in is don't needed, disabled in
+                       v3.0.7984.3457 Git-829aaca3
  SbieSupport.dll - disabled in v3.0.6509.1982 Git-f0b96b18 (see Issues
                    #233 - SBIE2035: Out of memory), disabled in to source
 
