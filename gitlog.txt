@@ -1,3 +1,12 @@
+[dfae92f6] 2020-10-11 00:01:08 +1100 dmex : BuildTools: Add updated mxml
+[c62ff9e0] 2020-10-10 23:50:03 +1100 dmex : Use new include paths
+[fc338f18] 2020-10-10 23:46:31 +1100 dmex : Fix thirdparty version mismatch C1900
+[8321694a] 2020-10-10 23:08:14 +1100 dmex : Add updated thirdparty libs
+[b0036d89] 2020-10-10 22:43:26 +1100 dmex : Fix hashtable macro warning
+[b826eabf] 2020-10-10 21:37:44 +1100 dmex : Add support for thirdparty libs
+[992fe97a] 2020-10-10 21:32:46 +1100 dmex : Update .gitignore
+[f97e2808] 2020-10-10 21:30:51 +1100 dmex : Move thirdparty code to seperate project
+[b477c2bb] 2020-10-10 20:06:55 +1100 dmex : Add mxml v3.2
 [8e6133d9] 2020-10-09 16:03:30 +1100 dmex : peview: Add tree to certificate tab
 [ffbecbc5] 2020-10-09 12:03:12 +1100 dmex : Add PhSystemTimeToLargeInteger
 [c0ccbc40] 2020-10-08 15:15:46 +1100 dmex : Update ntexapi.h
