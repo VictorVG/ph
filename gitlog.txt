@@ -1,3 +1,5 @@
+[7bb36fe3] 2020-10-11 01:26:14 +1100 dmex : peview: Add size label to security tab
+[a44f9ef2] 2020-10-11 00:46:31 +1100 dmex : Move plugin manager to options window
 [dfae92f6] 2020-10-11 00:01:08 +1100 dmex : BuildTools: Add updated mxml
 [c62ff9e0] 2020-10-10 23:50:03 +1100 dmex : Use new include paths
 [fc338f18] 2020-10-10 23:46:31 +1100 dmex : Fix thirdparty version mismatch C1900
