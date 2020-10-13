@@ -1,3 +1,4 @@
+[96f20096] 2020-10-13 22:55:51 +1100 dmex : Updater: Add double click to changlog window #705
 [7bb36fe3] 2020-10-11 01:26:14 +1100 dmex : peview: Add size label to security tab
 [a44f9ef2] 2020-10-11 00:46:31 +1100 dmex : Move plugin manager to options window
 [dfae92f6] 2020-10-11 00:01:08 +1100 dmex : BuildTools: Add updated mxml
