@@ -1,3 +1,5 @@
+[e856774d] 2020-10-21 01:02:04 +1100 dmex : Update description for ExtensionPointDisablePolicy
+[5231f905] 2020-10-20 14:06:15 +1100 dmex : Fix download length regression from BuildTools #707
 [96f20096] 2020-10-13 22:55:51 +1100 dmex : Updater: Add double click to changlog window #705
 [7bb36fe3] 2020-10-11 01:26:14 +1100 dmex : peview: Add size label to security tab
 [a44f9ef2] 2020-10-11 00:46:31 +1100 dmex : Move plugin manager to options window
