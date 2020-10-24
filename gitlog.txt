@@ -1,3 +1,8 @@
+[0275f8d9] 2020-10-24 14:01:16 +1100 dmex : Update SAL macros
+[cc77e1c6] 2020-10-24 13:58:05 +1100 dmex : Fix thread analyze wait access not showing information for some processes
+[588c8ca5] 2020-10-24 13:54:52 +1100 dmex : Fix runas inheriting the current errormode
+[f0e4e688] 2020-10-24 13:53:14 +1100 dmex : Add ADDR_UNSPEC macro
+[a47717a3] 2020-10-24 13:52:35 +1100 dmex : Add PhItemList
 [e856774d] 2020-10-21 01:02:04 +1100 dmex : Update description for ExtensionPointDisablePolicy
 [5231f905] 2020-10-20 14:06:15 +1100 dmex : Fix download length regression from BuildTools #707
 [96f20096] 2020-10-13 22:55:51 +1100 dmex : Updater: Add double click to changlog window #705
