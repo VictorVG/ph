@@ -1,7 +1,9 @@
-Current revision Firewall Monitor Plugin is compatible only with Windows 10
+About firewall monitoring:
+
+ExtendedTools firewall monitoring function is compatible only with Windows 10
 v1809 or newer!
 
-About dbghelp.dll
+About dbghelp.dll:
 
 Just download this DLL some version whats and your OS and copy to
 

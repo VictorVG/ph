@@ -1,3 +1,18 @@
+[5879d916] 2020-10-27 05:15:20 +1100 dmex : ExtendedTools: Fix memory leak, Add address cache
+[e4c01a18] 2020-10-27 04:20:08 +1100 dmex : Update fwmon.c
+[34e4cb6d] 2020-10-27 04:11:12 +1100 dmex : Update exttools.h
+[33b861fb] 2020-10-27 04:03:26 +1100 dmex : ExtendedTools: Add error status to firewall tab
+[77d3372e] 2020-10-27 02:44:42 +1100 dmex : ExtendedTools: Fix firewall tab memory leak
+[0d1fb1b0] 2020-10-27 02:42:17 +1100 dmex : Add EnableSafeDefaultPlugins setting
+[7f3a735a] 2020-10-26 19:04:58 +1100 dmex : ExtendedTools: Fix firewall tab crash after cache cleanup
+[3adec1ea] 2020-10-26 18:05:52 +1100 dmex : ExtendedTools: Improve firewall event caching, Fix missing remote address for some entries, Add firewall tab rightclick menu
+[fb26173e] 2020-10-26 15:11:54 +1100 dmex : ExtendedTools: Improve description and firewall sorting
+[ef984e9b] 2020-10-26 15:05:33 +1100 dmex : ExtendedTools: Add 'Enable firewall' option for enabling the firewall monitoring tab
+[91f91463] 2020-10-26 14:51:45 +1100 dmex : Update ProcessHacker.def
+[9fcd2c6f] 2020-10-26 14:51:38 +1100 dmex : Add PhDnsQuery2
+[5a42a552] 2020-10-26 12:57:31 +1100 dmex : Add VariantInit
+[fb185531] 2020-10-26 12:57:17 +1100 dmex : Add heaps to memory tab
+[92e8fd40] 2020-10-26 12:56:45 +1100 dmex : Update exprodid.h
 [3b061c10] 2020-10-26 12:17:54 +1100 dmex : Improve search filter memory usage
 [118252d3] 2020-10-26 10:46:15 +1100 dmex : Add correct type for previous commit
 [42771db5] 2020-10-26 10:44:53 +1100 dmex : Fix single instance when sysinfo window visible #688
