@@ -1,3 +1,4 @@
+[3b061c10] 2020-10-26 12:17:54 +1100 dmex : Improve search filter memory usage
 [118252d3] 2020-10-26 10:46:15 +1100 dmex : Add correct type for previous commit
 [42771db5] 2020-10-26 10:44:53 +1100 dmex : Fix single instance when sysinfo window visible #688
 [0275f8d9] 2020-10-24 14:01:16 +1100 dmex : Update SAL macros
