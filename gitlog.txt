@@ -1,3 +1,5 @@
+[118252d3] 2020-10-26 10:46:15 +1100 dmex : Add correct type for previous commit
+[42771db5] 2020-10-26 10:44:53 +1100 dmex : Fix single instance when sysinfo window visible #688
 [0275f8d9] 2020-10-24 14:01:16 +1100 dmex : Update SAL macros
 [cc77e1c6] 2020-10-24 13:58:05 +1100 dmex : Fix thread analyze wait access not showing information for some processes
 [588c8ca5] 2020-10-24 13:54:52 +1100 dmex : Fix runas inheriting the current errormode
