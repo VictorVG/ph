@@ -1,3 +1,4 @@
+[af5fc96d] 2020-10-27 22:42:16 +1100 dmex : ExtendedTools: Ignore loopback firewall events, Fix hostname status for inaddr_any
 [1ea2adce] 2020-10-27 21:47:11 +1100 dmex : ExtendedTools: Add hostname resolve status
 [bee7e46b] 2020-10-27 21:40:23 +1100 dmex : ExtendedTools: Fix ipv6 scope address, Fix event time
 [1ad3db67] 2020-10-27 20:52:56 +1100 dmex : ExtendedTools: Add username to firewall column, Add username cache
