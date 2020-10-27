@@ -1,3 +1,5 @@
+[c4d042a6] 2020-10-28 00:22:09 +1100 dmex : Fix firewall tab dark theme
+[8be9b734] 2020-10-27 23:55:24 +1100 dmex : Add hostname resolve status for network connections
 [af5fc96d] 2020-10-27 22:42:16 +1100 dmex : ExtendedTools: Ignore loopback firewall events, Fix hostname status for inaddr_any
 [1ea2adce] 2020-10-27 21:47:11 +1100 dmex : ExtendedTools: Add hostname resolve status
 [bee7e46b] 2020-10-27 21:40:23 +1100 dmex : ExtendedTools: Fix ipv6 scope address, Fix event time
