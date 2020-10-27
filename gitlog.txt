@@ -1,3 +1,17 @@
+[1ea2adce] 2020-10-27 21:47:11 +1100 dmex : ExtendedTools: Add hostname resolve status
+[bee7e46b] 2020-10-27 21:40:23 +1100 dmex : ExtendedTools: Fix ipv6 scope address, Fix event time
+[1ad3db67] 2020-10-27 20:52:56 +1100 dmex : ExtendedTools: Add username to firewall column, Add username cache
+[58d2e73e] 2020-10-27 20:19:01 +1100 dmex : Fix advanced options dropdown menu
+[55a3d7d2] 2020-10-27 20:09:21 +1100 dmex : Add seperate error for default plugins
+[f1529a58] 2020-10-27 19:54:07 +1100 dmex : Enable ShowPluginLoadErrors by default
+[4e67be55] 2020-10-27 19:37:22 +1100 dmex : HardwareDevices: Disable device options icons for issue on Windows 7, Fix graph header text resize
+[4e67eade] 2020-10-27 19:20:30 +1100 dmex : Export PhDoesFileExists
+[5fea174a] 2020-10-27 19:13:38 +1100 dmex : ExtendedTools: check native paths
+[29b5acc6] 2020-10-27 19:01:49 +1100 dmex : ExtendedTools: Fix filename case, Add filter query caching
+[501501f7] 2020-10-27 18:02:31 +1100 dmex : ExtendedTools: Add windows 7 support, Remove unused strings
+[4bc92af1] 2020-10-27 17:25:00 +1100 dmex : ExtendedTools: Disable processing events when inactive
+[dd633010] 2020-10-27 17:12:32 +1100 dmex : ExtendedTools: Add country column to firewall tab, Improve entry caching
+[4c94818b] 2020-10-27 17:01:42 +1100 dmex : NetworkTools: Add plugin interface
 [d57bba42] 2020-10-27 12:23:53 +1100 dmex : ExtendedTools: Enable remote hostname lookup
 [5879d916] 2020-10-27 05:15:20 +1100 dmex : ExtendedTools: Fix memory leak, Add address cache
 [e4c01a18] 2020-10-27 04:20:08 +1100 dmex : Update fwmon.c
