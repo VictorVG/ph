@@ -1,3 +1,4 @@
+[d57bba42] 2020-10-27 12:23:53 +1100 dmex : ExtendedTools: Enable remote hostname lookup
 [5879d916] 2020-10-27 05:15:20 +1100 dmex : ExtendedTools: Fix memory leak, Add address cache
 [e4c01a18] 2020-10-27 04:20:08 +1100 dmex : Update fwmon.c
 [34e4cb6d] 2020-10-27 04:11:12 +1100 dmex : Update exttools.h

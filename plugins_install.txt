@@ -61,7 +61,7 @@ Deleted plug-ins:
  CommonUtil.dll - deleted in to v3.0.5411.884
  ExtraPlugins.dll - deleted in to v3.0.5585.1058 then not longer needed
  FirewallMonitorPlugin.dll - is not required and should be removed after
-                             v3.0.8020.203493 Git-ef984e9b, and since the
+                             v3.0.8020.3493 Git-ef984e9b, and since the
                              firewall event monitoring code has been added
                              to the ExtendedTools plugin.
  ForceShutdownPlugin.dll - deleted in to v3.0.7307.2780 Git-10592432
