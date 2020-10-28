@@ -1,3 +1,8 @@
+[c2d93253] 2020-10-28 16:20:07 +1100 dmex : Remove unused writable mapped images
+[19f2ad2c] 2020-10-28 16:16:48 +1100 dmex : Merge branch 'master' of https://github.com/processhacker/processhacker
+[7dca8b88] 2020-10-28 16:16:31 +1100 dmex : ExtendedTools: Fix startup crash #715
+[48ab16dc] 2020-10-28 16:14:57 +1100 Marek Knápek : Fix GPU Adapter Details window title. (#720)
+[93b68458] 2020-10-28 16:00:07 +1100 dmex : Fix window title #716
 [8da01eff] 2020-10-28 03:43:09 +1100 dmex : ExtendedTools: Fix firewall events not showing on Windows7
 [c4d042a6] 2020-10-28 00:22:09 +1100 dmex : Fix firewall tab dark theme
 [8be9b734] 2020-10-27 23:55:24 +1100 dmex : Add hostname resolve status for network connections

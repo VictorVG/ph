@@ -1,7 +1,6 @@
 About firewall monitoring:
 
-ExtendedTools firewall monitoring function is compatible only with Windows 10
-v1809 or newer!
+ExtendedTools firewall monitoring function support only Windows 8 or newer!
 
 About dbghelp.dll:
 
