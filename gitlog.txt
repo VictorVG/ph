@@ -1,3 +1,4 @@
+[029c0777] 2020-10-28 18:56:24 +1100 dmex : ExtendedTools: Fix firewall cache startup crash #715
 [c2d93253] 2020-10-28 16:20:07 +1100 dmex : Remove unused writable mapped images
 [19f2ad2c] 2020-10-28 16:16:48 +1100 dmex : Merge branch 'master' of https://github.com/processhacker/processhacker
 [7dca8b88] 2020-10-28 16:16:31 +1100 dmex : ExtendedTools: Fix startup crash #715
