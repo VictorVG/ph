@@ -1,3 +1,7 @@
+[d611d189] 2020-10-28 23:04:09 +1100 dmex : ExtendedTools: Improve status text
+[7f8059ea] 2020-10-28 22:35:36 +1100 dmex : ExtendedTools: Fix crash sorting country column, Fix naming
+[9eac64d0] 2020-10-28 21:57:02 +1100 dmex : ExtendedTools: Add workaround for legacy Win7 support
+[d168ccea] 2020-10-28 20:05:34 +1100 dmex : ExtendedTools: Remove unused code, Add extra version checking
 [029c0777] 2020-10-28 18:56:24 +1100 dmex : ExtendedTools: Fix firewall cache startup crash #715
 [c2d93253] 2020-10-28 16:20:07 +1100 dmex : Remove unused writable mapped images
 [19f2ad2c] 2020-10-28 16:16:48 +1100 dmex : Merge branch 'master' of https://github.com/processhacker/processhacker

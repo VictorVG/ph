@@ -1,7 +1,3 @@
-About firewall monitoring:
-
-ExtendedTools firewall monitoring function support only Windows 8 or newer!
-
 About dbghelp.dll:
 
 Just download this DLL some version whats and your OS and copy to
