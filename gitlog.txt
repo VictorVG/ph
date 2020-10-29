@@ -1,3 +1,4 @@
+[87e15bb7] 2020-10-30 06:52:51 +1100 dmex : Move options graphs to same layout as highlighting
 [1ae50630] 2020-10-30 06:19:30 +1100 dmex : Fix resolving hostnames when disabled #723
 [12983723] 2020-10-30 03:50:54 +1100 dmex : ExtendedTools: Update hostname strings
 [ad632c88] 2020-10-30 03:49:20 +1100 dmex : Include addional DNS types for local query
