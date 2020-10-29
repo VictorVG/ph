@@ -1,3 +1,12 @@
+[12983723] 2020-10-30 03:50:54 +1100 dmex : ExtendedTools: Update hostname strings
+[ad632c88] 2020-10-30 03:49:20 +1100 dmex : Include addional DNS types for local query
+[6165b868] 2020-10-30 02:57:50 +1100 dmex : Add named pipe ClientSessionId/ServerSessionId
+[c9658029] 2020-10-30 01:04:24 +1100 dmex : Add named pipe ClientProcessId/ServerProcessId/ClientComputerName support
+[5d83725c] 2020-10-30 00:58:53 +1100 dmex : Tidy up names
+[e2f5e825] 2020-10-29 23:58:30 +1100 dmex : ExtendedTools: Fix firewall tab resolving hostnames with DoH
+[771856b8] 2020-10-29 23:47:34 +1100 dmex : Fix dprintf conformance
+[68c0e3ee] 2020-10-29 23:40:39 +1100 dmex : Fix suspending WmiPrvSE.exe causing Process Hacker to hang #713
+[00da115d] 2020-10-29 20:27:01 +1100 dmex : ExtendedTools: Add support for exporting firewall tab
 [ae469411] 2020-10-29 18:20:18 +1100 dmex : Improve .NET 5.0 process detection
 [4a6a9f46] 2020-10-29 17:25:26 +1100 dmex : Delete .gitmodules
 [6987d2b2] 2020-10-29 05:23:27 +1100 dmex : Updater: Improve build highlighting
