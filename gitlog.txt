@@ -1,3 +1,4 @@
+[1ae50630] 2020-10-30 06:19:30 +1100 dmex : Fix resolving hostnames when disabled #723
 [12983723] 2020-10-30 03:50:54 +1100 dmex : ExtendedTools: Update hostname strings
 [ad632c88] 2020-10-30 03:49:20 +1100 dmex : Include addional DNS types for local query
 [6165b868] 2020-10-30 02:57:50 +1100 dmex : Add named pipe ClientSessionId/ServerSessionId
