@@ -1,3 +1,14 @@
+[6987d2b2] 2020-10-29 05:23:27 +1100 dmex : Updater: Improve build highlighting
+[66cda2d6] 2020-10-29 05:08:54 +1100 dmex : Updater: Add correct reference
+[c665a56c] 2020-10-29 05:01:19 +1100 dmex : Updater: Ignore current build when highlighting latest build
+[c6b82a58] 2020-10-29 04:33:57 +1100 dmex : Update fwtab.c
+[81f6446b] 2020-10-29 04:31:42 +1100 dmex : Fix build
+[eda0bf7d] 2020-10-29 04:17:18 +1100 dmex : Update fwtab.c
+[d94d3110] 2020-10-29 04:08:47 +1100 dmex : Updater: Show nightly builds as blue on changelog window
+[306ce011] 2020-10-29 04:08:08 +1100 dmex : Update fwtab.c
+[8c1b2089] 2020-10-29 03:43:27 +1100 dmex : ExtendedTools: Add win32 filename
+[09085b40] 2020-10-29 03:33:20 +1100 dmex : ExtendedTools: Enable firewall tab by default, Fix resetting sort
+[3241803a] 2020-10-29 03:31:20 +1100 dmex : Export PhInitializeTreeNewColumnMenuEx
 [d611d189] 2020-10-28 23:04:09 +1100 dmex : ExtendedTools: Improve status text
 [7f8059ea] 2020-10-28 22:35:36 +1100 dmex : ExtendedTools: Fix crash sorting country column, Fix naming
 [9eac64d0] 2020-10-28 21:57:02 +1100 dmex : ExtendedTools: Add workaround for legacy Win7 support
