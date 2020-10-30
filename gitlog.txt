@@ -1,3 +1,6 @@
+[0904bed7] 2020-10-31 01:32:08 +1100 dmex : ExtendedTools: Fix etw session cleanup regression
+[8818aa1c] 2020-10-31 01:10:04 +1100 dmex : ExtendedTools: cleanup etw sessions
+[cb6cc307] 2020-10-31 00:10:55 +1100 dmex : ExtendedTools: Reuse existing trace sessions #726
 [87e15bb7] 2020-10-30 06:52:51 +1100 dmex : Move options graphs to same layout as highlighting
 [1ae50630] 2020-10-30 06:19:30 +1100 dmex : Fix resolving hostnames when disabled #723
 [12983723] 2020-10-30 03:50:54 +1100 dmex : ExtendedTools: Update hostname strings
