@@ -1,3 +1,4 @@
+[5091268e] 2020-11-01 00:42:15 +1100 dmex : Add ping, tracert, whois menu to firewall tab
 [0904bed7] 2020-10-31 01:32:08 +1100 dmex : ExtendedTools: Fix etw session cleanup regression
 [8818aa1c] 2020-10-31 01:10:04 +1100 dmex : ExtendedTools: cleanup etw sessions
 [cb6cc307] 2020-10-31 00:10:55 +1100 dmex : ExtendedTools: Reuse existing trace sessions #726
