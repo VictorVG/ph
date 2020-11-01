@@ -61,19 +61,25 @@ Deleted plug-ins:
  CommonUtil.dll - deleted in to v3.0.5411.884
  ExtraPlugins.dll - deleted in to v3.0.5585.1058 then not longer needed
  FirewallMonitorPlugin.dll - is not required and should be removed after
-                             v3.0.8020.3493 Git-ef984e9b, and since the
-                             firewall event monitoring code has been added
-                             to the ExtendedTools plugin.
+  v3.0.8020.3493 Git-ef984e9b, and since the firewall event monitoring
+  code has been added to the ExtendedTools plugin.
  ForceShutdownPlugin.dll - deleted in to v3.0.7307.2780 Git-10592432
  HexPidPlugin.dll - deleted in to v3.0.6628.2101 then not longer needed
  LiveDumpPlugin.dll - deleted in to v3.0.7816.3289 Git-4e59db73
  NetAdapters.dll - blacklisted, legacy, deleted in to v2.38 (?)
  NetExtrasPlugin.dll - then NetworkTools.dll v1.8 already included custom
-                       Tracert, Ping, WhoIs and Country column support and
-                       this plug-in is don't needed, disabled in
-                       v3.0.7984.3457 Git-829aaca3
- SbieSupport.dll - disabled in v3.0.6509.1982 Git-f0b96b18 (see Issues
-                   #233 - SBIE2035: Out of memory), disabled in to source
+  Tracert, Ping, WhoIs and Country column support and this plug-in is don't
+  needed, disabled in v3.0.7984.3457 Git-829aaca3
+ SbieSupport.dll - disabled in v3.0.6509.1982 Git-f0b96b18 (see Issues #233
+ - SBIE2035: Out of memory), disabled in to source
+
+ Starting in to v3.0.8087.3560 Git-4dfd0bcf plug-ins block list moved to
+ *.settings.xml. Goto Options, General, check Show advanced options
+ (experimental) and add to paramerer "DisabledPlugins" string:
+
+ CommonUtil.dll|ExtraPlugins.dll|FirewallMonitorPlugin.dll|ForceShutdownPlugin.dll|HexPidPlugin.dll|NetAdapters.dll|LiveDumpPlugin.dll|NetExtrasPlugin.dll|SbieSupport.dll
+
+ then press OK and restart Process Hacker.
 
 Also deleted:
 

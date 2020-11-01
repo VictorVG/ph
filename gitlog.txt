@@ -1,3 +1,7 @@
+[0511e6be] 2020-11-01 18:58:22 +1100 dmex : ExtendedTools: disable Linklocal hostname
+[1d85241c] 2020-11-01 18:51:16 +1100 dmex : ExtendedTools: Add freelist to firewall entries
+[e4262011] 2020-11-01 17:07:22 +1100 dmex : Merge PhLoadDefaultPlugins
+[4dfd0bcf] 2020-11-01 14:30:05 +1100 dmex : Remove plugin blocklist since we have EnableSafeDefaultPlugins #728
 [5091268e] 2020-11-01 00:42:15 +1100 dmex : Add ping, tracert, whois menu to firewall tab
 [0904bed7] 2020-10-31 01:32:08 +1100 dmex : ExtendedTools: Fix etw session cleanup regression
 [8818aa1c] 2020-10-31 01:10:04 +1100 dmex : ExtendedTools: cleanup etw sessions

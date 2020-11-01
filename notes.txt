@@ -31,7 +31,7 @@ Notes:
   00000003 - Signature and Privilege Check, require trusted signature and
              SeDebugPrivilege. This is maximum security level.
 
-By default parameters "SecurityLevel" is set to hight security level - 2.
+  By default parameters "SecurityLevel" is set to hight security level - 2.
 
 * For non-signed build please, alwayse set setting name "EnableKphWarnings"
   in to settings.xml (ProcessHacker.exe.settings.xml for portable copy) up
