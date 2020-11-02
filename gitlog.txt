@@ -1,3 +1,7 @@
+[836d82f1] 2020-11-03 03:02:19 +1100 dmex : Improve sorting threads by state and wait
+[ccea2593] 2020-11-03 01:25:04 +1100 dmex : ExtendedTools: Improve event session management, Improve disk tracing for multiple instances
+[8e45f7fc] 2020-11-02 22:39:26 +1100 dmex : Add pipe instances typedef
+[d6153372] 2020-11-02 22:38:45 +1100 dmex : Fix regression building plugins with cplusplus
 [5bedd71c] 2020-11-02 18:02:50 +1100 dmex : ExtendedTools: Fix crash when flushing etw during initialization #729
 [04dda717] 2020-11-02 08:40:23 +1100 dmex : Fix minimal processes showing empty filenames
 [45820a13] 2020-11-01 21:34:45 +1100 dmex : ExtendedTools: Fix string references
