@@ -1,3 +1,6 @@
+[c5c2463c] 2020-11-04 10:21:51 +1100 dmex : Remove columns from plugin manager window
+[4468f375] 2020-11-04 10:21:10 +1100 dmex : Fix warning when building pluginsdk with cplusplus
+[b2e5452f] 2020-11-04 10:19:33 +1100 dmex : Add PhEnumeratePlugins
 [132fee90] 2020-11-04 03:08:28 +1100 dmex : ExtendedTools: Fix searching local/remote/country columns, Add improved filter caching for firewall events
 [836d82f1] 2020-11-03 03:02:19 +1100 dmex : Improve sorting threads by state and wait
 [ccea2593] 2020-11-03 01:25:04 +1100 dmex : ExtendedTools: Improve event session management, Improve disk tracing for multiple instances
