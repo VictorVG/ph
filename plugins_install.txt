@@ -32,6 +32,7 @@ program starts (plugin search path is fixed, any subdirectories are ignored)):
 ./plugins/ExtendedNotifications.dll
 ./plugins/ExtendedServices.dll
 ./plugins/ExtendedTools.dll
+./plugins/ExtraCpuGraphsPlugin.dll
 ./plugins/FirmwarePlugin.dll
 ./plugins/HardwareDevices.dll
 ./plugins/MemoryExtPlugin.dll - only for Windows 10
@@ -40,6 +41,7 @@ program starts (plugin search path is fixed, any subdirectories are ignored)):
 ./plugins/ObjectManagerPlugin.dll
 ./plugins/OnlineChecks.dll
 ./plugins/PerfMonPlugin.dll
+./plugins/PipeEnumPlugin.dll
 ./plugins/PoolMonPlugin.dll
 ./plugins/ProductPolicyPlugin.dll
 ./plugins/ROTViewerPlugin.dll
@@ -60,9 +62,7 @@ Deleted plug-ins:
  BootEntriesPlugin.dll - then replaced FirmwarePlugin.dll
  CommonUtil.dll - deleted in to v3.0.5411.884
  ExtraPlugins.dll - deleted in to v3.0.5585.1058 then not longer needed
- FirewallMonitorPlugin.dll - is not required and should be removed after
-  v3.0.8020.3493 Git-ef984e9b, and since the firewall event monitoring
-  code has been added to the ExtendedTools plugin.
+ FirewallMonitorPlugin.dll - removed in v3.0.8103.3576 Git-2ccb6a61, then replaced ExtendedTools plugin.
  ForceShutdownPlugin.dll - deleted in to v3.0.7307.2780 Git-10592432
  HexPidPlugin.dll - deleted in to v3.0.6628.2101 then not longer needed
  LiveDumpPlugin.dll - deleted in to v3.0.7816.3289 Git-4e59db73

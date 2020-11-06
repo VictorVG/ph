@@ -1,3 +1,8 @@
+[251fed39] 2020-11-06 21:09:46 +1100 dmex : Add PhCallNamedPipe, Fix namedpipe regression from 8e45f7fcd61bf8efe2e4c88ed0ecf442911bde6b
+[31d5531f] 2020-11-06 19:55:22 +1100 dmex : ExtendedServices: Add Light (StoreApp)
+[69189b25] 2020-11-06 13:23:47 +1100 dmex : Fix memory leak when viewing plugin options
+[e6d293e8] 2020-11-06 13:02:25 +1100 dmex : peview: Remove unused flag
+[2ccb6a61] 2020-11-06 12:41:58 +1100 dmex : peview: Add file object identifier guid
 [c5c2463c] 2020-11-04 10:21:51 +1100 dmex : Remove columns from plugin manager window
 [4468f375] 2020-11-04 10:21:10 +1100 dmex : Fix warning when building pluginsdk with cplusplus
 [b2e5452f] 2020-11-04 10:19:33 +1100 dmex : Add PhEnumeratePlugins
