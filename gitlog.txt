@@ -1,3 +1,5 @@
+[e60a26d4] 2020-11-07 14:33:15 +1100 dmex : Update mainwnd.c
+[c0a72c34] 2020-11-07 13:49:23 +1100 dmex : Fix restarting current process #734
 [251fed39] 2020-11-06 21:09:46 +1100 dmex : Add PhCallNamedPipe, Fix namedpipe regression from 8e45f7fcd61bf8efe2e4c88ed0ecf442911bde6b
 [31d5531f] 2020-11-06 19:55:22 +1100 dmex : ExtendedServices: Add Light (StoreApp)
 [69189b25] 2020-11-06 13:23:47 +1100 dmex : Fix memory leak when viewing plugin options
