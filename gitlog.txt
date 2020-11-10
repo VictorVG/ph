@@ -1,3 +1,4 @@
+[67969cb1] 2020-11-10 22:31:17 +1100 dmex : Updater: Add text for past time
 [04199868] 2020-11-10 16:46:46 +1100 dmex : peview: make filetimes consistent
 [1de60a7d] 2020-11-10 09:17:59 +1100 dmex : HardwareDevices: enable options window device icons
 [cc0ab078] 2020-11-08 23:46:50 +1100 dmex : Updater: Show timestamps on the options -> updater window
