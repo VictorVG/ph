@@ -44,6 +44,7 @@ program starts (plugin search path is fixed, any subdirectories are ignored)):
 ./plugins/PipeEnumPlugin.dll
 ./plugins/PoolMonPlugin.dll
 ./plugins/ProductPolicyPlugin.dll
+./plugins/ReparseEnumPlugin.dll
 ./plugins/ROTViewerPlugin.dll
 ./plugins/SecurityExplorer.dll
 ./plugins/ServiceBackupRestorePlugin.dll
