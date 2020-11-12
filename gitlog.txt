@@ -1,3 +1,5 @@
+[8ab9fc11] 2020-11-12 05:06:04 +1100 dmex : NetworkTools: Fix building with legacy Windows SDK
+[d69d72b6] 2020-11-12 04:53:58 +1100 dmex : Fix build errors when using legacy Windows SDK and the new standards-compliant preprocessor
 [67969cb1] 2020-11-10 22:31:17 +1100 dmex : Updater: Add text for past time
 [04199868] 2020-11-10 16:46:46 +1100 dmex : peview: make filetimes consistent
 [1de60a7d] 2020-11-10 09:17:59 +1100 dmex : HardwareDevices: enable options window device icons
