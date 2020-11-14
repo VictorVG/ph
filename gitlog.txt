@@ -1,3 +1,4 @@
+[e041940f] 2020-11-15 06:51:35 +1100 dmex : Fix leak querying AppIds
 [c965020c] 2020-11-12 08:53:52 +1100 dmex : Thirdparty: Fix building with legacy Windows SDK
 [e2cb31c0] 2020-11-12 07:30:17 +1100 dmex : ExtendedTools: Add notes for Win10 tracing bug
 [8eeed2fe] 2020-11-12 07:28:08 +1100 dmex : ExtendedTools: Add check for active session handle
