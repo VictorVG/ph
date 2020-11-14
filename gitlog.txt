@@ -1,3 +1,6 @@
+[c965020c] 2020-11-12 08:53:52 +1100 dmex : Thirdparty: Fix building with legacy Windows SDK
+[e2cb31c0] 2020-11-12 07:30:17 +1100 dmex : ExtendedTools: Add notes for Win10 tracing bug
+[8eeed2fe] 2020-11-12 07:28:08 +1100 dmex : ExtendedTools: Add check for active session handle
 [8ab9fc11] 2020-11-12 05:06:04 +1100 dmex : NetworkTools: Fix building with legacy Windows SDK
 [d69d72b6] 2020-11-12 04:53:58 +1100 dmex : Fix build errors when using legacy Windows SDK and the new standards-compliant preprocessor
 [67969cb1] 2020-11-10 22:31:17 +1100 dmex : Updater: Add text for past time
