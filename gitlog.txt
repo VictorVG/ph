@@ -1,3 +1,4 @@
+[4f2390fb] 2020-11-18 11:32:28 +1100 dmex : ToolStatus: Fix missing toolbar icons when changing themes
 [994bb08e] 2020-11-17 23:28:55 +1100 dmex : Update thirdparty.lib to latest visual studio
 [e041940f] 2020-11-15 06:51:35 +1100 dmex : Fix leak querying AppIds
 [c965020c] 2020-11-12 08:53:52 +1100 dmex : Thirdparty: Fix building with legacy Windows SDK
