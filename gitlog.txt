@@ -1,3 +1,12 @@
+[350a589d] 2020-11-23 06:07:04 +1100 dmex : Merge branch 'master' of https://github.com/processhacker/processhacker
+[0f2b394b] 2020-11-23 06:02:28 +1100 dmex : NetworkTools: Add GeoDb lookup cache
+[db893484] 2020-11-23 06:02:28 +1100 dmex : Fix executable manifest resource
+[60faf9a0] 2020-11-23 06:02:27 +1100 dmex : Disable duplicate executable manifest
+[6dfc3272] 2020-11-23 06:02:27 +1100 dmex : peview: Remove unused flags
+[9298a975] 2020-11-23 06:02:27 +1100 dmex : BuildTools: Add build_tools.cmd and update with .net5
+[e0f08dd6] 2020-11-23 06:02:27 +1100 dmex : Remove seperator from options window
+[0fd070ce] 2020-11-23 06:02:27 +1100 dmex : ExtendedTools: Fix dark theme scrollbars
+[9a34728e] 2020-11-23 06:00:21 +1100 revengsh : Add group SID in Token tab #740
 [f8df1166] 2020-11-22 21:25:38 +1100 dmex : NetworkTools: Add GeoDb lookup cache
 [9e53da4a] 2020-11-22 19:56:48 +1100 dmex : Fix executable manifest resource
 [ff882300] 2020-11-22 19:50:18 +1100 dmex : Disable duplicate executable manifest
