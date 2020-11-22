@@ -1,3 +1,11 @@
+[f8df1166] 2020-11-22 21:25:38 +1100 dmex : NetworkTools: Add GeoDb lookup cache
+[9e53da4a] 2020-11-22 19:56:48 +1100 dmex : Fix executable manifest resource
+[ff882300] 2020-11-22 19:50:18 +1100 dmex : Disable duplicate executable manifest
+[badc4d1f] 2020-11-22 19:48:32 +1100 dmex : peview: Remove unused flags
+[ddcfe896] 2020-11-22 19:47:17 +1100 dmex : BuildTools: Add build_tools.cmd and update with .net5
+[96c27be6] 2020-11-22 18:56:40 +1100 dmex : Remove seperator from options window
+[18becd42] 2020-11-22 18:53:02 +1100 dmex : ExtendedTools: Fix dark theme scrollbars
+[ac61b227] 2020-11-22 03:37:05 +1100 dmex : Add group SID in Token tab #740
 [4f2390fb] 2020-11-18 11:32:28 +1100 dmex : ToolStatus: Fix missing toolbar icons when changing themes
 [994bb08e] 2020-11-17 23:28:55 +1100 dmex : Update thirdparty.lib to latest visual studio
 [e041940f] 2020-11-15 06:51:35 +1100 dmex : Fix leak querying AppIds
