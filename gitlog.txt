@@ -1,3 +1,4 @@
+[11931800] 2020-11-23 17:26:57 +1100 dmex : HardwareDevices: Fix multiple details windows for devices
 [350a589d] 2020-11-23 06:07:04 +1100 dmex : Merge branch 'master' of https://github.com/processhacker/processhacker
 [0f2b394b] 2020-11-23 06:02:28 +1100 dmex : NetworkTools: Add GeoDb lookup cache
 [db893484] 2020-11-23 06:02:28 +1100 dmex : Fix executable manifest resource
