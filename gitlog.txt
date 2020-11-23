@@ -1,3 +1,8 @@
+[f8de065c] 2020-11-24 05:25:41 +1100 dmex : Improve icon cache cleanup
+[cf0ac9d1] 2020-11-24 05:12:15 +1100 dmex : Add "Remember last selected window" checkbox to options window
+[71df5d71] 2020-11-24 05:02:43 +1100 dmex : Add icon cache support. signifigant performance improvments and GDI resource improvments
+[bfa50312] 2020-11-24 04:49:14 +1100 dmex : Add imagelist support to treenew control
+[25235328] 2020-11-24 04:14:31 +1100 dmex : Enable imagelist mask support
 [11931800] 2020-11-23 17:26:57 +1100 dmex : HardwareDevices: Fix multiple details windows for devices
 [350a589d] 2020-11-23 06:07:04 +1100 dmex : Merge branch 'master' of https://github.com/processhacker/processhacker
 [0f2b394b] 2020-11-23 06:02:28 +1100 dmex : NetworkTools: Add GeoDb lookup cache
