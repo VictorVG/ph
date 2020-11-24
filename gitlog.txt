@@ -1,3 +1,4 @@
+[1c2e086e] 2020-11-24 15:13:53 +1100 dmex : Revert "Improve icon cache cleanup"
 [f8de065c] 2020-11-24 05:25:41 +1100 dmex : Improve icon cache cleanup
 [cf0ac9d1] 2020-11-24 05:12:15 +1100 dmex : Add "Remember last selected window" checkbox to options window
 [71df5d71] 2020-11-24 05:02:43 +1100 dmex : Add icon cache support. signifigant performance improvments and GDI resource improvments
