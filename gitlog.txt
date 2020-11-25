@@ -1,3 +1,4 @@
+[e7c5aaf4] 2020-11-26 03:40:06 +1100 dmex : Enable support for process statistics sorting
 [1884adc9] 2020-11-25 23:49:39 +1100 dmex : Return error status for PhGetMappedImageDebugEntryByType
 [7f3dd9c0] 2020-11-25 10:56:08 +1100 dmex : Fix missing icons regression #741
 [f5838f52] 2020-11-25 10:20:32 +1100 dmex : Add fixed image sizes #741
