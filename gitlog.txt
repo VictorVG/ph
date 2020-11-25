@@ -1,3 +1,12 @@
+[7f3dd9c0] 2020-11-25 10:56:08 +1100 dmex : Fix missing icons regression #741
+[f5838f52] 2020-11-25 10:20:32 +1100 dmex : Add fixed image sizes #741
+[4027315e] 2020-11-25 04:36:30 +1100 dmex : Update process properties started caching
+[3fbbdb88] 2020-11-25 03:59:12 +1100 dmex : ExtendedNotifications: Retire growl notification support to plugins-extra
+[c596b688] 2020-11-25 01:03:14 +1100 dmex : Disable duplicate icon cache flush
+[db17de38] 2020-11-24 21:59:19 +1100 dmex : Refresh process properties started time #319
+[fbc7e4fc] 2020-11-24 21:37:00 +1100 dmex : Updater: Add option to show update dialog at startup
+[e09b98f8] 2020-11-24 19:43:40 +1100 dmex : Export PhImageListItemType
+[21077e1d] 2020-11-24 19:31:31 +1100 dmex : Fix icons missing in processes tab #741, Update diagnostics window with icon counters
 [1c2e086e] 2020-11-24 15:13:53 +1100 dmex : Revert "Improve icon cache cleanup"
 [f8de065c] 2020-11-24 05:25:41 +1100 dmex : Improve icon cache cleanup
 [cf0ac9d1] 2020-11-24 05:12:15 +1100 dmex : Add "Remember last selected window" checkbox to options window

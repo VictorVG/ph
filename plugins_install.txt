@@ -9,15 +9,17 @@ program starts (plugin search path is fixed, any subdirectories are ignored)):
 ./capslist.txt
 ./CHANGELOG.txt
 ./COPYRIGHT.txt
+./CustomCmdTool.exe
+./etwguids.txt
 ./kprocesshacker.sys
 ./LICENSE.txt
 ./peview.exe
 ./ProcessHacker.exe
+./ProcessHacker.sig
 ./README.md
 ./x86/Plugins/DotNetTools.dll - only for x64 edition copy to this folder x86 DLL
 ./x86/Plugins/ExtendedTools.dll - only for x64 edition copy to this folder x86 DLL
 ./x86/ProcessHacker.exe - only for x64 edition copy to this folder x86 EXE
-
 ./plugins/plugindata/kprocesshacker2_x32.sys - only for x86 OS, required for
                                                TerminatorPlugin
 ./plugins/plugindata/kprocesshacker2_x64.sys - only for x64 OS, required for
@@ -34,6 +36,7 @@ program starts (plugin search path is fixed, any subdirectories are ignored)):
 ./plugins/ExtendedTools.dll
 ./plugins/ExtraCpuGraphsPlugin.dll
 ./plugins/FirmwarePlugin.dll
+./plugins/GrowlNotifications.dll
 ./plugins/HardwareDevices.dll
 ./plugins/MemoryExtPlugin.dll - only for Windows 10
 ./plugins/NetworkTools.dll
