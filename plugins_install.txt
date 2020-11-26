@@ -15,6 +15,7 @@ program starts (plugin search path is fixed, any subdirectories are ignored)):
 ./LICENSE.txt
 ./peview.exe
 ./ProcessHacker.exe
+./ProcessHacker.exe.manifest
 ./ProcessHacker.sig
 ./README.md
 ./x86/Plugins/DotNetTools.dll - only for x64 edition copy to this folder x86 DLL

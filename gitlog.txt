@@ -1,3 +1,16 @@
+[f72f9cf2] 2020-11-26 21:42:25 +1100 dmex : Enable ProcessSignaturePolicy when option enabled
+[d2718425] 2020-11-26 21:23:47 +1100 dmex : Update options.c
+[a3a357a5] 2020-11-26 21:19:20 +1100 dmex : Add missing options reference
+[4dec91a7] 2020-11-26 21:15:16 +1100 dmex : Use correct imagelist color flags
+[a2c724e2] 2020-11-26 21:10:06 +1100 dmex : Add PhHttpSocketDownloadToFile
+[3fe8ed29] 2020-11-26 21:08:46 +1100 dmex : Fix c17 type warning
+[210145d1] 2020-11-26 20:21:48 +1100 dmex : Show options dialog restart for mitigation option
+[bad9c0f3] 2020-11-26 20:19:14 +1100 dmex : Add PhMoveFileWin32
+[c01a7970] 2020-11-26 19:06:36 +1100 dmex : Add export for mitigation options
+[ee2eccfb] 2020-11-26 19:02:15 +1100 dmex : Add version release date
+[d5c5ef7a] 2020-11-26 19:00:00 +1100 dmex : Add RSDS types
+[7473bf38] 2020-11-26 18:56:58 +1100 dmex : Add wow64 mitigation options
+[c7644bef] 2020-11-26 18:09:43 +1100 dmex : Move mitigation from setup to options window
 [e7c5aaf4] 2020-11-26 03:40:06 +1100 dmex : Enable support for process statistics sorting
 [1884adc9] 2020-11-25 23:49:39 +1100 dmex : Return error status for PhGetMappedImageDebugEntryByType
 [7f3dd9c0] 2020-11-25 10:56:08 +1100 dmex : Fix missing icons regression #741
