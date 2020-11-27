@@ -1,3 +1,6 @@
+[79894b1b] 2020-11-27 22:46:26 +1100 dmex : Fix ifdef check for tls slots
+[209f58a1] 2020-11-27 20:33:48 +1100 Denis Kroshin : Add TRACEHANDLE for ETW API
+[a7e07ac2] 2020-11-27 08:03:47 +1100 dmex : Update github templates
 [ae379c98] 2020-11-27 04:17:04 +1100 dmex : Update mitigation flags
 [2fa8271e] 2020-11-27 01:29:36 +1100 dmex : Update process statistics plugin support, Improve process statistics page performance
 [f1f34ef7] 2020-11-27 01:28:20 +1100 dmex : Export PhSetListViewItemParam
