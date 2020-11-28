@@ -1,3 +1,4 @@
+[b5def0b0] 2020-11-29 08:02:44 +1100 dmex : Update plugin SDK, Update macro usage, Fix vs19 SAL warnings
 [20e09c33] 2020-11-29 01:42:32 +1100 dmex : Add SIZE_MAX typedef, Fix vs2019 SAL warnings
 [79894b1b] 2020-11-27 22:46:26 +1100 dmex : Fix ifdef check for tls slots
 [209f58a1] 2020-11-27 20:33:48 +1100 Denis Kroshin : Add TRACEHANDLE for ETW API
