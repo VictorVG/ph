@@ -1,3 +1,4 @@
+[20e09c33] 2020-11-29 01:42:32 +1100 dmex : Add SIZE_MAX typedef, Fix vs2019 SAL warnings
 [79894b1b] 2020-11-27 22:46:26 +1100 dmex : Fix ifdef check for tls slots
 [209f58a1] 2020-11-27 20:33:48 +1100 Denis Kroshin : Add TRACEHANDLE for ETW API
 [a7e07ac2] 2020-11-27 08:03:47 +1100 dmex : Update github templates
