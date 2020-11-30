@@ -1,3 +1,8 @@
+[82ff90b7] 2020-12-01 05:00:41 +1100 dmex : Remove experimental label from advanced options
+[64be16be] 2020-12-01 04:50:23 +1100 dmex : Fix SAL warnings
+[9de2a79c] 2020-12-01 04:31:20 +1100 dmex : Fix status for missing com classes
+[1a378c8b] 2020-12-01 04:20:07 +1100 dmex : Update ntpoapi.h
+[82236c5c] 2020-12-01 02:37:33 +1100 dmex : Fix ITaskService BSTR usage
 [4ef2d2c6] 2020-11-30 15:15:51 +1100 dmex : Update ntpoapi.h
 [6d09f160] 2020-11-30 13:41:17 +1100 dmex : Update ntpoapi.h
 [2aad5804] 2020-11-30 13:40:01 +1100 dmex : Update ntpoapi.h
