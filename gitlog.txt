@@ -1,3 +1,7 @@
+[ab4e8949] 2020-11-30 11:03:13 +1100 dmex : Partial revert commit f0183434
+[38432c28] 2020-11-30 10:54:10 +1100 dmex : Add PhGetSecurityDescriptorFromString
+[09f80db6] 2020-11-30 06:54:13 +1100 dmex : Move mxml to phlib
+[806ecffc] 2020-11-30 06:33:35 +1100 dmex : Add mxml wrapper
 [b5def0b0] 2020-11-29 08:02:44 +1100 dmex : Update plugin SDK, Update macro usage, Fix vs19 SAL warnings
 [20e09c33] 2020-11-29 01:42:32 +1100 dmex : Add SIZE_MAX typedef, Fix vs2019 SAL warnings
 [79894b1b] 2020-11-27 22:46:26 +1100 dmex : Fix ifdef check for tls slots
