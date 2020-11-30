@@ -1,3 +1,9 @@
+[4ef2d2c6] 2020-11-30 15:15:51 +1100 dmex : Update ntpoapi.h
+[6d09f160] 2020-11-30 13:41:17 +1100 dmex : Update ntpoapi.h
+[2aad5804] 2020-11-30 13:40:01 +1100 dmex : Update ntpoapi.h
+[1b2aab36] 2020-11-30 13:36:01 +1100 dmex : Add custom POWER_INFORMATION_LEVEL
+[6a943d38] 2020-11-30 13:34:30 +1100 dmex : Tidy up unused types
+[bb661768] 2020-11-30 13:32:07 +1100 dmex : Update PhGetSecurityDescriptorFromString
 [ab4e8949] 2020-11-30 11:03:13 +1100 dmex : Partial revert commit f0183434
 [38432c28] 2020-11-30 10:54:10 +1100 dmex : Add PhGetSecurityDescriptorFromString
 [09f80db6] 2020-11-30 06:54:13 +1100 dmex : Move mxml to phlib
