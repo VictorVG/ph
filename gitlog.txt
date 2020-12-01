@@ -1,3 +1,6 @@
+[5b0b61a9] 2020-12-02 09:02:20 +1100 dmex : Update PhCreateFileWin32Ex with AllocationSize
+[0c9fcb5c] 2020-12-02 08:05:50 +1100 dmex : Update phnative.h
+[90092d63] 2020-12-02 08:05:40 +1100 dmex : Add PhGetFileAllocationSize/PhSetFileAllocationSize
 [82ff90b7] 2020-12-01 05:00:41 +1100 dmex : Remove experimental label from advanced options
 [64be16be] 2020-12-01 04:50:23 +1100 dmex : Fix SAL warnings
 [9de2a79c] 2020-12-01 04:31:20 +1100 dmex : Fix status for missing com classes
