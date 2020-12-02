@@ -1,3 +1,8 @@
+[653fa314] 2020-12-02 13:54:12 +1100 dmex : Remove unused export
+[863025eb] 2020-12-02 13:37:12 +1100 dmex : Include extra PhDeleteDirectory checks
+[74b49876] 2020-12-02 13:05:29 +1100 dmex : Improve PhDeleteDirectory for RS5 and above
+[08ef9747] 2020-12-02 12:21:58 +1100 dmex : peview: Add imagelists, Update file flags
+[7110571f] 2020-12-02 12:17:27 +1100 dmex : Add preallocation support and prevent file fragmentation
 [5b0b61a9] 2020-12-02 09:02:20 +1100 dmex : Update PhCreateFileWin32Ex with AllocationSize
 [0c9fcb5c] 2020-12-02 08:05:50 +1100 dmex : Update phnative.h
 [90092d63] 2020-12-02 08:05:40 +1100 dmex : Add PhGetFileAllocationSize/PhSetFileAllocationSize
