@@ -1,3 +1,7 @@
+[c490901c] 2020-12-10 02:31:43 +1100 dmex : DotNetTools: Hide AppDomain column by default
+[91bdeb26] 2020-12-09 23:47:28 +1100 dmex : Improve environment string expansion performance
+[73a83286] 2020-12-09 23:45:11 +1100 dmex : Fix PhDeleteDirectory regression from 74b49876
+[ccabcf08] 2020-12-09 23:44:11 +1100 dmex : Enable pipe reject remote clients
 [653fa314] 2020-12-02 13:54:12 +1100 dmex : Remove unused export
 [863025eb] 2020-12-02 13:37:12 +1100 dmex : Include extra PhDeleteDirectory checks
 [74b49876] 2020-12-02 13:05:29 +1100 dmex : Improve PhDeleteDirectory for RS5 and above
