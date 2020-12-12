@@ -1,3 +1,6 @@
+[71304e0a] 2020-12-12 17:55:22 +1100 dmex : Add check for stage2 before checking image coherency
+[6b6f74bb] 2020-12-12 17:25:59 +1100 Johnny Shaw : Implement Image Coherency (#751)
+[33ef93ba] 2020-12-11 21:48:29 +1100 dmex : peview: Fix viewing file security entires, Add more window contexts
 [da4d1146] 2020-12-10 23:11:05 +1100 dmex : peview: Add error message for repro timestamps
 [72fdaadb] 2020-12-10 23:08:07 +1100 dmex : DotNetTools: update macros and links
 [c490901c] 2020-12-10 02:31:43 +1100 dmex : DotNetTools: Hide AppDomain column by default
