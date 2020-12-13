@@ -1,3 +1,4 @@
+[753a395d] 2020-12-13 14:39:42 +1100 Johnny Shaw : Initialize ImageCoherencyStatus. This prevents the process tree from showing an image as incoherent until analysis runs. (#752)
 [71304e0a] 2020-12-12 17:55:22 +1100 dmex : Add check for stage2 before checking image coherency
 [6b6f74bb] 2020-12-12 17:25:59 +1100 Johnny Shaw : Implement Image Coherency (#751)
 [33ef93ba] 2020-12-11 21:48:29 +1100 dmex : peview: Fix viewing file security entires, Add more window contexts
