@@ -1,3 +1,14 @@
+[ed81bf36] 2020-12-28 13:50:09 +1100 dmex : peview: Add ntfs layout tab
+[9a7c7924] 2020-12-28 13:27:12 +1100 dmex : peview: Add extra FileId type display, Add extra ProdID components
+[daa09029] 2020-12-28 13:25:20 +1100 dmex : peview: Fix link query share access
+[3facf0f5] 2020-12-28 13:24:02 +1100 dmex : Fix sysinfo window keyboard accelerator drawing when inactive
+[f4b8258d] 2020-12-28 13:18:20 +1100 dmex : Remove unused reference
+[0370f326] 2020-12-28 12:07:44 +1100 dmex : Fix arm64 build error #376
+[04924051] 2020-12-28 12:06:21 +1100 dmex : HardwareDevices: Fix handle leak
+[c4487e6e] 2020-12-28 11:54:04 +1100 dmex : Tidy up PhGetFileVersion
+[5d9d18a8] 2020-12-28 11:50:07 +1100 dmex : Fix rare crash querying GuardFlags, Fix PhHttpSocketDownloadToFile memory leak
+[b7a83dbc] 2020-12-28 11:48:50 +1100 dmex : Add correct BoundaryDescriptor type, Fix SAL annotation
+[b9acc7b7] 2020-12-28 11:38:20 +1100 starix : Add performance event logging definitions
 [753a395d] 2020-12-13 14:39:42 +1100 Johnny Shaw : Initialize ImageCoherencyStatus. This prevents the process tree from showing an image as incoherent until analysis runs. (#752)
 [71304e0a] 2020-12-12 17:55:22 +1100 dmex : Add check for stage2 before checking image coherency
 [6b6f74bb] 2020-12-12 17:25:59 +1100 Johnny Shaw : Implement Image Coherency (#751)
