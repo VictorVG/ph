@@ -1,3 +1,4 @@
+[890d31b8] 2020-12-31 20:17:21 +1100 dmex : peview: Add clr section hashes, Fix checksum flags
 [ed81bf36] 2020-12-28 13:50:09 +1100 dmex : peview: Add ntfs layout tab
 [9a7c7924] 2020-12-28 13:27:12 +1100 dmex : peview: Add extra FileId type display, Add extra ProdID components
 [daa09029] 2020-12-28 13:25:20 +1100 dmex : peview: Fix link query share access
