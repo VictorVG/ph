@@ -1,3 +1,5 @@
+[e20b6bca] 2021-01-03 05:48:27 +1100 Johnny Shaw : KPH enforce maximum security level always (#768)
+[d2cd2a12] 2021-01-02 20:04:52 +1100 Johnny Shaw : KPH hardening, protected domination check and caller verification (#767)
 [890d31b8] 2020-12-31 20:17:21 +1100 dmex : peview: Add clr section hashes, Fix checksum flags
 [ed81bf36] 2020-12-28 13:50:09 +1100 dmex : peview: Add ntfs layout tab
 [9a7c7924] 2020-12-28 13:27:12 +1100 dmex : peview: Add extra FileId type display, Add extra ProdID components
