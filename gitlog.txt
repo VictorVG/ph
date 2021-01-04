@@ -1,3 +1,4 @@
+[17fd03f8] 2021-01-04 07:13:52 +1100 Johnny Shaw : KPH add linker integrity and kernel compiler option (#769)
 [e20b6bca] 2021-01-03 05:48:27 +1100 Johnny Shaw : KPH enforce maximum security level always (#768)
 [d2cd2a12] 2021-01-02 20:04:52 +1100 Johnny Shaw : KPH hardening, protected domination check and caller verification (#767)
 [890d31b8] 2020-12-31 20:17:21 +1100 dmex : peview: Add clr section hashes, Fix checksum flags
