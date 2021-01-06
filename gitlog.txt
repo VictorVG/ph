@@ -1,3 +1,6 @@
+[eace3239] 2021-01-05 19:59:29 +1100 dmex : peview: Add MFT record index and sequence number
+[4b9b8740] 2021-01-05 05:06:09 +1100 dmex : Fix error C2220 when using codepage 936 #753
+[1c1ee07b] 2021-01-05 04:57:43 +1100 dmex : BuildTools: Fix building from non-git exported solution directory
 [17fd03f8] 2021-01-04 07:13:52 +1100 Johnny Shaw : KPH add linker integrity and kernel compiler option (#769)
 [e20b6bca] 2021-01-03 05:48:27 +1100 Johnny Shaw : KPH enforce maximum security level always (#768)
 [d2cd2a12] 2021-01-02 20:04:52 +1100 Johnny Shaw : KPH hardening, protected domination check and caller verification (#767)
