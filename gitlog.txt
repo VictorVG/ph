@@ -1,3 +1,5 @@
+[9423f4eb] 2021-01-09 21:48:21 +1100 dmex : ExtendedTools: Fix firewall icons when using high DPI displays #775
+[07e22c0c] 2021-01-09 21:46:53 +1100 dmex : ExtendedTools: Add setting to ignore firewall port scanning events #758
 [7fef34f1] 2021-01-08 18:48:45 +1100 Johnny Shaw : Add non-animated tray icon (#772)
 [784eb1ea] 2021-01-07 18:17:20 +1100 dmex : Fix missing icons for some processes
 [eace3239] 2021-01-05 19:59:29 +1100 dmex : peview: Add MFT record index and sequence number
