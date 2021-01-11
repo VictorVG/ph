@@ -1,3 +1,5 @@
+[d56642b0] 2021-01-11 21:14:10 +1100 dmex : Add status text for unknown sids
+[7edbbb61] 2021-01-11 21:13:42 +1100 dmex : Fix default column dialog focus
 [5a7a0045] 2021-01-11 12:07:55 +1100 dmex : PHNT: Add LdrFindResourceEx_U, Fix pipe instance flag
 [dd4c1fcd] 2021-01-11 12:06:19 +1100 dmex : Add access entries for ETW and WaitCompletion
 [34f72295] 2021-01-10 02:35:29 +1100 dmex : PHNT: Add ImageXfgEnabled, Add MemoryEx/SectionEx functions
