@@ -1,3 +1,7 @@
+[a1f2261f] 2021-01-15 18:13:10 +1100 dmex : PHNT: Update mitigation options map, Add pseudo handle comments
+[3cd8f79e] 2021-01-15 17:57:13 +1100 dmex : Update KPH offsets
+[d95c7434] 2021-01-15 16:35:42 +1100 dmex : Improve handle enumeration error checking
+[598146c0] 2021-01-15 13:02:03 +1100 dmex : Improve WMI Provider queries, Enable WMI Provider string caching
 [6b72bf02] 2021-01-14 07:47:26 +1100 dmex : Add workaround for Restart process menu recreating the process with our token
 [2e108656] 2021-01-14 06:22:02 +1100 dmex : Add trayicon overlapped activation (fix by soho)
 [33962317] 2021-01-14 06:17:57 +1100 dmex : Add PhGetWindowStyleEx
