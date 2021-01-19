@@ -1,3 +1,7 @@
+[84d6742e] 2021-01-19 16:38:51 +1100 dmex : Fix another linker error that doesn't happen on my machine
+[cc3308a7] 2021-01-19 16:31:16 +1100 dmex : Fix linker error
+[4a95fd2e] 2021-01-19 16:19:50 +1100 dmex : Fix incorrect types, Fix previous commit 27d8e04b
+[27d8e04b] 2021-01-19 16:00:18 +1100 dmex : Update Tools > Permissions menu, Add support for viewing power scheme, terminal service and WMI namespace security
 [391f3ec2] 2021-01-17 09:46:02 +1100 dmex : Fix column chooser dialog text DPI scaling #782
 [7b49f7af] 2021-01-17 08:46:56 +1100 dmex : Fix coherency highlighting kernel modules when the driver is disabled
 [a645c679] 2021-01-17 08:43:28 +1100 dmex : Update ntpoapi.h
