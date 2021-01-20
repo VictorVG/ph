@@ -1,3 +1,5 @@
+[dee1e3c4] 2021-01-20 19:20:19 +1100 dmex : Fix crash from packed images with invalid config directories
+[befd8282] 2021-01-20 17:29:58 +1100 dmex : Remove unused field
 [84d6742e] 2021-01-19 16:38:51 +1100 dmex : Fix another linker error that doesn't happen on my machine
 [cc3308a7] 2021-01-19 16:31:16 +1100 dmex : Fix linker error
 [4a95fd2e] 2021-01-19 16:19:50 +1100 dmex : Fix incorrect types, Fix previous commit 27d8e04b
