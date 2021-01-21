@@ -1,3 +1,8 @@
+[9d7315aa] 2021-01-21 21:17:28 +1100 dmex : Temporarily disable native string conversion #777
+[c39064ae] 2021-01-21 13:50:33 +1100 dmex : WindowExplorer: Add inspect and open location menu
+[973a7613] 2021-01-21 13:47:42 +1100 dmex : DotNetTools: Fix assembly menu ignoring FileBrowseExecutable settings
+[9ae36fb4] 2021-01-21 12:54:33 +1100 dmex : WindowExplorer: Add EnableWindowPreview setting
+[8d396138] 2021-01-21 09:28:47 +1100 dmex : ExtendedTools: Disable whois for RFC1918 and loopback
 [dee1e3c4] 2021-01-20 19:20:19 +1100 dmex : Fix crash from packed images with invalid config directories
 [befd8282] 2021-01-20 17:29:58 +1100 dmex : Remove unused field
 [84d6742e] 2021-01-19 16:38:51 +1100 dmex : Fix another linker error that doesn't happen on my machine
