@@ -1,3 +1,4 @@
+[a626f613] 2021-01-22 14:32:17 +1100 dmex : ExtendedTools: Re-add wswatch with impovements (removed in commit e07919d3)
 [9d7315aa] 2021-01-21 21:17:28 +1100 dmex : Temporarily disable native string conversion #777
 [c39064ae] 2021-01-21 13:50:33 +1100 dmex : WindowExplorer: Add inspect and open location menu
 [973a7613] 2021-01-21 13:47:42 +1100 dmex : DotNetTools: Fix assembly menu ignoring FileBrowseExecutable settings
