@@ -1,3 +1,4 @@
+[c4e315c9] 2021-01-24 16:25:38 +1100 Johnny Shaw : Improve image coherency calucation and configuration (#783)
 [b6b8648c] 2021-01-24 03:57:31 +1100 dmex : Add PhOpenFileById
 [a626f613] 2021-01-22 14:32:17 +1100 dmex : ExtendedTools: Re-add wswatch with impovements (removed in commit e07919d3)
 [9d7315aa] 2021-01-21 21:17:28 +1100 dmex : Temporarily disable native string conversion #777
