@@ -1,3 +1,5 @@
+[60833a44] 2021-01-25 14:56:23 +1100 Johnny Shaw : Optimization and bugfix for PhGetMappedImageRelocations (#785)
+[1c59132e] 2021-01-25 14:08:40 +1100 dmex : Fix enumeration of image relocations
 [c4e315c9] 2021-01-24 16:25:38 +1100 Johnny Shaw : Improve image coherency calucation and configuration (#783)
 [b6b8648c] 2021-01-24 03:57:31 +1100 dmex : Add PhOpenFileById
 [a626f613] 2021-01-22 14:32:17 +1100 dmex : ExtendedTools: Re-add wswatch with impovements (removed in commit e07919d3)
