@@ -1,3 +1,61 @@
+[dadf9ccd] 2021-02-05 21:36:03 +1100 dmex : NetworkTools: Fix graph regression from previous commit
+[09bb4b61] 2021-02-05 21:15:25 +1100 dmex : NetworkTools: Add deviation and variance for ping statistics, Change minimum ping scaling defaults to 200ms
+[1b527bee] 2021-02-05 21:13:05 +1100 dmex : Make PhSetFilePosition parameter optional
+[9ab9a463] 2021-02-05 21:12:15 +1100 dmex : Add handle check for PhGetHandleInformation
+[c28356a1] 2021-02-05 07:18:59 +1100 Matthijs Lavrijsen : Improve dbghelp.dll finding on ARM64 (#790)
+[39bfe46b] 2021-02-04 05:32:01 +1100 dmex : peview: Reapply TLSH patch
+[92935d83] 2021-02-04 05:19:58 +1100 dmex : peview: 3rd attempt fixing build warning that doesn't happen on my machine
+[4fcac176] 2021-02-04 05:08:50 +1100 dmex : peview: Try fixing build warning that doesn't happen on my machine yet again
+[e630a158] 2021-02-04 04:37:58 +1100 dmex : peview: Fix build linker warning from previous commit
+[773cd23a] 2021-02-04 04:15:10 +1100 dmex : peview: Add TLSH support to hashes tab
+[8fffe778] 2021-02-04 04:09:41 +1100 dmex : thirdparty: Fix json-c typdef
+[d6423a09] 2021-02-04 03:50:05 +1100 dmex : peview: Add missing licence file for ssdeep
+[9779590a] 2021-02-04 03:49:43 +1100 dmex : Add yara reference link
+[4266c50d] 2021-02-03 12:09:07 +1100 dmex : ExtendedServices: Remove duplicate macro
+[7ad27991] 2021-02-03 12:08:04 +1100 dmex : Add RtlAddResourceAttributeAce, RtlAddScopedPolicyIDAce
+[d5584566] 2021-02-03 11:27:21 +1100 dmex : Add PhLowerString, Fix typo
+[d42f8d80] 2021-02-03 11:22:39 +1100 dmex : peview: Add raw sections, Add raw prodid hash, Add unused header bytes, Disable PE directory rva highlighting
+[63ebd7be] 2021-02-03 11:16:26 +1100 dmex : peview: Improve fuzzy hash performance
+[7b624d1b] 2021-02-03 11:14:15 +1100 dmex : Add second prodid hash for PhGetMappedImageProdIdHeader
+[0ad5517f] 2021-02-02 21:46:35 +1100 dmex : Remove dead link pointing to blocked webpage
+[121989d6] 2021-02-01 17:31:25 +1100 dmex : peview: Add overlay to authentihash
+[53364fdd] 2021-02-01 17:19:12 +1100 dmex : peview: Add authentihash to hashes tab
+[608089f9] 2021-02-01 07:24:24 +1100 dmex : OnlineChecks: Fix dumb VTAPI responses for recapcha
+[437ff66d] 2021-02-01 06:32:57 +1100 dmex : peview: Fix fuzzy build warning
+[22aa3c6f] 2021-02-01 06:12:55 +1100 dmex : peview: Add hashes tab for showing image hashes, Add SSDEEP support
+[80a4c30f] 2021-02-01 06:03:27 +1100 dmex : peview: Add clr type
+[d1a3f427] 2021-02-01 06:02:55 +1100 dmex : peview: Fix options change restart
+[55f427e9] 2021-02-01 06:02:21 +1100 dmex : peview: Add RFC3161_counterSign certificate enumeration
+[4b6bc3ab] 2021-01-29 18:08:16 +1100 dmex : ExtendedTools: Add workaround for broken Win10 GPU node utilization statistics
+[d49a1a99] 2021-01-28 21:22:26 +1100 dmex : HardwareDevices: Fix network deltas for disconnected wireless devices
+[00f8adc7] 2021-01-28 09:37:15 +1100 dmex : Fix service delayed start typo #786
+[7f6ccd5f] 2021-01-27 10:02:52 +1100 dmex : peview: Add layout tab for ELF images, Add spaces for layout rows
+[9582ca43] 2021-01-27 10:01:23 +1100 dmex : thirdparty: Update json-c to v0.15
+[76d171a7] 2021-01-26 19:53:27 +1100 dmex : Improve PhDeleteFileWin32, Fix PhDeleteFile regresion on RS5
+[1221850c] 2021-01-26 19:33:55 +1100 dmex : Add seperator typedef
+[48329ff6] 2021-01-26 19:33:15 +1100 dmex : Add 'Go to service' for process services tab
+[b462cc0a] 2021-01-26 19:31:03 +1100 dmex : peview: Fix name layout, Fix resizing options window, Add missing copyright
+[2bb1ebc2] 2021-01-26 19:14:38 +1100 dmex : Add offset and codepage for resources
+[b941fdc0] 2021-01-26 05:47:25 +1100 dmex : Remove unused format string
+[0953dd1f] 2021-01-25 23:50:25 +1100 dmex : Add workaround for peak handle count on Windows 10 #784
+[b1ecfa9a] 2021-01-25 22:49:09 +1100 dmex : peview: Fix previous commit showing empty addresses
+[38ad4a24] 2021-01-25 22:38:25 +1100 dmex : peview: Highlight overlayed image directories
+[0ff535ab] 2021-01-25 22:11:45 +1100 dmex : Improve IPv4 hostname lookup performance
+[73fbb4bc] 2021-01-25 22:03:24 +1100 dmex : Improve startup plugin enumeration
+[36539634] 2021-01-25 21:54:31 +1100 dmex : Ignore ImageCoherencyStatus when check images disabled
+[41265e36] 2021-01-25 21:27:05 +1100 dmex : Fix process general tab button alignment
+[90a05329] 2021-01-25 21:26:11 +1100 dmex : Remove duplicate plugin manager enumeration
+[d531531a] 2021-01-25 21:13:42 +1100 dmex : Fix searchbox auto-focus #576, Fix searchbox auto-focus after minimize #663
+[5f797e53] 2021-01-25 20:15:21 +1100 dmex : Add miniinfo window contextmenu for services #79
+[2c84735d] 2021-01-25 19:42:00 +1100 dmex : Fix memory context menus not updating the treelist #248
+[f25b539e] 2021-01-25 19:40:09 +1100 dmex : Add PhAllocateZeroSafe
+[b64bebfe] 2021-01-25 19:39:16 +1100 dmex : Add debug asserts for memory allocations
+[17eb9834] 2021-01-25 19:37:10 +1100 dmex : Update PhGetHostNameFromAddressEx with PhDnsQuery2
+[759de5e5] 2021-01-25 19:34:22 +1100 dmex : Add LARGE_INTEGER_128
+[a350b94c] 2021-01-25 19:33:49 +1100 dmex : Fix PhLoadAppKey memory leak
+[849967a1] 2021-01-25 19:33:23 +1100 dmex : Improve CFG and GuardEHContinuation
+[4e7fb382] 2021-01-25 19:32:01 +1100 dmex : Remove unused exports
+[b2392c8d] 2021-01-25 19:16:14 +1100 dmex : Fix status text memory leak, Update modules tab with ImageCoherencyScanLevel, Improve ImageCoherencyStatusText memory usage
 [60833a44] 2021-01-25 14:56:23 +1100 Johnny Shaw : Optimization and bugfix for PhGetMappedImageRelocations (#785)
 [1c59132e] 2021-01-25 14:08:40 +1100 dmex : Fix enumeration of image relocations
 [c4e315c9] 2021-01-24 16:25:38 +1100 Johnny Shaw : Improve image coherency calucation and configuration (#783)
