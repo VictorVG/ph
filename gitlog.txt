@@ -1,3 +1,7 @@
+[f7e34577] 2021-02-07 01:41:22 +1100 dmex : peview: Add prodid case for exports, Add hashing improvements, Add hashing error messages
+[4e730134] 2021-02-07 01:35:31 +1100 dmex : NetworkTools: Add deviation units, Remove ping variance
+[4bafbda8] 2021-02-06 18:20:24 +1100 dmex : NetworkTools: Add setting for ping timeout, Improve ping window layout
+[dd663c09] 2021-02-06 18:19:12 +1100 dmex : Show PnP device name for physical device handles #791
 [dadf9ccd] 2021-02-05 21:36:03 +1100 dmex : NetworkTools: Fix graph regression from previous commit
 [09bb4b61] 2021-02-05 21:15:25 +1100 dmex : NetworkTools: Add deviation and variance for ping statistics, Change minimum ping scaling defaults to 200ms
 [1b527bee] 2021-02-05 21:13:05 +1100 dmex : Make PhSetFilePosition parameter optional
