@@ -1,3 +1,13 @@
+[5ec361af] 2021-02-09 20:00:53 +1100 dmex : Fix regression deleting files with mapped references #794
+[872a59df] 2021-02-09 18:11:42 +1100 dmex : NetworkTools: Improve whois performance, Fix using DoH resolution when disabled
+[4699d4d2] 2021-02-09 17:04:35 +1100 dmex : Fix device reset after build updates when using custom services
+[e2a1d2c4] 2021-02-09 17:03:46 +1100 dmex : Disable errormode #792
+[4fbbc2cc] 2021-02-09 17:02:54 +1100 dmex : Add cocepage and errormode colums to processes list #793
+[4eef5d08] 2021-02-09 16:51:02 +1100 dmex : Allow empty handles tab for system processes without kernel driver support
+[9bc1ca03] 2021-02-09 16:49:45 +1100 dmex : Fix missing APP_CAPABILITY process token groups, Fix missing container tab for msix installed applications
+[ce9eff1e] 2021-02-09 16:48:20 +1100 dmex : Fix missing package names for msix installed processes
+[51f45d17] 2021-02-09 16:46:48 +1100 dmex : Update Win10 manifests for UTF8
+[c40d92de] 2021-02-09 16:45:12 +1100 dmex : Improve process environment enumeration
 [f7e34577] 2021-02-07 01:41:22 +1100 dmex : peview: Add prodid case for exports, Add hashing improvements, Add hashing error messages
 [4e730134] 2021-02-07 01:35:31 +1100 dmex : NetworkTools: Add deviation units, Remove ping variance
 [4bafbda8] 2021-02-06 18:20:24 +1100 dmex : NetworkTools: Add setting for ping timeout, Improve ping window layout
