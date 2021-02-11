@@ -1,3 +1,6 @@
+[bb1567d5] 2021-02-12 00:27:39 +1100 dmex : Update duplicate versioninfo year from commit 7c2cf53d
+[3d77db5d] 2021-02-12 00:25:34 +1100 dmex : Delay import MessageBox and MessageBeep functions because of dumbass vendors
+[f00566a7] 2021-02-11 13:31:06 +1100 dmex : NetworkTools: Improve whois context references
 [7c2cf53d] 2021-02-10 09:18:59 +1100 dmex : Update about copyright year
 [5ec361af] 2021-02-09 20:00:53 +1100 dmex : Fix regression deleting files with mapped references #794
 [872a59df] 2021-02-09 18:11:42 +1100 dmex : NetworkTools: Improve whois performance, Fix using DoH resolution when disabled
