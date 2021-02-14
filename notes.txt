@@ -53,6 +53,8 @@ Notes:
 
 * Terminator:
 
+  WARNING! Current plug-in code is incompatible in to commit Git 4e7fb3827 or newer! See https://github.com/processhacker/plugins-extra/issues/83 for details.
+
   Plug-in Terminator is already required whats user have "SeDebugPrivilege" and dinamically load driver KPH2. User don't needed installation this driver!
 
 * MainWindowTabRestoreEnabled option:

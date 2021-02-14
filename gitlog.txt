@@ -1,3 +1,12 @@
+[ff0fbe1b] 2021-02-14 06:16:22 +1100 dmex : Improve restart message, Fix restart initialization
+[1e02a1b6] 2021-02-14 04:17:19 +1100 dmex : Fix process restart menu broken by recent win10 patch #798
+[7a50630c] 2021-02-13 23:57:34 +1100 dmex : Fix windows 7 timeline graph, Slightly improve timeline calculation
+[f7d2da4b] 2021-02-13 14:26:19 +1100 dmex : Fix crash sorting by timeline, Fix typo, Remove extra column space (more consistent with PE)
+[f12d46fd] 2021-02-13 13:15:31 +1100 dmex : Add process timeline column #797
+[99001419] 2021-02-13 12:57:02 +1100 dmex : Fix boolean check
+[18dad902] 2021-02-13 12:56:14 +1100 dmex : Add mapimg export typedefs
+[dd267827] 2021-02-13 12:53:06 +1100 dmex : Remove unused format string
+[7894e917] 2021-02-13 12:51:55 +1100 dmex : Remove legacy MSVC manifest resource override
 [43f8dd7b] 2021-02-12 16:54:28 +1100 dmex : BuildTools: Update appx code for easier testing
 [3cc6774c] 2021-02-12 16:47:02 +1100 dmex : Improve plugin import resolving performance
 [bb1567d5] 2021-02-12 00:27:39 +1100 dmex : Update duplicate versioninfo year from commit 7c2cf53d
