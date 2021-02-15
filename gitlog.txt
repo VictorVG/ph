@@ -1,3 +1,5 @@
+[afda2a2d] 2021-02-15 14:48:50 +1100 dmex : Add inspect and open location menus for thread stacks
+[a8dff9f2] 2021-02-15 14:47:57 +1100 dmex : Enable generation of EH Continuation for x64
 [79a5eaf2] 2021-02-15 00:54:38 +1100 dmex : Prevent timelime overflow from changing the system time to an earlier date
 [f5187e15] 2021-02-15 00:52:07 +1100 dmex : Improve system uptime precision
 [ff0fbe1b] 2021-02-14 06:16:22 +1100 dmex : Improve restart message, Fix restart initialization
