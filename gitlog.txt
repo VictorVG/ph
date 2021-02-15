@@ -1,3 +1,5 @@
+[79a5eaf2] 2021-02-15 00:54:38 +1100 dmex : Prevent timelime overflow from changing the system time to an earlier date
+[f5187e15] 2021-02-15 00:52:07 +1100 dmex : Improve system uptime precision
 [ff0fbe1b] 2021-02-14 06:16:22 +1100 dmex : Improve restart message, Fix restart initialization
 [1e02a1b6] 2021-02-14 04:17:19 +1100 dmex : Fix process restart menu broken by recent win10 patch #798
 [7a50630c] 2021-02-13 23:57:34 +1100 dmex : Fix windows 7 timeline graph, Slightly improve timeline calculation
