@@ -1,3 +1,4 @@
+[761da11b] 2021-02-20 05:22:30 +1100 diversenok : Add definitions for power request management (#806)
 [34022f17] 2021-02-17 07:00:03 +1100 dmex : BuildTools: Update to .NET 5.0.3
 [ad73f6e0] 2021-02-17 05:28:29 +1100 dmex : Fix about crash (#804), Add syslink support for about commit text
 [a45cdf9a] 2021-02-17 00:11:12 +1100 Martin Arndt : Fix commit hash length & link About's hash to GitHub (#804)
