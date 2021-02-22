@@ -1,3 +1,9 @@
+[587c988f] 2021-02-22 15:31:22 +1100 dmex : Fix Sysinfo CPU label position
+[305d8aa6] 2021-02-22 15:28:23 +1100 dmex : Disable CRT __delayLoadHelper2 workaround #809
+[2b52367d] 2021-02-22 01:20:55 +1100 dmex : Add missing header typedef from previous commit
+[6a8b33cb] 2021-02-22 01:16:16 +1100 dmex : Add CPU topology and latency to Sysinfo CPU graphs
+[8973c86e] 2021-02-22 01:14:11 +1100 dmex : Optimize searchbox graphics handle usage
+[400ea3ca] 2021-02-22 01:11:30 +1100 dmex : Add default double click action for thread stacks
 [761da11b] 2021-02-20 05:22:30 +1100 diversenok : Add definitions for power request management (#806)
 [34022f17] 2021-02-17 07:00:03 +1100 dmex : BuildTools: Update to .NET 5.0.3
 [ad73f6e0] 2021-02-17 05:28:29 +1100 dmex : Fix about crash (#804), Add syslink support for about commit text
