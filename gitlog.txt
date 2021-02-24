@@ -1,3 +1,4 @@
+[8a048ec3] 2021-02-25 02:46:03 +1100 dmex : Re-enable default error mode #795
 [587c988f] 2021-02-22 15:31:22 +1100 dmex : Fix Sysinfo CPU label position
 [305d8aa6] 2021-02-22 15:28:23 +1100 dmex : Disable CRT __delayLoadHelper2 workaround #809
 [2b52367d] 2021-02-22 01:20:55 +1100 dmex : Add missing header typedef from previous commit
