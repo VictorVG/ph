@@ -1,3 +1,5 @@
+[cfaf5ec3] 2021-02-26 16:13:27 +1100 Johnny Shaw : Implement GPU Performance Graphs (#815)
+[56e7eec4] 2021-02-26 08:57:30 +1100 dmex : Add workaround for faulty ProcessHandleInformation data on 20H2
 [c5748529] 2021-02-25 16:53:09 +1100 dmex : ToolStatus: Add missing check for valid SystemStatistics
 [8a048ec3] 2021-02-25 02:46:03 +1100 dmex : Re-enable default error mode #795
 [587c988f] 2021-02-22 15:31:22 +1100 dmex : Fix Sysinfo CPU label position
