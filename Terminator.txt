@@ -1,0 +1,47 @@
+dmex
+Feb 27, 2021
+
+@Almighty188
+
+The plugin was fixed.
+
+What did Valve Corporation do?
+
+They were permanently banning users from Steam after they used the terminator
+since most options trigger VAC.
+
+TP2 creates a remote thread with ExitProcess but remote threads are banned.
+TT2 changes the remote thread context to ExitProcess but changing thread
+    context is banned.
+CH1 duplicates and closes remote handles but duplicating handles is banned.
+TD1 enables debug mode and immediately closes the debug object terminating
+    the process but debugging is banned.
+M1 writes zeros to the entire process (memset) but writing anything to memory
+   is banned.
+M2 changes the memory access to NOACCESS but blocking memory access is banned.
+
+It doesn't matter that a remote thread is created with the ExitProcess
+address. Merely creating a thread triggered the bans without regard for the
+purpose and it's the same problem with the other termination options.
+
+There was zero consideration given to tools like Terminator that can only
+terminate processes when they designed the anti-cheat so anything a third
+party process was doing to their process would trigger VAC and get you banned.
+
+If Valve were using the ObRegisterCallbacks function then none of this would
+be an issue because those methods would be blocked and would not trigger those
+cheating checks but they refuse to use that function (as other vendors have
+done successfully) so we're in this position where the Terminator plugin had
+to be archived just so users wouldn't get their accounts permanently banned
+for trying to terminate their processes.
+
+The other problem that caused this is related to faulty network drivers...
+Processes that use socket connections can deadlock and never terminate or exit
+because the network driver doesn't handle some network device IRPs correctly
+and some users who were unable to terminate the process (Steam and/or games)
+would then attempt to use the Terminator plugin - which would also fail
+because of the hung IRP blocking process termination - but were immediately
+banned from Steam.
+
+None of the things they've done prevents or stops cheating. All they've done
+instead is destroy tools like Terminator used to fight malware.
