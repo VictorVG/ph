@@ -1,3 +1,18 @@
+[583473b9] 2021-03-01 08:25:57 +1100 diversenok : Add a column that indicates impersonating threads (#817)
+[00445ca3] 2021-02-28 16:30:40 +1100 diversenok : Improve name generation for process and thread handles (#816)
+[a8a35aa0] 2021-02-28 14:53:51 +1100 dmex : Fix crash from plugin import hint lookup
+[3f68cc28] 2021-02-28 13:42:28 +1100 dmex : Disable some types due to mismatched SDK versions on VS Pro and VS Enterprise
+[0d385e9c] 2021-02-28 11:24:46 +1100 dmex : UserNotes: Add support for saving process page priority #805
+[51a548cc] 2021-02-28 10:12:53 +1100 dmex : peview: Add exceptions page
+[3a3951a0] 2021-02-28 10:10:54 +1100 dmex : Add PhGetMappedImageExceptions
+[3229b8ac] 2021-02-28 10:04:49 +1100 dmex : Fix leak in previous commit 01dfd459
+[01dfd459] 2021-02-28 08:30:05 +1100 dmex : Fix provider boost alerting when the driver is enabled #813
+[279365a4] 2021-02-28 08:22:19 +1100 dmex : ExtendedTools: Fix perf counters showing zero gpu usage #814
+[d551a9fa] 2021-02-28 08:17:36 +1100 dmex : Improve handle entry allocation macro
+[4bf96e0e] 2021-02-28 08:15:55 +1100 dmex : Update about text
+[17e04540] 2021-02-28 08:15:08 +1100 dmex : Remove extra brush handle for the timeline column
+[ada1b2b8] 2021-02-28 08:13:47 +1100 dmex : Fix system process showing as debugged on 20H1
+[3b3bc2e7] 2021-02-28 08:12:19 +1100 dmex : PHNT: Add types backported from insider builds to 20H1 in recent patches
 [cfaf5ec3] 2021-02-26 16:13:27 +1100 Johnny Shaw : Implement GPU Performance Graphs (#815)
 [56e7eec4] 2021-02-26 08:57:30 +1100 dmex : Add workaround for faulty ProcessHandleInformation data on 20H2
 [c5748529] 2021-02-25 16:53:09 +1100 dmex : ToolStatus: Add missing check for valid SystemStatistics
