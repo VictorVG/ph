@@ -1,3 +1,7 @@
+[fec4a798] 2021-03-02 00:01:07 +1100 dmex : Update handle options error messages to task dialogs
+[3092177f] 2021-03-02 00:00:24 +1100 dmex : Fix handle properties initial focus
+[384a0350] 2021-03-01 23:58:55 +1100 dmex : Merge branch 'master' of https://github.com/processhacker/processhacker
+[aa462c75] 2021-03-01 23:58:52 +1100 dmex : ExtendedTools: Add version check for GPU counters, Fix unloaded DLLs window returning incorrect status, Improve unloaded DLLs error message handling
 [583473b9] 2021-03-01 08:25:57 +1100 diversenok : Add a column that indicates impersonating threads (#817)
 [00445ca3] 2021-02-28 16:30:40 +1100 diversenok : Improve name generation for process and thread handles (#816)
 [a8a35aa0] 2021-02-28 14:53:51 +1100 dmex : Fix crash from plugin import hint lookup
