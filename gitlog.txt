@@ -1,3 +1,6 @@
+[ae3164ee] 2021-03-03 01:11:54 +1100 dmex : Update ntexapi.h
+[c10debb0] 2021-03-02 09:50:19 +1100 dmex : OnlineChecks: Remove VirusTotal rescan option after VT-API was disabled, Improve service check caching
+[c9ef01c4] 2021-03-02 01:06:04 +1100 dmex : Update minimum window height #818
 [fec4a798] 2021-03-02 00:01:07 +1100 dmex : Update handle options error messages to task dialogs
 [3092177f] 2021-03-02 00:00:24 +1100 dmex : Fix handle properties initial focus
 [384a0350] 2021-03-01 23:58:55 +1100 dmex : Merge branch 'master' of https://github.com/processhacker/processhacker
