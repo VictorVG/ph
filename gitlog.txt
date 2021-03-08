@@ -1,3 +1,7 @@
+[0d2c22e2] 2021-03-08 16:47:25 +1100 dmex : Fix SAL warning
+[f8ddb916] 2021-03-08 16:45:15 +1100 dmex : Add PhGetThreadIsTerminated
+[3546b164] 2021-03-08 16:43:46 +1100 dmex : Save runas dialog position
+[3f96cb26] 2021-03-08 16:42:15 +1100 dmex : Update ntexapi.h
 [ae3164ee] 2021-03-03 01:11:54 +1100 dmex : Update ntexapi.h
 [c10debb0] 2021-03-02 09:50:19 +1100 dmex : OnlineChecks: Remove VirusTotal rescan option after VT-API was disabled, Improve service check caching
 [c9ef01c4] 2021-03-02 01:06:04 +1100 dmex : Update minimum window height #818
