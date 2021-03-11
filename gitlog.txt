@@ -1,3 +1,4 @@
+[43e333df] 2021-03-11 21:29:58 +1100 dmex : Update thirdparty.lib to latest visual studio
 [0d2c22e2] 2021-03-08 16:47:25 +1100 dmex : Fix SAL warning
 [f8ddb916] 2021-03-08 16:45:15 +1100 dmex : Add PhGetThreadIsTerminated
 [3546b164] 2021-03-08 16:43:46 +1100 dmex : Save runas dialog position
