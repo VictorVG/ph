@@ -1,3 +1,9 @@
+[d9c8d96b] 2021-03-17 01:28:10 +1100 dmex : Update ntzwapi.h
+[2b317360] 2021-03-17 01:27:52 +1100 dmex : Fix build regression from #835
+[88368def] 2021-03-16 23:20:05 +1100 Johnny Shaw : PhLoadLibrarySafe and ban LoadLibrary (#835)
+[46b8404b] 2021-03-16 16:03:49 +1100 dmex : Add PhCreateDialog
+[ca436088] 2021-03-16 15:44:02 +1100 dmex : Update ntrtl.h
+[f7659f49] 2021-03-16 15:43:27 +1100 dmex : Add PhCreateDialog, PhLoadResourceCopy and update PhLoadResource
 [f9e5ae93] 2021-03-12 16:32:44 +1100 Johnny Shaw : toastnotif implementation (#827)
 [43e333df] 2021-03-11 21:29:58 +1100 dmex : Update thirdparty.lib to latest visual studio
 [0d2c22e2] 2021-03-08 16:47:25 +1100 dmex : Fix SAL warning
