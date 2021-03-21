@@ -1,3 +1,6 @@
+[bd52d7ed] 2021-03-22 07:32:04 +1100 dmex : peview: Fix showing relocations when the image doesn't contain the table
+[c1cb771e] 2021-03-22 07:15:49 +1100 dmex : thirdparty: Add Capstone support
+[cbb1cc2f] 2021-03-22 07:08:28 +1100 dmex : peview: Add relocation tab, Add entropy to directories, Add hashes for pogo, Add sections for exceptions,
 [5dd40196] 2021-03-21 12:19:53 +1100 Johnny Shaw : Add SSDEEP and TLSH to peview sections tab (#840)
 [31249f5a] 2021-03-21 05:29:32 +1100 dmex : peview: Add entropy values for image, sections and resources
 [acc2358b] 2021-03-21 01:40:51 +1100 dmex : NetworkTools: Update libmaxminddb to 1.5.2
