@@ -1,3 +1,8 @@
+[f509ca07] 2021-03-24 05:38:04 +1100 dmex : Fix error mode, Tidy up winmain
+[c55b7d15] 2021-03-24 03:29:18 +1100 dmex : peview: Add status for symbol loading to symbols tab
+[d5a7c1fd] 2021-03-24 03:04:51 +1100 dmex : peview: Fix options theme
+[f4ea5c06] 2021-03-24 02:58:27 +1100 dmex : peview: Fix updating MaxSizeUnit setting #844
+[ce54fa2a] 2021-03-24 02:43:19 +1100 dmex : peview: Move entropy to background workqueue
 [780606b9] 2021-03-23 13:15:54 +1100 dmex : peview: Fix typo
 [563707d3] 2021-03-23 11:06:35 +1100 dmex : Fix typo
 [af4df400] 2021-03-23 11:04:58 +1100 dmex : Add option to view 16-bit NTVDM processes #800
