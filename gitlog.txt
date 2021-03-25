@@ -1,3 +1,7 @@
+[193ba975] 2021-03-25 11:24:39 +1100 dmex : peview: Add copy menu to symbols tab
+[11979e49] 2021-03-25 11:21:29 +1100 dmex : peview: Enable symbols tab treelist settings, Fix symbols tab focus
+[a59a9dad] 2021-03-24 20:17:20 +1100 dmex : Move GuardFlags to PhpModuleQueryWorker
+[096da7a9] 2021-03-24 20:16:22 +1100 dmex : Fix incorrect header for PhLoadRemoteMappedImageEx
 [f509ca07] 2021-03-24 05:38:04 +1100 dmex : Fix error mode, Tidy up winmain
 [c55b7d15] 2021-03-24 03:29:18 +1100 dmex : peview: Add status for symbol loading to symbols tab
 [d5a7c1fd] 2021-03-24 03:04:51 +1100 dmex : peview: Fix options theme
