@@ -1,3 +1,4 @@
+[e3317481] 2021-03-26 19:03:42 +1100 dmex : Fix dragging treelist column divider #849, Fix regression from commit b31d0b70
 [6cc1445c] 2021-03-26 17:38:54 +1100 Johnny Shaw : Fix relocation tab symbol resolution (#852)
 [d0fcbf4e] 2021-03-26 16:49:56 +1100 dmex : Fix typo
 [134191c1] 2021-03-26 16:48:14 +1100 dmex : peview: Add symbols for exceptions and relocations
