@@ -1,3 +1,5 @@
+[d0fcbf4e] 2021-03-26 16:49:56 +1100 dmex : Fix typo
+[134191c1] 2021-03-26 16:48:14 +1100 dmex : peview: Add symbols for exceptions and relocations
 [193ba975] 2021-03-25 11:24:39 +1100 dmex : peview: Add copy menu to symbols tab
 [11979e49] 2021-03-25 11:21:29 +1100 dmex : peview: Enable symbols tab treelist settings, Fix symbols tab focus
 [a59a9dad] 2021-03-24 20:17:20 +1100 dmex : Move GuardFlags to PhpModuleQueryWorker
