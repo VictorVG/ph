@@ -1,3 +1,5 @@
+[390c9e5e] 2021-03-27 17:06:27 +1100 dmex : peview: Fix missing relocation page for 32bit images
+[0fcc78ad] 2021-03-27 16:34:55 +1100 Johnny Shaw : Fix and add image relocation symbols (#854)
 [41dec389] 2021-03-27 01:01:54 +1100 dmex : Fix enumerating exports from binaries such as mfc140u.dll
 [e3317481] 2021-03-26 19:03:42 +1100 dmex : Fix dragging treelist column divider #849, Fix regression from commit b31d0b70
 [6cc1445c] 2021-03-26 17:38:54 +1100 Johnny Shaw : Fix relocation tab symbol resolution (#852)
