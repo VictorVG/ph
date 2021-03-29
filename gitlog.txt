@@ -1,3 +1,7 @@
+[b3aef749] 2021-03-29 17:32:50 +1100 dmex : Update statistics context
+[bf92e9f6] 2021-03-29 17:27:04 +1100 dmex : Add process commit memory to statistics window
+[0f6febe9] 2021-03-29 17:26:03 +1100 dmex : Improve WSL 1 string performance
+[bf5bf908] 2021-03-29 17:23:46 +1100 dmex : Add PhGetProcessAppMemoryInformation
 [390c9e5e] 2021-03-27 17:06:27 +1100 dmex : peview: Fix missing relocation page for 32bit images
 [0fcc78ad] 2021-03-27 16:34:55 +1100 Johnny Shaw : Fix and add image relocation symbols (#854)
 [41dec389] 2021-03-27 01:01:54 +1100 dmex : Fix enumerating exports from binaries such as mfc140u.dll
