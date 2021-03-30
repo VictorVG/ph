@@ -1,3 +1,7 @@
+[3e1fac54] 2021-03-31 02:04:15 +1100 dmex : Add copyright
+[242dd0e8] 2021-03-31 01:48:21 +1100 dmex : Improve GDI object enumeration #492
+[05b40ace] 2021-03-31 01:28:24 +1100 dmex : ExtendedTools: Fix ARM64 assertion
+[498b10cc] 2021-03-31 01:21:48 +1100 dmex : Add TreeListCustomRowSize option to change the vertical size of the list items #318
 [b3aef749] 2021-03-29 17:32:50 +1100 dmex : Update statistics context
 [bf92e9f6] 2021-03-29 17:27:04 +1100 dmex : Add process commit memory to statistics window
 [0f6febe9] 2021-03-29 17:26:03 +1100 dmex : Improve WSL 1 string performance
