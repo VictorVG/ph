@@ -1,3 +1,10 @@
+[dcc0a98c] 2021-03-31 18:23:54 +1100 dmex : Add suspend tree and resume tree options to processes menu
+[5f86f099] 2021-03-31 18:03:19 +1100 dmex : Add cell copy menu to memory search results dialog
+[e3e8313f] 2021-03-31 17:40:41 +1100 dmex : ExtendedNotifications: Improve logfile performance, Add environment string path support, Add relative path support
+[35b5b61d] 2021-03-31 17:33:31 +1100 dmex : Update arm64 build script, Fix ignoring build errors, Rename script build_arm->build_arm64
+[29b65d1c] 2021-03-31 17:32:06 +1100 dmex : Fix arm64 build warning for cpu latency
+[d0291f88] 2021-03-31 17:20:15 +1100 dmex : BuildTools: Update to .NET 5.0.4
+[99d4d9ff] 2021-03-31 16:21:59 +1100 dmex : Add sorting for users mainmenu by username
 [3e1fac54] 2021-03-31 02:04:15 +1100 dmex : Add copyright
 [242dd0e8] 2021-03-31 01:48:21 +1100 dmex : Improve GDI object enumeration #492
 [05b40ace] 2021-03-31 01:28:24 +1100 dmex : ExtendedTools: Fix ARM64 assertion
