@@ -1,3 +1,4 @@
+[f57aa158] 2021-04-02 03:08:05 +1100 dmex : Fix typo #858
 [cb990c49] 2021-04-01 23:04:04 +1100 dmex : Add EnableShortRelativeStartTime setting #762
 [d1797869] 2021-04-01 17:49:54 +1100 dmex : Add save options to process memory menu
 [f4d78e6e] 2021-04-01 04:29:32 +1100 dmex : Add minidump snapshot support, Fix phsvc snapshot memory leak
