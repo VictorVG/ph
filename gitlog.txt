@@ -1,3 +1,4 @@
+[d1797869] 2021-04-01 17:49:54 +1100 dmex : Add save options to process memory menu
 [f4d78e6e] 2021-04-01 04:29:32 +1100 dmex : Add minidump snapshot support, Fix phsvc snapshot memory leak
 [7ee0e5d5] 2021-04-01 04:25:39 +1100 dmex : Add missing commit dcc0a98c
 [c2216c7e] 2021-03-31 20:14:42 +1100 dmex : Add IconIgnoreBalloonClick setting
