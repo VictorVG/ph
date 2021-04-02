@@ -1,3 +1,5 @@
+[24c83ff0] 2021-04-02 16:05:50 +1100 dmex : Add 'Hide default services' option to services view menu
+[7e9714ee] 2021-04-02 15:59:21 +1100 dmex : Add consistent string check for version info
 [f57aa158] 2021-04-02 03:08:05 +1100 dmex : Fix typo #858
 [cb990c49] 2021-04-01 23:04:04 +1100 dmex : Add EnableShortRelativeStartTime setting #762
 [d1797869] 2021-04-01 17:49:54 +1100 dmex : Add save options to process memory menu
