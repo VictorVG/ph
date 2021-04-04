@@ -1,3 +1,8 @@
+[5387c70c] 2021-04-04 15:11:05 +1000 dmex : Add error message when enabling 'Hide default services' and signature checking disabled
+[a4719aad] 2021-04-04 14:44:26 +1000 dmex : Update module provider filenames to native paths
+[5bdc69fb] 2021-04-04 14:36:47 +1000 dmex : Add PhQueryFullAttributesFile
+[5c67cb21] 2021-04-04 13:41:40 +1000 dmex : Update OriginalFileName to native path
+[0ba661f2] 2021-04-04 13:38:53 +1000 dmex : Update module provider filename for native paths
 [a42c1a00] 2021-04-03 17:00:01 +1100 dmex : Add Timeline column to network tab
 [cd14a62c] 2021-04-03 16:35:07 +1100 dmex : Add "Original name" column to modules tab for showing native image paths
 [24c83ff0] 2021-04-02 16:05:50 +1100 dmex : Add 'Hide default services' option to services view menu
