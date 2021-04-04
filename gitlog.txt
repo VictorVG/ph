@@ -1,3 +1,9 @@
+[26b147d1] 2021-04-04 23:15:43 +1000 dmex : peview: Remove PhInitializeImageVersionInfo2
+[5e664045] 2021-04-04 23:00:17 +1000 dmex : Update FileVersionInfo to native paths, Add PhGetFileVersionInfoEx and PhLoadLibraryAsImageResource
+[3d226019] 2021-04-04 21:38:45 +1000 dmex : Add missing flags, Fix build
+[7cebce2d] 2021-04-04 20:55:00 +1000 dmex : Fix assert when sorting thread stacks by filename
+[67c26f93] 2021-04-04 20:46:04 +1000 dmex : Update PhCreateFile, PhQueryFullAttributesFile, PhQueryAttributesFile, PhDoesFileExists
+[8b49b8ef] 2021-04-04 19:11:44 +1000 hg421 : Fix setting type of IconIgnoreBalloonClick (#860)
 [5387c70c] 2021-04-04 15:11:05 +1000 dmex : Add error message when enabling 'Hide default services' and signature checking disabled
 [a4719aad] 2021-04-04 14:44:26 +1000 dmex : Update module provider filenames to native paths
 [5bdc69fb] 2021-04-04 14:36:47 +1000 dmex : Add PhQueryFullAttributesFile
