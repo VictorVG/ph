@@ -1,3 +1,5 @@
+[62242a74] 2021-04-05 22:56:24 +1000 dmex : Update module provider FileVersionInfo to native paths
+[11f6bb0d] 2021-04-05 22:55:18 +1000 dmex : Update PhLoadLibraryAsImageResource flags for Win10
 [26b147d1] 2021-04-04 23:15:43 +1000 dmex : peview: Remove PhInitializeImageVersionInfo2
 [5e664045] 2021-04-04 23:00:17 +1000 dmex : Update FileVersionInfo to native paths, Add PhGetFileVersionInfoEx and PhLoadLibraryAsImageResource
 [3d226019] 2021-04-04 21:38:45 +1000 dmex : Add missing flags, Fix build
