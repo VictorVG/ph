@@ -1,3 +1,4 @@
+[27ab8791] 2021-04-07 03:07:12 +1000 dmex : Fix PhLoaderEntryRelocateImage
 [8b8427bf] 2021-04-07 02:51:33 +1000 dmex : Fix locating ServiceDll for some services on Windows 8
 [62242a74] 2021-04-05 22:56:24 +1000 dmex : Update module provider FileVersionInfo to native paths
 [11f6bb0d] 2021-04-05 22:55:18 +1000 dmex : Update PhLoadLibraryAsImageResource flags for Win10
