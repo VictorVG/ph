@@ -1,3 +1,5 @@
+[77cf5cc3] 2021-04-07 04:42:54 +1000 dmex : Update plugin manager versioninfo to native paths
+[1872d25b] 2021-04-07 04:38:54 +1000 dmex : Add support for querying limited process module information
 [27ab8791] 2021-04-07 03:07:12 +1000 dmex : Fix PhLoaderEntryRelocateImage
 [8b8427bf] 2021-04-07 02:51:33 +1000 dmex : Fix locating ServiceDll for some services on Windows 8
 [62242a74] 2021-04-05 22:56:24 +1000 dmex : Update module provider FileVersionInfo to native paths
