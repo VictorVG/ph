@@ -1,3 +1,4 @@
+[e96989fd] 2021-04-08 06:17:22 +1000 dmex : Fix invalid PhLoadLibraryAsImageResource flags for Win8
 [bba7c402] 2021-04-07 16:28:21 +1000 Johnny Shaw : Correctly show errors in module list for failed imgcoherency (#866)
 [77cf5cc3] 2021-04-07 04:42:54 +1000 dmex : Update plugin manager versioninfo to native paths
 [1872d25b] 2021-04-07 04:38:54 +1000 dmex : Add support for querying limited process module information
