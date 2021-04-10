@@ -1,3 +1,10 @@
+[f37c3e3e] 2021-04-10 13:28:10 +1000 dmex : peview: Removed unused parameter
+[0c09eee2] 2021-04-10 13:21:55 +1000 dmex : Add dynamic handle information buffer lengths
+[7be3f345] 2021-04-10 12:26:01 +1000 dmex : Update phnative.h
+[5e085086] 2021-04-10 12:25:53 +1000 dmex : Update PhCreateFile return status for filenames
+[6039b616] 2021-04-10 12:24:19 +1000 dmex : Remove legacy PhLoadPlugin
+[d8ad1452] 2021-04-10 12:23:23 +1000 dmex : Update filenames to native paths
+[6564d9a8] 2021-04-10 12:20:04 +1000 dmex : Add PhMapViewOfEntireFileEx
 [e96989fd] 2021-04-08 06:17:22 +1000 dmex : Fix invalid PhLoadLibraryAsImageResource flags for Win8
 [bba7c402] 2021-04-07 16:28:21 +1000 Johnny Shaw : Correctly show errors in module list for failed imgcoherency (#866)
 [77cf5cc3] 2021-04-07 04:42:54 +1000 dmex : Update plugin manager versioninfo to native paths
