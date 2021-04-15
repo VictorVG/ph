@@ -1,3 +1,18 @@
+[3cf7060f] 2021-04-15 18:07:47 +1000 dmex : Remove tabspace
+[0a92c212] 2021-04-15 18:06:41 +1000 dmex : Add PhVerifyFileSignatureInfo, Add WTGetSignatureInfo
+[9fabaa87] 2021-04-15 18:02:34 +1000 dmex : Add extra service filename check, Remove unused lock
+[616530c9] 2021-04-15 17:18:20 +1000 dmex : Fix PhExtractIconEx regression with HardwareDevices plugin and DEVPKEY_DeviceClass_IconPath
+[4fad8ab5] 2021-04-15 16:03:06 +1000 dmex : Remove incomplete WSL code from commit 489ce8fa PhGetMappedWslImageSectionByName
+[39267df2] 2021-04-15 13:22:36 +1000 dmex : Add missing bracket
+[b16bd070] 2021-04-15 13:12:38 +1000 dmex : Improve logging performance
+[4ef6f72f] 2021-04-15 12:07:50 +1000 dmex : Add default filestream attribute flag
+[489ce8fa] 2021-04-15 12:06:52 +1000 dmex : Add PhGetMappedWslImageSectionByName
+[27764ad2] 2021-04-15 12:06:08 +1000 dmex : Update ntrtl.h
+[4fbf1c33] 2021-04-15 12:05:12 +1000 dmex : Improve notification icon string formatting
+[1cd2d21d] 2021-04-15 12:04:05 +1000 dmex : Improve runas session enumeration
+[9d620d03] 2021-04-15 12:03:04 +1000 dmex : Improve dpkg-query performance
+[3ee4d89e] 2021-04-15 12:01:55 +1000 dmex : Remove unused index, Add missing SAL annotation
+[50b22521] 2021-04-15 11:41:56 +1000 dmex : Add native filename icon extraction support and improve icon extraction performance
 [f37c3e3e] 2021-04-10 13:28:10 +1000 dmex : peview: Removed unused parameter
 [0c09eee2] 2021-04-10 13:21:55 +1000 dmex : Add dynamic handle information buffer lengths
 [7be3f345] 2021-04-10 12:26:01 +1000 dmex : Update phnative.h
