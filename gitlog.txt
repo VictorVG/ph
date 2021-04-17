@@ -1,3 +1,5 @@
+[4cf0bfa0] 2021-04-17 20:40:26 +1000 dmex : UserNotes: Add support for saving permanent process CPU/IO/PAGE priorities using IFEO
+[c53edf34] 2021-04-17 19:22:15 +1000 dmex : Export PhDeleteValueKey
 [840c3e83] 2021-04-17 14:17:46 +1000 dmex : Update verifyp.h
 [c9f4d3e6] 2021-04-17 14:17:29 +1000 dmex : HardwareDevices: Add static namespace string
 [1e0bc25a] 2021-04-17 14:13:27 +1000 dmex : Fix PhGetMappedImageResources enumeration
