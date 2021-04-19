@@ -1,3 +1,4 @@
+[2f2b106e] 2021-04-19 14:54:19 +1000 dmex : Add PhGetMappedImageDirectoryEntry
 [9222cb7e] 2021-04-19 10:30:15 +1000 dmex : Remove duplicate GetSystemMetrics
 [551f0ab7] 2021-04-19 10:23:49 +1000 dmex : Update PhLoadIcon types, Remove legacy LoadIconMetric
 [656ea17c] 2021-04-19 10:12:05 +1000 dmex : Improve PhStdGetClientIdNameEx/handle enumeration performance
