@@ -1,3 +1,4 @@
+[181013e5] 2021-04-27 03:34:48 +1000 dmex : Add PhQueryRegistryUlongEx
 [772d7be2] 2021-04-21 17:09:33 +1000 dmex : Add effective permission support for security editor
 [5b7133ad] 2021-04-20 16:33:07 +1000 dmex : Fix PhExtractIconEx support for PNG and JPEG icons
 [2f2b106e] 2021-04-19 14:54:19 +1000 dmex : Add PhGetMappedImageDirectoryEntry
