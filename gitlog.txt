@@ -1,3 +1,17 @@
+[a8bb1938] 2021-04-28 01:08:40 +1000 dmex : Fix critical and pendingirp thread sorting
+[5112a29e] 2021-04-28 00:59:44 +1000 dmex : Add thread PendingIrp sorting
+[de6938b2] 2021-04-28 00:57:04 +1000 dmex : Add 'Pending IRP' column to threads tab
+[083c0467] 2021-04-28 00:51:47 +1000 dmex : UserNotes: Add UI for changing IFEO priorities #862
+[1c79fca8] 2021-04-28 00:21:39 +1000 dmex : Add mun resource support to PhExtractIconEx (fixes missing icons for system32 processes)
+[6f0846cf] 2021-04-27 23:31:18 +1000 dmex : Improve icon cache performance
+[7296400a] 2021-04-27 22:47:16 +1000 dmex : Update settings.c
+[1048ad22] 2021-04-27 17:28:05 +1000 dmex : peview: Add missing header
+[6ffaaef0] 2021-04-27 17:26:08 +1000 dmex : Fix message text formatting from previous commit 9d4d0262
+[9d4d0262] 2021-04-27 17:21:21 +1000 dmex : Add power actions to shutdown/restart menus
+[ff510355] 2021-04-27 15:47:50 +1000 dmex : Add dark theme column header mouse state
+[42ebae14] 2021-04-27 15:46:47 +1000 dmex : Improve dark theme column headers #98
+[da968c31] 2021-04-27 15:32:05 +1000 dmex : Add symbol support for NT_SYMBOL_PATH #878
+[97486258] 2021-04-27 13:58:48 +1000 dmex : Fix versioninfo regression on server 2016 #879
 [181013e5] 2021-04-27 03:34:48 +1000 dmex : Add PhQueryRegistryUlongEx
 [772d7be2] 2021-04-21 17:09:33 +1000 dmex : Add effective permission support for security editor
 [5b7133ad] 2021-04-20 16:33:07 +1000 dmex : Fix PhExtractIconEx support for PNG and JPEG icons
