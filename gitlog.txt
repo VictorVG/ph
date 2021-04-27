@@ -1,3 +1,4 @@
+[9b2a76ef] 2021-04-28 04:13:04 +1000 dmex : partial revert 6f0846cf (fix vectors icons)
 [a8bb1938] 2021-04-28 01:08:40 +1000 dmex : Fix critical and pendingirp thread sorting
 [5112a29e] 2021-04-28 00:59:44 +1000 dmex : Add thread PendingIrp sorting
 [de6938b2] 2021-04-28 00:57:04 +1000 dmex : Add 'Pending IRP' column to threads tab
