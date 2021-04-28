@@ -35,3 +35,10 @@ Systray - Computer contents menu
 
 o  - Force reboot
 c  - Force shut down
+
+Not trivial hotkeys:
+
+Ctrl-Tab then Ctrl-Shift-Tab - return to Process window in to process search
+                               field
+Ctrl-Tab - go to next tab
+Ctrl-Shift-Tab - go to prev tab

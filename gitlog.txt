@@ -1,3 +1,5 @@
+[c87187a3] 2021-04-28 15:15:51 +1000 dmex : Add IUM to process protection label, Add missing copyright
+[abcf358a] 2021-04-28 14:02:26 +1000 dmex : Improve initialization, Fix icon caching for high DPI
 [9b2a76ef] 2021-04-28 04:13:04 +1000 dmex : partial revert 6f0846cf (fix vectors icons)
 [a8bb1938] 2021-04-28 01:08:40 +1000 dmex : Fix critical and pendingirp thread sorting
 [5112a29e] 2021-04-28 00:59:44 +1000 dmex : Add thread PendingIrp sorting
