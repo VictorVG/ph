@@ -1,3 +1,7 @@
+[000a748b] 2021-05-02 21:24:25 +1000 dmex : Fix Win7 regression from commit a15d31e3
+[5211029a] 2021-05-02 20:48:46 +1000 dmex : Improve network connection enumeration, Add experimental InternalGetTcpTableX support
+[a88060e6] 2021-05-02 20:46:40 +1000 dmex : Add RtlGetFileMUIPath
+[a15d31e3] 2021-05-02 20:45:56 +1000 dmex : Update DelayLoadDLLs
 [c28efff6] 2021-04-29 22:18:38 +1000 dmex : BuildTools: Add Build Id, Update to .NET 5.0.5
 [5d8db768] 2021-04-29 22:00:35 +1000 dmex : NetworkTools: Fix whois memory leak, Fix whois result conversion to UTF16
 [5ede20c9] 2021-04-28 16:01:00 +1000 dmex : peview: Add MUI and MUN to supported PE formats
