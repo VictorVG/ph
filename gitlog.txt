@@ -1,3 +1,16 @@
+[4ed9c717] 2021-05-09 17:54:48 +1000 dmex : Fix startup delay after settings restart
+[fc4ef889] 2021-05-09 16:40:34 +1000 dmex : Fix startup delay when using show details menu
+[3203fd09] 2021-05-09 16:03:35 +1000 dmex : NetworkTools: Update reverse lookup domain, Fix whois menu for LAN addresses
+[f29291a9] 2021-05-09 15:23:15 +1000 dmex : Add power throttling column #888
+[23469809] 2021-05-09 15:07:25 +1000 dmex : Enable vectorized CRT support for string routines in release builds
+[7b85b40c] 2021-05-09 06:21:29 +1000 dmex : Remove warning when disabling Eco mode #888
+[c11ce1f1] 2021-05-09 06:19:40 +1000 dmex : Add 'Eco mode' option to process->miscellaneous menu #888
+[e55d6d75] 2021-05-09 03:46:05 +1000 dmex : Fix PhUiSetEcoModeProcess error check typo
+[ccdd24ec] 2021-05-09 03:44:17 +1000 dmex : Add PhUiSetEcoModeProcess #888
+[8becec5b] 2021-05-09 03:03:15 +1000 dmex : Partial revert commit c765bded (Remove legacy notifico.c code)
+[1aa31481] 2021-05-09 02:55:59 +1000 dmex : Update enum filename
+[00d29b83] 2021-05-09 02:54:36 +1000 dmex : Add window resize to GDI Handles window
+[d5f31024] 2021-05-09 02:52:00 +1000 dmex : Update ntexapi.h
 [da2b0b1f] 2021-05-08 23:14:12 +1000 dmex : Add PhGetProcessPowerThrottlingState/PhSetProcessPowerThrottlingState #888
 [81ecfba5] 2021-05-08 22:24:39 +1000 dmex : Fix typo
 [6eb12785] 2021-05-08 21:48:16 +1000 dmex : NetworkTools: Fix parsing legacy classful addresses
