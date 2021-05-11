@@ -1,3 +1,13 @@
+[048f7b58] 2021-05-11 21:55:08 +1000 dmex : peview: Fix Microsoft reparse tag check
+[fa6c6045] 2021-05-11 21:54:03 +1000 dmex : Increase commandline temp buffer, Remove unused loader entry ImageNtHeader
+[319df0b8] 2021-05-11 21:52:05 +1000 dmex : Fix duplicate dark theme context, Fix dark theme menu font
+[e94c9a95] 2021-05-11 21:49:33 +1000 dmex : Add QoS for pipes
+[b2774b04] 2021-05-11 21:40:45 +1000 dmex : Register application for restart, Update ProcessShutdownParameters for Win10
+[dba2f7ab] 2021-05-11 21:34:14 +1000 dmex : ToolStatus: Improve statusbar text length performance
+[9c716a63] 2021-05-11 21:25:21 +1000 dmex : Add correct SAL annotation
+[cb2fe6c6] 2021-05-11 21:24:39 +1000 dmex : Ignore MUI for UNC paths and use correct SAL annotation
+[c7196c4a] 2021-05-11 21:15:47 +1000 dmex : PHNT: Fix region and section constant redefinition errors and remove kmode ifdefs
+[bd4aeac9] 2021-05-11 20:31:26 +1000 dmex : PHNT: Merge section flags, Add some type comments
 [c5b2900b] 2021-05-11 16:57:51 +1000 dmex : WindowExplorer: Add EnableWindowIcons setting for showing window icons
 [4ed9c717] 2021-05-09 17:54:48 +1000 dmex : Fix startup delay after settings restart
 [fc4ef889] 2021-05-09 16:40:34 +1000 dmex : Fix startup delay when using show details menu
