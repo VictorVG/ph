@@ -1,3 +1,13 @@
+[1a37c73f] 2021-05-14 00:37:43 +1000 dmex : ToolStatus: Improve process/service search performance
+[4bc02db1] 2021-05-14 00:33:38 +1000 dmex : Add extra service values for plugins
+[cc020873] 2021-05-13 17:58:26 +1000 dmex : peview: Fix import RVA (thanks to @Mattiwatti)
+[e75ff069] 2021-05-13 06:53:47 +1000 dmex : peview: Update imports tab layout, Add import RVA, Add imports search, Improve imports performance
+[46b6c389] 2021-05-13 06:40:43 +1000 dmex : peview: Tidy up export tab code
+[459d4f31] 2021-05-12 21:10:29 +1000 dmex : Add BaseReadAppCompatDataForProcess (unused)
+[0c840377] 2021-05-12 03:00:39 +1000 dmex : peview: Improve export string formatting
+[b7a04810] 2021-05-12 02:11:21 +1000 dmex : peview: Add optimization for searching unnamed exports
+[b4a6c703] 2021-05-12 01:19:18 +1000 dmex : peview: Fix 32bit build warning from previous commit
+[18bfc6d0] 2021-05-12 00:47:37 +1000 dmex : peview: Update exports tab layout, Add exports search, Improve exports performance
 [048f7b58] 2021-05-11 21:55:08 +1000 dmex : peview: Fix Microsoft reparse tag check
 [fa6c6045] 2021-05-11 21:54:03 +1000 dmex : Increase commandline temp buffer, Remove unused loader entry ImageNtHeader
 [319df0b8] 2021-05-11 21:52:05 +1000 dmex : Fix duplicate dark theme context, Fix dark theme menu font
