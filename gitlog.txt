@@ -1,3 +1,8 @@
+[b5ca36f7] 2021-05-16 20:33:39 +1000 dmex : Add PhDisableImpersonateNamedPipe
+[0f46a392] 2021-05-16 20:31:57 +1000 dmex : Update PhGetJsonArrayString flags
+[5d362912] 2021-05-16 20:29:45 +1000 dmex : Remove comment
+[86c86f2e] 2021-05-16 20:29:17 +1000 dmex : Fix CFG typo
+[a8942fa9] 2021-05-16 20:26:54 +1000 dmex : Add workaround for WinHttpQueryHeaders buffer length
 [c92ea99a] 2021-05-15 23:42:46 +1000 dmex : peview: Add Impfuzzy to hashes tab, Fix incorrect Imphash for some images
 [b55f8f24] 2021-05-15 18:44:12 +1000 dmex : Update ntpsapi.h
 [1a37c73f] 2021-05-14 00:37:43 +1000 dmex : ToolStatus: Improve process/service search performance
