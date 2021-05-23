@@ -1,3 +1,4 @@
+[cde613f8] 2021-05-24 05:00:17 +1000 TheEragon : Update SYSTEM_SHADOW_STACK_INFORMATION definition (#897)
 [d6e5d36d] 2021-05-23 20:02:08 +1000 dmex : Add PhFindLoaderEntryNameHash
 [af86ff03] 2021-05-23 19:57:21 +1000 dmex : peview: Fix 32bit build warning
 [179474a5] 2021-05-23 19:40:03 +1000 dmex : peview: Improve Rich and Overlay information, Fix column header typo
