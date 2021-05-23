@@ -1,3 +1,12 @@
+[d6e5d36d] 2021-05-23 20:02:08 +1000 dmex : Add PhFindLoaderEntryNameHash
+[af86ff03] 2021-05-23 19:57:21 +1000 dmex : peview: Fix 32bit build warning
+[179474a5] 2021-05-23 19:40:03 +1000 dmex : peview: Improve Rich and Overlay information, Fix column header typo
+[5ede3874] 2021-05-23 19:38:45 +1000 dmex : Fix PhGetMappedImageProdIdExtents padding length
+[53cfc11f] 2021-05-23 13:32:08 +1000 dmex : peview: Add overlay data to Headers tab
+[c758ab4d] 2021-05-23 13:24:21 +1000 dmex : peview: Remember previous window states
+[eec6ce89] 2021-05-23 11:16:33 +1000 dmex : peview: Fix resources tab column typo
+[de119687] 2021-05-23 11:15:32 +1000 dmex : BuildTools: Update to .NET 5.0.6
+[64030386] 2021-05-23 11:12:06 +1000 dmex : Add PhCsForceNoParent and AlwaysOnTop for about window #200
 [1d8e611d] 2021-05-23 03:00:22 +1000 dmex : peview: Add new Headers tab, Improve pdb symbols sorting
 [acb8fe92] 2021-05-23 02:29:26 +1000 dmex : Add PhGetMappedImageProdIdExtents
 [ed9d1bf4] 2021-05-21 11:57:06 +1000 dmex : peview: Add missing icon to new UI
