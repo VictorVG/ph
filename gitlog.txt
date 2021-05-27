@@ -1,3 +1,7 @@
+[af171876] 2021-05-27 22:24:37 +1000 dmex : Changes for kernel CET information #903
+[aa0c066e] 2021-05-27 22:08:13 +1000 dmex : Changes for kernel CET information #903
+[6cf7287d] 2021-05-27 21:11:49 +1000 TheEragon : Add support for kernel CET (#903)
+[1aa402b6] 2021-05-27 09:27:05 +1000 Johnny Shaw : Fix for KnownDLL extents lookup on 21H2 (#902)
 [88301735] 2021-05-26 00:20:07 +1000 dmex : Fix window positioning for disconnected monitors #871
 [13d061f8] 2021-05-26 00:13:50 +1000 dmex : peview: Fix sorting directories by RVA, Fix missing ProdId tab for native CLR images
 [7bde8248] 2021-05-26 00:12:03 +1000 dmex : Update ntpsapi.h
