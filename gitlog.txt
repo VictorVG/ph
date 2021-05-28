@@ -1,3 +1,14 @@
+[8e34b89b] 2021-05-29 03:17:18 +1000 dmex : Update resource.h
+[24d226b7] 2021-05-29 03:10:35 +1000 dmex : Add new last system call/last status code thread columns
+[7e31dfff] 2021-05-29 01:49:09 +1000 dmex : Update shutdown menu, Add new Reboot to advanced/firmware options
+[6c7e1ad3] 2021-05-29 01:32:54 +1000 dmex : Update ntmmapi.h
+[2878c8a4] 2021-05-29 01:32:17 +1000 dmex : Fix copypasta name
+[fd32a4a9] 2021-05-29 01:26:37 +1000 dmex : Fix missing status text when loading symbols
+[3ed54493] 2021-05-29 01:25:38 +1000 dmex : peview: Remove unused cast
+[b359dc52] 2021-05-29 01:24:41 +1000 dmex : Add PhIsFirmwareSupported, PhGetThreadLastStatusValue
+[d6eca70f] 2021-05-28 21:32:40 +1000 dmex : Fix SysWow64 path conversion (64bit drivers loaded from SysWOW64)
+[b0b03eb9] 2021-05-28 14:09:46 +1000 dmex : Update ntexapi.h
+[4e6ed7cb] 2021-05-28 14:05:51 +1000 dmex : Fix #906
 [af171876] 2021-05-27 22:24:37 +1000 dmex : Changes for kernel CET information #903
 [aa0c066e] 2021-05-27 22:08:13 +1000 dmex : Changes for kernel CET information #903
 [6cf7287d] 2021-05-27 21:11:49 +1000 TheEragon : Add support for kernel CET (#903)
