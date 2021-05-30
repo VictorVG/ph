@@ -1,3 +1,11 @@
+[a72a912d] 2021-05-30 22:48:50 +1000 dmex : Fix last status code for wow64 threads
+[4cb4ebd5] 2021-05-30 19:32:30 +1000 dmex : Fix about window icon background when using dark theme
+[b318d259] 2021-05-30 18:43:38 +1000 dmex : Fix white background for application icons when using dark themes
+[ccce00f5] 2021-05-30 18:40:10 +1000 dmex : Fix last system call for threads showing incorrect names on Win10 insider builds
+[7b1745cb] 2021-05-30 18:36:13 +1000 dmex : SetupTool: Fix refreshing shortcut icons, Add retry option after an update error
+[092e48d3] 2021-05-30 18:21:41 +1000 dmex : Fix TEB on x86
+[deb0476b] 2021-05-29 18:59:51 +1000 dmex : Update application icon
+[68d3e425] 2021-05-29 13:42:30 +1000 Johnny Shaw : Don't return allocated memory from PhLoadRemoteMappedImageEx (#907)
 [8e34b89b] 2021-05-29 03:17:18 +1000 dmex : Update resource.h
 [24d226b7] 2021-05-29 03:10:35 +1000 dmex : Add new last system call/last status code thread columns
 [7e31dfff] 2021-05-29 01:49:09 +1000 dmex : Update shutdown menu, Add new Reboot to advanced/firmware options
