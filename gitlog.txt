@@ -1,3 +1,9 @@
+[3da6990e] 2021-05-31 09:16:10 +1000 dmex : Add search for last syscall/last error code, Improve last syscall error handling/sorting
+[db9f2fe7] 2021-05-31 06:21:47 +1000 dmex : Update about icon resource id
+[49c1e0e7] 2021-05-31 05:59:57 +1000 dmex : ExtendedTools: Add wddm 3.0 version
+[932f9e07] 2021-05-31 05:58:32 +1000 dmex : Tidy up teb32/wow64 macro
+[7b824cd6] 2021-05-31 05:56:17 +1000 dmex : Update ntd3dkmt.h
+[ee8da5c0] 2021-05-31 05:54:34 +1000 dmex : Update ntwow64.h
 [a72a912d] 2021-05-30 22:48:50 +1000 dmex : Fix last status code for wow64 threads
 [4cb4ebd5] 2021-05-30 19:32:30 +1000 dmex : Fix about window icon background when using dark theme
 [b318d259] 2021-05-30 18:43:38 +1000 dmex : Fix white background for application icons when using dark themes
