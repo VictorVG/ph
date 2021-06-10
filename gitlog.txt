@@ -1,3 +1,4 @@
+[568e4271] 2021-06-10 06:29:22 +1000 Justin Gottula : Fix a thread handle leak in the Threads context menu (#914)
 [784effe3] 2021-06-07 07:14:26 +1000 dmex : Add missing idle process check to PhWalkThreadStack
 [29e23781] 2021-06-07 03:25:48 +1000 dmex : Fix threads tab showing incorrect info the system idle process
 [39aec443] 2021-06-07 03:08:19 +1000 dmex : Plugins: Disable menus for the idle process
