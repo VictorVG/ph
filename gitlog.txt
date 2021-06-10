@@ -1,3 +1,11 @@
+[b0cd6465] 2021-06-10 22:42:46 +1000 dmex : Add extra check for thread timeline CreateTime
+[1840826e] 2021-06-10 22:11:35 +1000 dmex : Add fields needed for thread timelines
+[7c7b7a6a] 2021-06-10 22:06:34 +1000 dmex : Add new timeline column to threads tab, Update impersonation column, Fix showing last system call for uninitialized threads
+[e6535f0d] 2021-06-10 22:04:30 +1000 dmex : Update inspect menu default filetypes
+[d656177a] 2021-06-10 21:58:18 +1000 dmex : Fix handle snapshot crash on 21H1
+[2afc3acc] 2021-06-10 21:57:19 +1000 dmex : Fix find handles window font when changing font settings
+[53605af4] 2021-06-10 21:51:58 +1000 dmex : NetworkTools: Improve country code lookup
+[59c3fff8] 2021-06-10 18:56:36 +1000 Justin Gottula : ExtendedTools: Fix a thread handle leak (#913)
 [568e4271] 2021-06-10 06:29:22 +1000 Justin Gottula : Fix a thread handle leak in the Threads context menu (#914)
 [784effe3] 2021-06-07 07:14:26 +1000 dmex : Add missing idle process check to PhWalkThreadStack
 [29e23781] 2021-06-07 03:25:48 +1000 dmex : Fix threads tab showing incorrect info the system idle process
