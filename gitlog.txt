@@ -1,3 +1,4 @@
+[368989f2] 2021-06-18 23:40:45 +1000 YFdyh000 : Don't append the start type for disabled in services list (#918)
 [e2d48caf] 2021-06-11 06:29:51 +1000 dmex : Update ntexapi.h
 [abe7be1a] 2021-06-11 06:28:32 +1000 dmex : Update ntpsapi.h
 [b0cd6465] 2021-06-10 22:42:46 +1000 dmex : Add extra check for thread timeline CreateTime
