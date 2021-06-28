@@ -1,3 +1,31 @@
+[bde01a2c] 2021-06-28 06:41:19 +1000 dmex : peview: Add raw addresses for image directories
+[672a77e7] 2021-06-28 06:40:35 +1000 dmex : Update exited string to ignore wait status exit codes, Fix waiter crash on Win7
+[226e3a95] 2021-06-27 09:53:25 +1000 dmex : Add UTF-8 source-charset and execution-charset, Update thirdparty libraries
+[a01b5d5b] 2021-06-27 04:18:46 +1000 dmex : Update thirdparty libraries
+[d8f0043b] 2021-06-27 04:12:25 +1000 dmex : PHNT: Add extra types and functions
+[af05a750] 2021-06-27 04:09:03 +1000 dmex : Fix restarting immersive notepad processes
+[01ba1d2d] 2021-06-27 04:02:30 +1000 dmex : Add PH v1.x exit status to window title #911
+[ca6a3bca] 2021-06-27 03:37:18 +1000 dmex : Update DelayLoadDLLs and maxversiontested
+[add7894a] 2021-06-27 03:16:39 +1000 dmex : Update resprp.c
+[c7caa265] 2021-06-27 03:16:18 +1000 dmex : peview: Add section alignment characteristics
+[aac9755b] 2021-06-27 03:15:42 +1000 dmex : peview: Fix incorrect addresses/hashes for security directory
+[a77260f1] 2021-06-27 03:07:59 +1000 dmex : Improve syscall sorting reliability
+[86901a0f] 2021-06-27 03:03:54 +1000 dmex : Update runas.c
+[7cf7d80b] 2021-06-27 03:03:43 +1000 dmex : Update capslist.txt
+[45922a82] 2021-06-27 03:01:20 +1000 dmex : Fix process properties general tab memory leak
+[606f47d5] 2021-06-27 03:00:33 +1000 dmex : Add delayloaded tray icon thread, Fix static icon not showing up immediately in some cases #919
+[9b18fe34] 2021-06-27 02:59:00 +1000 dmex : Disable the process restart menu for service host processes
+[cbc302ee] 2021-06-27 02:57:21 +1000 dmex : ToolStatus: Fix rare statusbar update crash
+[5632a039] 2021-06-27 02:56:38 +1000 dmex : OnlineChecks: Move VirusTotal to last menu position
+[2ac3fb48] 2021-06-27 02:55:13 +1000 dmex : NetworkTools: Fix tracert continuing when routes become unavailable, Fix tracert ignoring the user DoH resolver for hostnames
+[68e1afa4] 2021-06-27 02:50:41 +1000 dmex : ExtendedTools: Fix error handling for gpu device properties
+[0ea21e7d] 2021-06-27 02:49:11 +1000 dmex : Add primary token check for PhImpersonateToken
+[bdf8f84d] 2021-06-27 02:47:50 +1000 dmex : Readd windows_ancient from commit 8cdd6d81721e240458d15d2918200ab894735563
+[1afba779] 2021-06-27 02:45:15 +1000 dmex : Remove unused thread handle, Fix NtDelayExecution returning access_denied when called from alterable threads
+[103da944] 2021-06-27 02:43:22 +1000 dmex : Add PhIsTokenFullTrustAppPackage
+[67701a8f] 2021-06-27 02:43:07 +1000 dmex : Fix GetAppIdForProcess memory leak
+[55021407] 2021-06-27 02:41:21 +1000 dmex : Create build_thirdparty.cmd
+[403646ac] 2021-06-26 20:41:13 +1000 Biswapriyo Nath : phnt: Add structure definition for SystemSupportedProcessorArchitectures (#922)
 [368989f2] 2021-06-18 23:40:45 +1000 YFdyh000 : Don't append the start type for disabled in services list (#918)
 [e2d48caf] 2021-06-11 06:29:51 +1000 dmex : Update ntexapi.h
 [abe7be1a] 2021-06-11 06:28:32 +1000 dmex : Update ntpsapi.h
