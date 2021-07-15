@@ -1,3 +1,19 @@
+[32e1614b] 2021-07-15 21:17:25 +1000 dmex : Fix Shutdown->Restart to Firmware option failing to create OsIndications
+[5a767278] 2021-07-15 19:37:10 +1000 dmex : ToolStatus: Add working set for selected processes #857
+[0722dfce] 2021-07-15 19:35:49 +1000 dmex : peview: Fix directory raw pseudo address
+[c4ddea2d] 2021-07-15 19:34:52 +1000 dmex : Update capslist.txt
+[55ae1ad0] 2021-07-15 19:34:49 +1000 dmex : Update prpghndl.c
+[41371a60] 2021-07-15 19:34:32 +1000 dmex : Remove restart manager support (3rd party DoS issue) #792 #453
+[b913f086] 2021-07-15 19:30:35 +1000 dmex : Update ntldr.h
+[6352e525] 2021-07-15 19:30:32 +1000 dmex : Remove duplicate defines
+[4590accf] 2021-07-15 19:29:19 +1000 dmex : Add missing define
+[158bfd3e] 2021-07-15 19:28:59 +1000 dmex : Add missing copyright notice
+[d17844fa] 2021-07-15 19:28:37 +1000 dmex : Fix missing appcontainer names for some service processes
+[4bdcb52c] 2021-07-01 17:22:10 +1000 dmex : Fix Shutdown->Restart to Firmware option failing in nightly builds for users without environment privileges
+[e4550e05] 2021-07-01 17:18:17 +1000 dmex : Add PhAdjustPrivilege
+[1b036dcd] 2021-07-01 16:48:04 +1000 dmex : Update capslist.txt
+[8fb74c6f] 2021-07-01 16:40:22 +1000 dmex : Update ntrtl.h
+[6b26b726] 2021-07-01 16:40:19 +1000 dmex : Update ntobapi.h
 [2d7017cd] 2021-06-30 07:54:38 +1000 diversenok : Update phnt (#925)
 [bde01a2c] 2021-06-28 06:41:19 +1000 dmex : peview: Add raw addresses for image directories
 [672a77e7] 2021-06-28 06:40:35 +1000 dmex : Update exited string to ignore wait status exit codes, Fix waiter crash on Win7
