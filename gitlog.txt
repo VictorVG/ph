@@ -1,3 +1,6 @@
+[ad639ef5] 2021-07-25 12:05:10 +1000 dmex : Revert "Update ntpoapi.h"
+[d4b4d9e0] 2021-07-25 08:35:36 +1000 dmex : Add EnableScaleCpuGraph setting, Add CPU graph scaling support #873
+[1cbff538] 2021-07-25 08:30:14 +1000 dmex : Update ntpoapi.h
 [b4942a18] 2021-07-23 21:35:16 +1000 dmex : Update ntpoapi.h
 [8529506a] 2021-07-23 21:33:21 +1000 dmex : Update ntrtl.h
 [73db5f56] 2021-07-23 21:32:16 +1000 dmex : Update enum name
