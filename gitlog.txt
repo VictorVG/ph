@@ -1,3 +1,22 @@
+[7a13c4de] 2021-08-12 04:10:03 +1000 dmex : NetworkTools: Remove unspecified hostnames from tracert workqueue
+[f2aa2500] 2021-08-12 04:08:07 +1000 dmex : HardwareDevices: Update unknown parameters
+[88f196f0] 2021-08-12 03:57:54 +1000 dmex : ExtendedTools: Fix incorrect graph height calculation
+[660c243c] 2021-08-12 02:15:30 +1000 dmex : Fix PhLoadLibraryAsImageResource/PhFreeLibraryAsImageResource using incorrect addresses
+[938d1ad5] 2021-08-12 02:13:17 +1000 dmex : Update Plugins.props
+[366b1730] 2021-08-12 00:16:26 +1000 dmex : Improve PhGetProcessIsDotNetEx performance for .NET Core processes
+[0a2a8131] 2021-08-12 00:14:26 +1000 dmex : Fix treeview settings abstraction regression
+[817bd565] 2021-08-12 00:12:24 +1000 dmex : Update ntbcd.h
+[684800ab] 2021-08-12 00:10:58 +1000 dmex : Update ntd3dkmt.h
+[2abb97e7] 2021-08-12 00:10:44 +1000 dmex : Update ntexapi.h
+[12d0f0c4] 2021-08-12 00:10:27 +1000 dmex : Update ntldr.h
+[87255da0] 2021-08-12 00:10:07 +1000 dmex : Update ntpoapi.h
+[d8e60a44] 2021-08-12 00:09:25 +1000 dmex : Fix SAL annotation for RtlSetDacl/RtlSetSacl
+[18ee886c] 2021-08-12 00:05:20 +1000 dmex : Fix SAL annotation for PhOpenServiceEx
+[816f8af6] 2021-08-11 23:42:10 +1000 dmex : Remove package sid for com policy (unused)
+[371bef0d] 2021-08-11 23:40:53 +1000 dmex : Fix miniinfo window dark theme borders
+[b742b95f] 2021-08-11 23:40:14 +1000 dmex : Remove legacy imagelist import
+[c0d6c16f] 2021-08-11 23:39:40 +1000 dmex : Remove duplicate service notification check
+[69c15aa5] 2021-08-11 23:38:09 +1000 dmex : Fix process properties statistics excluding updates for plugin values
 [f3f6ced1] 2021-07-25 18:38:08 +1000 dmex : Update phnt.h
 [04509d2c] 2021-07-25 18:37:43 +1000 dmex : Update ntbcd.h
 [215b433b] 2021-07-25 18:37:33 +1000 dmex : Build tools: Add bcd header to sdk
