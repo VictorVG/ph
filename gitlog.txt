@@ -1,3 +1,50 @@
+[be582c8f] 2021-08-28 04:24:47 +1000 dmex : DotNetTools: Add .NET Core support, Fix .NET Core thread stack enumeration #943
+[0159e061] 2021-08-28 03:27:35 +1000 dmex : ToolStatus: Improve rebar menu redrawing, Fix rebar position changes when there are multiple menu plugins
+[ed382636] 2021-08-28 03:23:17 +1000 dmex : Enable highlighting process environment groups
+[31e3f03f] 2021-08-28 03:02:21 +1000 dmex : Plugins: Update json typedefs and imports
+[d3336d41] 2021-08-28 02:50:04 +1000 dmex : Update json typedefs and exports, Improve json performance
+[42c5d0c2] 2021-08-26 01:43:26 +1000 dmex : Fix refreshing process environment error status
+[1e0274f3] 2021-08-25 22:53:14 +1000 dmex : Fix regression searching module addresses from commit de9cf1ee
+[3d5c6dd1] 2021-08-25 22:01:21 +1000 dmex : Fix #961
+[13ad82db] 2021-08-25 20:58:15 +1000 dmex : peview: Add CLR tab for portable PDBs, Add extra repro hashes
+[98dd6c5f] 2021-08-25 20:43:16 +1000 dmex : peview: Add RVA for CLR imports
+[9f54a04d] 2021-08-25 20:30:56 +1000 dmex : Update ntldr.h
+[a4c8f0e2] 2021-08-25 20:12:33 +1000 dmex : Fix options plugin version info
+[055f5907] 2021-08-25 19:41:18 +1000 dmex : ExtendedTools: Add class/scope columns to firewall tab, Fix remote address resolution
+[fc7913ea] 2021-08-25 19:38:14 +1000 dmex : Update appresolverp.h
+[d72257d6] 2021-08-25 19:38:03 +1000 dmex : Add missing copyright
+[6810abd6] 2021-08-25 19:36:47 +1000 dmex : Update ntioapi.h
+[e068524d] 2021-08-24 05:03:42 +1000 dmex : Update settings.c
+[b4338e65] 2021-08-21 20:05:51 +1000 dmex : Update ntldr.h
+[d4931074] 2021-08-21 15:23:00 +1000 dmex : Fix CLR_CORELIB flags
+[3f93db73] 2021-08-21 15:20:16 +1000 dmex : Enable colorbox theme support
+[a6347cc1] 2021-08-21 15:11:19 +1000 dmex : Add missing file from commit ddf63fa4a
+[8c422f50] 2021-08-21 00:23:56 +1000 dmex : Update PhDelayExecution and remove legacy hack
+[156d79d2] 2021-08-21 00:06:51 +1000 dmex : Fix inline stack walking regression
+[33b21bdb] 2021-08-20 22:02:01 +1000 dmex : Add theme support to colorbox control, Add missing copyright
+[ddf63fa4] 2021-08-20 21:30:57 +1000 dmex : Update thread stack window, Add inline frame highlighting, Add line information, Fix memory leak
+[f2fb86a2] 2021-08-20 21:22:36 +1000 dmex : Add symbol provider inline frame support (2/2)
+[614b22ed] 2021-08-20 18:46:27 +1000 dmex : Fix timeout macro codegen
+[5bc880cb] 2021-08-19 18:07:55 +1000 dmex : Fix minidump support on Win10/11, Add symbol provider extended stack support, Add symbol provider inline frame support
+[24f34758] 2021-08-19 17:34:26 +1000 dmex : Remove legacy error dialog for heap information since we now have PLM support
+[0a467392] 2021-08-19 17:30:34 +1000 dmex : Add Windows 8 PLM support for frozen immersive processes
+[6a26e9ca] 2021-08-19 03:18:10 +1000 dmex : Update ntpsapi.h
+[20fd8288] 2021-08-19 02:25:18 +1000 dmex : Fix multiple legacy deadlock issues with frozen immersive processes
+[23860b95] 2021-08-18 22:48:09 +1000 dmex : Fix typo
+[d0d55687] 2021-08-18 22:30:59 +1000 dmex : Add PhCreateExecutionRequiredRequest/PhDestroyExecutionRequiredRequest
+[31e7947f] 2021-08-16 09:16:48 +1000 dmex : Update ntldr.h
+[b6644725] 2021-08-14 20:30:19 +1000 dmex : BuildTools: Update to .NET 5.0.9
+[9a88948b] 2021-08-14 20:13:09 +1000 dmex : Add LsaLookupUserAccountType
+[18bed504] 2021-08-14 08:51:21 +1000 dmex : Add QOL optimization for third party boot applications
+[d4be1406] 2021-08-14 06:50:12 +1000 dmex : Fix start performance monitor and restart to firmware menus on Win7
+[9c45eb90] 2021-08-14 05:04:55 +1000 dmex : Add PhGetProcessPeb
+[4043b052] 2021-08-14 04:28:48 +1000 dmex : Update clrtableimports.cpp
+[7aa61ac6] 2021-08-14 03:56:52 +1000 dmex : peview: Improve alternate CLR metadata interfaces
+[d91f2083] 2021-08-14 00:47:50 +1000 dmex : 22000 SDK duplicate #945
+[8afff310] 2021-08-13 08:40:37 +1000 dmex : Fix crash sorting network connections by timeline
+[04479f7d] 2021-08-13 08:02:22 +1000 dmex : peview: Fix CLR imports window border setting
+[75b931fc] 2021-08-13 07:39:30 +1000 dmex : Add restart to boot firmware application support via the shutdown menu
+[26fbe412] 2021-08-13 07:27:18 +1000 dmex : Rename bcd wrapper helpers
 [e47a93fa] 2021-08-13 06:48:03 +1000 dmex : Add fixlib_bcd\make_bcd_lib script
 [118827a1] 2021-08-12 13:54:22 +1000 dmex : Add BCD wrapper to phlib
 [03dbf33c] 2021-08-12 11:36:35 +1000 dmex : Add 'Start Resource Monitor' to main menu > tools menu
