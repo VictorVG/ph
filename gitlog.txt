@@ -1,3 +1,4 @@
+[5bd220de] 2021-08-28 17:45:06 +1000 Johnny Shaw : Fix bug in imgcoherency that was preventing inline hook detection (#969)
 [be582c8f] 2021-08-28 04:24:47 +1000 dmex : DotNetTools: Add .NET Core support, Fix .NET Core thread stack enumeration #943
 [0159e061] 2021-08-28 03:27:35 +1000 dmex : ToolStatus: Improve rebar menu redrawing, Fix rebar position changes when there are multiple menu plugins
 [ed382636] 2021-08-28 03:23:17 +1000 dmex : Enable highlighting process environment groups
