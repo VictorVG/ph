@@ -1,3 +1,4 @@
+[caf9d83a] 2021-08-29 11:44:21 +1000 dmex : ExtendedTools: Fix gpu dedicated total when using GpuPerformanceCounters
 [e37bb696] 2021-08-29 08:25:53 +1000 dmex : Add missing color typedef
 [0185af50] 2021-08-29 08:23:48 +1000 dmex : Add PLM task support for minidumps (unused)
 [d8e7a5d9] 2021-08-29 06:03:22 +1000 dmex : Update dump type to match taskmgr, Fix dump snapshots accessmask
