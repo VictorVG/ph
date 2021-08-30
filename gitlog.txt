@@ -1,3 +1,8 @@
+[15bdaad9] 2021-08-30 08:09:41 +1000 ge0rdi : Fix ARM64 compilation (#974)
+[65b47031] 2021-08-30 05:36:08 +1000 dmex : Fix arm type #974
+[873a5f86] 2021-08-30 05:33:09 +1000 dmex : PHNT: Add types
+[553a59b3] 2021-08-30 05:32:42 +1000 dmex : Update ntbcd.h
+[61c5affe] 2021-08-30 02:14:28 +1000 Johnny Shaw : Add arch to process tree (#972)
 [caf9d83a] 2021-08-29 11:44:21 +1000 dmex : ExtendedTools: Fix gpu dedicated total when using GpuPerformanceCounters
 [e37bb696] 2021-08-29 08:25:53 +1000 dmex : Add missing color typedef
 [0185af50] 2021-08-29 08:23:48 +1000 dmex : Add PLM task support for minidumps (unused)
