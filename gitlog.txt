@@ -1,3 +1,7 @@
+[cc83987f] 2021-09-03 23:42:42 +1000 dmex : ExtendedTools: Fix extended firewall columns being visible by default
+[c7c16d18] 2021-09-03 23:30:53 +1000 dmex : peview: Add highlighting for image sections
+[3ae02dca] 2021-09-03 14:45:41 +1000 dmex : ToolStatus: Third attempt at reworking toolbar regression #980
+[d3c910e8] 2021-09-03 13:42:14 +1000 dmex : DotNetTools: Fix assembly sort regression
 [bc2f89c4] 2021-09-02 13:46:12 +1000 Biswapriyo Nath : Fix ARMv7 process detection (#985)
 [0b3ad1ea] 2021-09-02 13:38:53 +1000 Johnny Shaw : Fix ifdef for sys arch info (#986)
 [2f218206] 2021-09-02 13:03:30 +1000 dmex : Update service properties string types
