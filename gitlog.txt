@@ -1,3 +1,6 @@
+[2475c4da] 2021-09-07 18:09:22 +1000 dmex : Improve service last write time lookup
+[965384c0] 2021-09-07 17:21:42 +1000 dmex : Fix regression drawing timelines for modules and threads relative to process creation
+[5968092b] 2021-09-07 16:55:00 +1000 dmex : Add timeline column to services tab
 [a173c0b5] 2021-09-05 17:37:18 +1000 dmex : Update ntrtl.h
 [cc83987f] 2021-09-03 23:42:42 +1000 dmex : ExtendedTools: Fix extended firewall columns being visible by default
 [c7c16d18] 2021-09-03 23:30:53 +1000 dmex : peview: Add highlighting for image sections
