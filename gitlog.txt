@@ -1,3 +1,13 @@
+[263f33c1] 2021-09-13 15:25:41 +1000 dmex : Fix thirdparty release builds
+[32d8ee70] 2021-09-13 14:41:44 +1000 dmex : Update thirdparty libs
+[7955e67f] 2021-09-13 14:37:29 +1000 dmex : Enable alerts when KPH blocked by third parties
+[4a247ea0] 2021-09-13 07:41:43 +1000 dmex : NetworkTools: Update includes
+[f7ee7d8e] 2021-09-13 07:39:26 +1000 dmex : Move miniz from CustomSetupTool project into thirdparty library
+[8b080417] 2021-09-13 03:57:44 +1000 dmex : Move maxminddb from NetworkTools project into thirdparty library and update to v1.6.0
+[d53d8e49] 2021-09-13 03:30:34 +1000 dmex : Move gzip from NetworkTools project into thirdparty library
+[5d20f943] 2021-09-13 03:25:43 +1000 dmex : Add thirdparty.lib to plugin solutions
+[6f398a77] 2021-09-13 00:00:00 +1000 dmex : peview: update include paths
+[d56911e6] 2021-09-12 23:24:21 +1000 dmex : Move TLSH and SSDEEEP from peview project into thirdparty library
 [4d0ad453] 2021-09-12 02:57:33 +1000 dmex : Add RtlInitUTF8String/RtlFreeUTF8String, Update SAL types
 [e0514a16] 2021-09-12 02:48:10 +1000 dmex : Improve service search/list performance 83497f106 (Fixes #989)
 [9e1771a9] 2021-09-10 15:38:56 +1000 dmex : Update ntrtl.h
