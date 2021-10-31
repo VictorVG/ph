@@ -1,3 +1,9 @@
+[b8c78502] 2021-10-31 22:34:57 +1100 dmex : Fix dark theme menubar accelerators and text alignment
+[0b58ec77] 2021-10-31 22:30:46 +1100 dmex : Fix dark theme menubar
+[9c8192e5] 2021-10-31 21:28:27 +1100 dmex : Update ProcessHacker.def
+[f75543f5] 2021-10-31 21:27:35 +1100 dmex : Add PhHttpSocketClose
+[47619372] 2021-10-31 21:20:12 +1100 dmex : Update ProcessHacker.def
+[97c6540f] 2021-10-31 21:05:41 +1100 dmex : Sync many performance improves, latest changes and bug fixes (#1021)
 [392fef22] 2021-10-17 21:43:35 +1100 diversenok : Add definitions for boundary descriptors (#1004)
 [76d00575] 2021-09-15 03:02:53 +1000 dmex : Fix dark theme menu background color
 [f34f0334] 2021-09-14 00:23:49 +1000 dmex : Thirdparty: Update miniz to v2.2.0
