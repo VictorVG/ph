@@ -1,3 +1,12 @@
+[68057a60] 2021-11-08 01:34:34 +1100 dmex : Fix searchbox window borders on Win11
+[1854250d] 2021-11-08 01:33:14 +1100 dmex : Update mainwnd.c
+[be62f300] 2021-11-07 03:06:40 +1100 dmex : Update resource.h
+[03ae70eb] 2021-11-07 03:06:20 +1100 dmex : Add update/reboot and update/shutdown menu options
+[d0580e7a] 2021-11-07 01:07:24 +1100 Kai : Update readme links to https (#1026)
+[2002f22e] 2021-11-05 13:00:37 +1100 dmex : NetworkTools: Fix whois text padding
+[56f81a39] 2021-11-05 12:59:00 +1100 dmex : HardwareDevices: Fix RAPL graph tooltip showing incorrect values
+[199ede86] 2021-11-05 12:58:13 +1100 dmex : Fix Win7 regression querying dos device prefixes
+[a7c50cbf] 2021-11-05 12:57:07 +1100 dmex : ToolStatus: Fix searching network tab processnode information
 [4187c48f] 2021-11-01 07:01:53 +1100 dmex : DotNetTools: Fix trace handle leak
 [09ffb495] 2021-11-01 03:30:23 +1100 dmex : Fix delayload support for Windows 7, Fix CRT throwing exceptions when delayloads not found, Fix crash on Windows 7
 [b8c78502] 2021-10-31 22:34:57 +1100 dmex : Fix dark theme menubar accelerators and text alignment
